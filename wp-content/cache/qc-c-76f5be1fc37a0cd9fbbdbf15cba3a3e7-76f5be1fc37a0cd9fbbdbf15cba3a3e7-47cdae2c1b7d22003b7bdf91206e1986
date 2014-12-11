@@ -1,0 +1,144 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:54:43 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; Relationships</title>
+	<atom:link href="http://facio.com/blog/tag/relationships/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Finding yourself</title>
+		<link>http://facio.com/blog/2013/06/finding-yourself/</link>
+		<comments>http://facio.com/blog/2013/06/finding-yourself/#comments</comments>
+		<pubDate>Tue, 18 Jun 2013 12:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[profession]]></category>
+		<category><![CDATA[Relationships]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1082</guid>
+		<description><![CDATA[<p>Finding yourself Have you ever heard the axiom that waiting until you are 25 to get married gives you the greatest chance of happiness and success in that marriage? Like most axioms, it does not account for many other contextual &#8230; <a href="http://facio.com/blog/2013/06/finding-yourself/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/06/finding-yourself/">Finding yourself</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Finding yourself" src="http://facio.com/wp-content/uploads/2013/07/Open-Road.jpg" alt="Finding yourself" /><br />
+<figcaption>Finding yourself</figcaption>
+</figure>
+<p>Have you ever heard the axiom that waiting until you are 25 to get married gives you the greatest chance of happiness and success in that marriage? Like most axioms, it does not account for many other contextual things, not the least of which that each of us are unique. But 25 is a consistent number when it comes to identifying the right time to get married. From the politically conservative Focus on the Family organization (recommends 22-25) to the quantitatively driven Gallup research organization (recommending 25-27 as the best ages), to the cheeky and decidedly un-scientific Cosmo (25), that ol&#8217; 25 number keeps showing up. And, with good reason: 25 is a typical age where many of us have started getting much closer to finding ourselves. We&#8217;ve gone to college, likely left home, and have entered the workforce. We&#8217;ve experienced life as an adult and &#8211; in most cases &#8211; had one or more jobs, one or more lovers and one or more domiciles of our own. We&#8217;ve experimented with the world a bit and figured out, on our own two feet, some degree of what works for us, what does not, and how we fit into the whole thing. This process, which gives us clarity and stability around who we are, strongly positions us to choose a good partner and forge a relationship that is worthwhile. Often without intending to do so, we&#8217;ve really started understanding ourselves.</p>
+<p>This notion of &#8220;finding yourself&#8221; is every bit as important in our careers. The best jobs are those where there is alignment between the company, the people around you, the roles the job will require of you, and what you enjoy and succeed at doing. The less aligned any of these things are, the more likely we will be unhappy, ineffective, and/or not stay very long &#8211; a classic lose-lose scenario.</p>
+<p>It took me a long time to find myself professionally. At first, I did not take my professional life at all seriously, sleepwalking thru my BA and MA before financial pressures forced me to leave the academic path and start making more money. I am naturally energetic and eager-to-please, so for a time whenever an opportunity that seemed interesting came up I was excited to just jump right in. The good news, during this period, is I learned a lot. The bad news is I kept picking things that were not good fits, leading to the thrill of learning and success quickly turning to the frustration of not enjoying what I was doing. For me, it was also complicated by ego and wanting to be &#8220;the best&#8221; in some completely generic and generally unfocused way. These were necessary steps toward my gaining real understanding.</p>
+<p>After repeating this pattern with employers it only continued when I started out as an entrepreneur. I just sort of continued on the paths that were already before me, striving forward without really stepping back and evaluating what I wanted to and really should be doing. In my case, I was actually in my late 30&#8242;s before I had a clear picture of not just what I was or was not good at, but what I really enjoyed and did not enjoy doing. That clarity &#8211; fairly recent, still &#8211; has enabled me to evolve toward a professional life that gets the most out of me while proving fulfilling in personal and professional ways. It is a path that now allows contentment and happiness to join with the previous success and effectiveness I&#8217;ve long enjoyed. It is a far better place for someone to be.</p>
+<p>My situation is just one example, but finding ourselves professionally allows us to feel the most rewarded and have our overall life positively impacted by what we do even while contributing more and better for the organizations that employ us.</p>
+<p>&nbsp;</p>
+<p>The post <a href="http://facio.com/blog/2013/06/finding-yourself/">Finding yourself</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/06/finding-yourself/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understand the annoyer, don’t dismiss them</title>
+		<link>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/</link>
+		<comments>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/#comments</comments>
+		<pubDate>Tue, 15 Jan 2013 17:35:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=843</guid>
+		<description><![CDATA[<p>We may not get along, but that doesn&#8217;t mean the other person is broken. Most of us assign moral failing to others who are different than us. The networker who flits their way around the social event is “superficial”. The &#8230; <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Understand the annoyer, don’t dismiss them</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Understand the Annoyer" src="http://facio.com/wp-content/uploads/2013/01/UnderstandTheAnnoyer-e1359499277150.jpg" alt="Phone" /></p>
+<figcaption>We may not get along, but that doesn&#8217;t mean the other person is broken.</figcaption>
+</figure>
+<p>Most of us assign moral failing to others who are different than us. The networker who flits their way around the social event is “superficial”. The quiet person who stays in the corner and doesn’t have much to say is “boring”. The loud person performing for a group not sensitive to the noise and space needs of people around them is “obnoxious”. The intellectual who has a critical word for seemingly everything is “arrogant”.</p>
+<p>Diminishing others with such language and framing is a huge mistake that we almost universally make. We attribute to their <em>character</em> what are actually facets of their <em>inherent personality</em>. Sure, it is much easier to translate the discomfort they make us feel into some failing on their part. However, most of the time, it is not a failing by either party and instead an incompatibility between them. Indeed, each of us know other people who we “can’t stand”, yet sure enough they have friends, family, people who like and trust them. The problem isn’t them, it is the intersection between who we are, and who they are.</p>
+<p>This stretches beyond personality as well. Sometimes the issue is one of territory. There can only be one CEO, so people who otherwise would get along begin seeing one another negatively because their ambitions are contradictory. Other times the issue is one of time: I am in a hurry and the other person is not. This creates conflict as we try to accomplish different things in different ways. Most of the time, in all of these cases, we turn that friction between us into a judgement of the other person. We objectify and diminish them, rather than saving blame and viewing the situation more objectively. After all, when someone blocks us or makes us feel uncomfortable, it is easier and more cathartic to say “What an a-hole!” instead of, “Ah, he’s just an extraverted intuitive.”</p>
+<p>To improve your mental health and capacity for bringing goodness to the world, be aware of these judgement that you make as you go thru life. Turn the aspersions toward the other person into a recognition that you just aren’t lining up with each other. That might make you uncomfortable, but it surely does not make them bad.</p>
+<p>The post <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Understand the annoyer, don’t dismiss them</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Maneuver and dance</title>
+		<link>http://facio.com/blog/2012/12/maneuver-and-dance/</link>
+		<comments>http://facio.com/blog/2012/12/maneuver-and-dance/#comments</comments>
+		<pubDate>Tue, 11 Dec 2012 17:32:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[Relationships]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=838</guid>
+		<description><![CDATA[<p>I recently read a story about maligned Detroit Lions football player Ndamukong Suh. After an ugly incident where he stomped on another player, Suh has subsequently been attached to other unflattering stories, including a road rage incident and – maybe &#8230; <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Maneuver and dance</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>I recently read a story about maligned Detroit Lions football player Ndamukong Suh. After an ugly incident where he stomped on another player, Suh has subsequently been attached to other unflattering stories, including a road rage incident and – maybe accidentally, maybe intentionally – kicking an opposing player in the groin. He is derided as the “most hated” player in the National Football League by his fellow players.</p>
+<p>Now, I do not have enough information about Suh to comment on whether he is misunderstood or really deserving of the ire. However, in reading a thoughtful article that made the case he is, in fact, misunderstood there was an inadvertent focus on his being introverted. Many introverted people express feeling misunderstood, and Suh is no exception. He said:</p>
+<p><em>“There’s no question that statement from my mom is accurate. If I want to share something with you, I’ll share it with you, but don’t try to pull anything out of me because that’s when you’ll get the opposite effect. I don’t openly rebel. I quietly rebel. My mom is one of the few people who knows how to maneuver around my personality to get the answers she wants. But for everyone else, that’s just the way I am. You’re gonna have to either take it or leave it.” </em></p>
+<p>I like how he used the word “maneuver” here. The essence of getting along well with other people is understanding them well enough to know how you should move and around them. It is like dancing except – whereas in dancing you have very specific and generally objective steps – interacting smoothly with others is closer to black magic. The reason is we just don’t know each other well enough.</p>
+<p>&nbsp;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Maneuver and Dance" src="http://facio.com/wp-content/uploads/2013/01/Maneuver-and-dance2.jpg" alt="Phone" /><br />
+<figcaption>Gracefully moving with and around one another is essential to strong relationships.</figcaption>
+</figure>
+<p>Suh’s mother maneuvers around him successfully because she knows him as well as anyone. She watched him grow up, perhaps seeing the same things in herself, or Suh’s father, and leverages her knowledge to co-exist with him better. However, when Suh gets in other situations with people who don’t know him as well, the opportunity for misunderstanding, discomfort and disconnection becomes ripe. While his being a complicated person might exacerbate the issue, we routinely misunderstand and dance clumsily with each other every day.</p>
+<p>&nbsp;</p>
+<p>Few things feel as good or are rewarding as knowing people well enough that we dance seamlessly with them during our time together. The challenge is, getting there typically requires a good deal of time together, along with vulnerability and trust. These things are not easy individually, much less altogether. It is why we ultimately resonate with so few people, and our lives are ostensibly laced with suboptimal relationships and moments. At Facio, our core mission is helping people understand each other. The things we are building and doing are designed specifically with that in mind. We want people to understand each other, to dance gracefully with each other, and maneuvering around our essential selves in nimble and considerate ways.</p>
+<p>The post <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Maneuver and dance</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/12/maneuver-and-dance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/relationships/feed/ ) in 0.38452 seconds, on Dec 5th, 2014 at 9:54 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:54 am UTC -->

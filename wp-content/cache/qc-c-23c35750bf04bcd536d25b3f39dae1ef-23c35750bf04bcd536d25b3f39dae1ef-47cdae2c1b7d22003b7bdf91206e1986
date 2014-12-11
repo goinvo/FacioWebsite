@@ -1,0 +1,50 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:57:00 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; feeling</title>
+	<atom:link href="http://facio.com/blog/tag/feeling/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>On Thinking and Feeling</title>
+		<link>http://facio.com/blog/2012/07/on-thinking-and-feeling/</link>
+		<comments>http://facio.com/blog/2012/07/on-thinking-and-feeling/#comments</comments>
+		<pubDate>Tue, 17 Jul 2012 12:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Myers-Briggs]]></category>
+		<category><![CDATA[feeling]]></category>
+		<category><![CDATA[thinking]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=349</guid>
+		<description><![CDATA[<p>One of the most frequently confused parts of Myers-Briggs style personality frameworks†is the distinction between thinking and feeling. I was reminded of this recently when a friend said his wife is convinced he is a thinking T and opposed to &#8230; <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">On Thinking and Feeling</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the most frequently confused parts of Myers-Briggs style personality frameworks†is the distinction between thinking and feeling. I was reminded of this recently when a friend said his wife is convinced he is a thinking T and opposed to a feeling F. While I suspect he is actually an F I really don&#8217;t know: he has not taken the MBTI(R) with me. This is just based on my knowledge of the tool in practice and observational opinions of him. However, his wife&#8217;s insistence that he is a T could very well relate to some of the most common mistakes made when trying to navigate the instrument.</p>
+<p>Importantly, the design of the terms &#8220;Thinking&#8221; and &#8220;Feeling&#8221; creates ambiguity and confusion. Most people (understandably) assume that if someone is smart and deep, that equates to them being a &#8220;thinker&#8221;. Hardly. While there might be T characteristics mixed up in there, it is more likely that someone who is generically identified as smart and deep is an iNtuitive &#8211; N as opposed to a Sensor &#8211; S. iNtuitives are the ones characterized as big picture, strategic thinkers with deep and complex models and understanding. While they may also be T- thinkers they are similarly likely to be F &#8211; feelers. Of course, the confusion is based in the reality that some of the key traits and strengths that often accompany iNtuitives have to do with &#8220;thinking&#8221;. Whereas &#8220;iNtuitive&#8221; is not a common or clearly understood phrase, thinking certainly is. So it is only natural for big thinkers to be thought of as T&#8217;s &#8211; whether they are or not.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-443" title="Plato" src="http://facio.com/wp-content/uploads/2012/07/Plato.png" alt="" width="300" height="405" /><br />
+<figcaption>Was the great Plato a Thinker or a Feeler? The answer might surprise you.</figcaption>
+</figure>
+<p>This begs the question, then: what constitutes a &#8220;Thinker&#8221; versus &#8220;Feeler&#8221;? This aspect of Myers-Briggs style preference frameworks simply relates to how you like to make decisions. When I am working with a client to help validate their type, the question I find most useful in determining whether they are Thinking &#8211; T or Feeling &#8211; F is this:</p>
+<p>&#8220;Imagine you are a group manager in a large company, with great responsibilities relating to the company&#8217;s bottom line and a lot of people under you. Your boss just let you know that the company under-performed terribly last year and you need to cut your budget by 40%. This will impact everything, including key structure and services as well as significant layoffs. When you first begin thinking about the impact of these layoffs, what is the FIRST thing you think about: things related to the impact on the company, the success of your area, and how to solve the problem analytically, or the impact on the people, the changes to individual lives, and how to navigate the human aspects?&#8221;</p>
+<p>From a preferences perspective, people who first think about the analytical and practical aspects are likely Thinking &#8211; T while the people thinking about the human aspects are likely Feeling &#8211; F.</p>
+<p>What is important to emphasize in this example and really any conversation about the T/F dichotomy is that it is not an either/or. Some of the kindest, most thoughtful people are Thinking &#8211; T. They just have a natural comfort with and inclination to jump into the thinking aspects first. And, some of the smartest, best problem solvers are Feeling &#8211; F. They just have a natural comfort with and inclination to first think about the impact things have on people.</p>
+<p>Determining preference is a complex and challenging process. Since it is dealing with our innate set of comforts that we may or may not be in touch with, the most accurate means of identifying true preference is the formal MBTI(R), further facilitated by someone experienced in administering it. However, when you are trying to use preference and type more opportunistically in everyday life, be aware of the nuance that &#8220;Thinking/Feeling&#8221; isn&#8217;t what you would think it is based on just the words, and people who you might assume are &#8220;thinkers&#8221; because of their joy of knowledge, learning and ideas more likely are simply iNtuitives who may or may not be T&#8217;s as well.</p>
+<p>The post <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">On Thinking and Feeling</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/07/on-thinking-and-feeling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/feeling/feed/ ) in 0.42652 seconds, on Dec 5th, 2014 at 9:57 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:57 am UTC -->

@@ -1,0 +1,134 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 16:46:08 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; Myers-Briggs</title>
+	<atom:link href="http://facio.com/blog/tag/myers-briggs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Friction and your Myers-Briggs type</title>
+		<link>http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/</link>
+		<comments>http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/#comments</comments>
+		<pubDate>Tue, 24 Jul 2012 12:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Myers-Briggs]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=353</guid>
+		<description><![CDATA[<p>As I&#8217;ve become increasingly well-versed in the Myers-Briggs Type Indicator(R) over the past couple of years, I keep discovering it is like an onion: the deeper you get the more layers there are. The big downside with the MBTI and &#8230; <a href="http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/">Friction and your Myers-Briggs type</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;ve become increasingly well-versed in the Myers-Briggs Type Indicator(R) over the past couple of years, I keep discovering it is like an onion: the deeper you get the more layers there are. The big downside with the MBTI and the general Myers-Briggs style preference frameworks is the relative complexity. The presentation of one&#8217;s type in 16 categories using obtuse letters can be arcane for many users. The upside is, for serious analysis and study, it is much deeper than the preponderance of other tools out there. That&#8217;s why there are so many layers to keep exploring.</p>
+<p>In studying my own type and behaviour, I intuitively felt there were inherent frictions between my facets, frictions that I suspected were not unique to me but common to many people of particular types. Talking about this over dinner with my friend Ann, an MBTI Master Practitioner, she acknowledged that what I was intuiting was a very real part of type dynamics. This is useful enough to provide interesting personal insights that I want to share it here.</p>
+<p>For the purpose of this analysis, we are looking at how one&#8217;s Attitudes (E-I) relate to their Judging Functions (T-F) and how one&#8217;s Perceiving Functions (S-N) relate to their Lifestyle (J-P). Half of these pairing represent what I will call a &#8220;natural alignment&#8221; that lend themselves to a more comfortable natural functioning and the other half represent what I will call a &#8220;natural conflict&#8221;, providing friction for a person going through their life. Those labels are just convenient for this short post and are not suggested as formal labels to identify these characteristics beyond this.</p>
+<table style="margin: 0px 20px 20px 0; float: left; border: 1px solid #303030; padding: 20px;">
+<tbody>
+<tr>
+<td style="font-size: 20px;" colspan="4">Naturally Aligned Pairs</td>
+</tr>
+<tr style="font-size: 32px; font-weight: bold;">
+<td class="mbti-type-pair">E-F</td>
+<td class="mbti-type-pair">I-T</td>
+<td class="mbti-type-pair">S-J</td>
+<td class="mbti-type-pair">N-P</td>
+</tr>
+</tbody>
+</table>
+<p>E-F (Extraversion-Feeling) &#8211; getting your energy from other people, and making first judgements in people-centered ways</p>
+<p>I-T (Introversion-Thinking) &#8211; getting your energy from inside yourself, and making first judgements in objective ways</p>
+<p>S-J (Sensing-Judging) &#8211; perceiving the world in the moment through your senses, and making in-the-moment decisions and moving on to the next thing</p>
+<p>N-P (iNtuition-Perceiving) &#8211; perceiving the world of ideas through your mind, and being compelled to delay decisions to keep options open</p>
+<p>Those come together so naturally it may not be immediately apparent those short explanations are summarizing BOTH of the pairs they represent. The good news for those with strong alignment is they likely fit into the expectations of others better, and suffer less internal friction thanks to not naturally being compelled toward divergent ways of functioning. Now, look at the next list:</p>
+<table style="margin: 0 20px 20px 0; float: left; border: 1px solid #303030; padding: 20px;">
+<tbody>
+<tr>
+<td style="font-size: 20px;" colspan="4">Naturally Conflicting Pairs</td>
+</tr>
+<tr style="font-size: 32px; font-weight: bold;">
+<td class="mbti-type-pair">E-T</td>
+<td class="mbti-type-pair">I-F</td>
+<td class="mbti-type-pair">S-P</td>
+<td class="mbti-type-pair">N-J</td>
+</tr>
+</tbody>
+</table>
+<p>E-T (Extraversion-Thinking) &#8211; getting your energy from other people, and making first judgments in objective ways</p>
+<p>I-F (Introversion-Feeling) &#8211; getting your energy from inside yourself, and making first judgements in people-centered ways</p>
+<p>S-P (Sensing-Perceiving) &#8211; perceiving the world in the moment through your senses, and being compelled to delay decisions to keep options open</p>
+<p>N-J (iNtuition-Judging) &#8211; perceiving the world of ideas through your mind, and making in-the-moment decisions to close off one thing and move on to the next</p>
+<p>See the contrast?</p>
+<p>When your inherent preferences are thus conflicting, it is reflected in how others perceive you and how you manage yourself. For example, someone who is an E-T will seem friendly and gregarious, then will surprise you with their harsh criticism. Whereas, if an I -T were to criticize harshly you would be more likely to expect it based on other behavioural cues and natural assumptions. Or, an I-F is likely struggling inside of themselves, on one hand wanting their solitary time in order to be nurtured and replenished, while wanting to care for and deeply engage with someone else. The path forward is not simple, and gratifying either necessarily rubs the other one the wrong way. For people whose type has both pairs conflicting &#8211; ESTP, ENTJ, ISFP, INFJ &#8211; life and identity can seem particularly draining. Of course, on the flip side successful CEO&#8217;s are disproportionately ENTJs, and great artists are disproportionately ISFP&#8217;s. So while there may be a price to pay for that conflict, there are also successes and achievement borne from the trials of contradiction.</p>
+<p>Of course, let us not forget that who and what we are is the product of many vectors, beyond our Myers-Briggs style preferences. So the impact of strong alignment or mis-alignment for each person can be significantly different. However, awareness of these dynamics can put us in better touch with ourselves, help us understand what is going on as we function and make decisions, and perhaps even better understand each other.</p>
+<p>The post <a href="http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/">Friction and your Myers-Briggs type</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>On Thinking and Feeling</title>
+		<link>http://facio.com/blog/2012/07/on-thinking-and-feeling/</link>
+		<comments>http://facio.com/blog/2012/07/on-thinking-and-feeling/#comments</comments>
+		<pubDate>Tue, 17 Jul 2012 12:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Myers-Briggs]]></category>
+		<category><![CDATA[feeling]]></category>
+		<category><![CDATA[thinking]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=349</guid>
+		<description><![CDATA[<p>One of the most frequently confused parts of Myers-Briggs style personality frameworks†is the distinction between thinking and feeling. I was reminded of this recently when a friend said his wife is convinced he is a thinking T and opposed to &#8230; <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">On Thinking and Feeling</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the most frequently confused parts of Myers-Briggs style personality frameworks†is the distinction between thinking and feeling. I was reminded of this recently when a friend said his wife is convinced he is a thinking T and opposed to a feeling F. While I suspect he is actually an F I really don&#8217;t know: he has not taken the MBTI(R) with me. This is just based on my knowledge of the tool in practice and observational opinions of him. However, his wife&#8217;s insistence that he is a T could very well relate to some of the most common mistakes made when trying to navigate the instrument.</p>
+<p>Importantly, the design of the terms &#8220;Thinking&#8221; and &#8220;Feeling&#8221; creates ambiguity and confusion. Most people (understandably) assume that if someone is smart and deep, that equates to them being a &#8220;thinker&#8221;. Hardly. While there might be T characteristics mixed up in there, it is more likely that someone who is generically identified as smart and deep is an iNtuitive &#8211; N as opposed to a Sensor &#8211; S. iNtuitives are the ones characterized as big picture, strategic thinkers with deep and complex models and understanding. While they may also be T- thinkers they are similarly likely to be F &#8211; feelers. Of course, the confusion is based in the reality that some of the key traits and strengths that often accompany iNtuitives have to do with &#8220;thinking&#8221;. Whereas &#8220;iNtuitive&#8221; is not a common or clearly understood phrase, thinking certainly is. So it is only natural for big thinkers to be thought of as T&#8217;s &#8211; whether they are or not.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-443" title="Plato" src="http://facio.com/wp-content/uploads/2012/07/Plato.png" alt="" width="300" height="405" /><br />
+<figcaption>Was the great Plato a Thinker or a Feeler? The answer might surprise you.</figcaption>
+</figure>
+<p>This begs the question, then: what constitutes a &#8220;Thinker&#8221; versus &#8220;Feeler&#8221;? This aspect of Myers-Briggs style preference frameworks simply relates to how you like to make decisions. When I am working with a client to help validate their type, the question I find most useful in determining whether they are Thinking &#8211; T or Feeling &#8211; F is this:</p>
+<p>&#8220;Imagine you are a group manager in a large company, with great responsibilities relating to the company&#8217;s bottom line and a lot of people under you. Your boss just let you know that the company under-performed terribly last year and you need to cut your budget by 40%. This will impact everything, including key structure and services as well as significant layoffs. When you first begin thinking about the impact of these layoffs, what is the FIRST thing you think about: things related to the impact on the company, the success of your area, and how to solve the problem analytically, or the impact on the people, the changes to individual lives, and how to navigate the human aspects?&#8221;</p>
+<p>From a preferences perspective, people who first think about the analytical and practical aspects are likely Thinking &#8211; T while the people thinking about the human aspects are likely Feeling &#8211; F.</p>
+<p>What is important to emphasize in this example and really any conversation about the T/F dichotomy is that it is not an either/or. Some of the kindest, most thoughtful people are Thinking &#8211; T. They just have a natural comfort with and inclination to jump into the thinking aspects first. And, some of the smartest, best problem solvers are Feeling &#8211; F. They just have a natural comfort with and inclination to first think about the impact things have on people.</p>
+<p>Determining preference is a complex and challenging process. Since it is dealing with our innate set of comforts that we may or may not be in touch with, the most accurate means of identifying true preference is the formal MBTI(R), further facilitated by someone experienced in administering it. However, when you are trying to use preference and type more opportunistically in everyday life, be aware of the nuance that &#8220;Thinking/Feeling&#8221; isn&#8217;t what you would think it is based on just the words, and people who you might assume are &#8220;thinkers&#8221; because of their joy of knowledge, learning and ideas more likely are simply iNtuitives who may or may not be T&#8217;s as well.</p>
+<p>The post <a href="http://facio.com/blog/2012/07/on-thinking-and-feeling/">On Thinking and Feeling</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/07/on-thinking-and-feeling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understanding the power of preference</title>
+		<link>http://facio.com/blog/2012/07/understanding-the-power-of-preference/</link>
+		<comments>http://facio.com/blog/2012/07/understanding-the-power-of-preference/#comments</comments>
+		<pubDate>Tue, 10 Jul 2012 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Myers-Briggs]]></category>
+		<category><![CDATA[preferences]]></category>
+		<category><![CDATA[psychology]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=347</guid>
+		<description><![CDATA[<p>The Myers-Briggs Type IndicatorÆ is the most used and best-proven tool for psychological preference Over the last two years I&#8217;ve finished certification on three different psychological tools, with the fourth to finish up this summer. The one that has the &#8230; <a href="http://facio.com/blog/2012/07/understanding-the-power-of-preference/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/07/understanding-the-power-of-preference/">Understanding the power of preference</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 150px;"><img class="alignnone size-full wp-image-435" title="MBTI logo" src="http://facio.com/wp-content/uploads/2012/07/MBTI-logo1.png" alt="MBTI logo" width="150" /><br />
+<figcaption>The Myers-Briggs Type IndicatorÆ is the most used and best-proven tool for psychological preference</figcaption>
+</figure>
+<p>Over the last two years I&#8217;ve finished certification on three different psychological tools, with the fourth to finish up this summer. The one that has the longest history is the <a href="http://www.myersbriggs.org/my-mbti-personality-type/" target="_blank">Myers-Briggs Type Indicator</a><span class="small-superscript">Æ</span>. The MBTI measures our †&#8221;preferences&#8221;, which are our inherent comfort levels. What I like about the MBTI are three primary things:</p>
+<p>1. It is based directly on the work of Dr. Carl Jung, the founder of analytical psychiatry, and has over 90 years of validation between the original concepts, the MBTI method developed between the 1920s and 1940s. It is a honed and proven approach that most people find useful.</p>
+<p>2. The MBTI is the most-used personality tool of any kind in corporations. Hundreds of millions of people have taken the MBTI, and its application in the workplace is well understood with proven success models. This name recognition and underlying proven quality will help people appreciate and identify with the openness of Facio as a service.</p>
+<p>3. The Myers &amp; Briggs Foundation encourages the active and responsible use of their tools. This is in direct contrast to most of the psychological assessment industry, which generally has a very closed and insular perspective on how their tools intersect with the world. Given the openness of Facio, and our belief in the importance of broad availability and dissemination of preference type, the philosophies of the Myers &amp; Briggs Foundation very closely aligns with the spirit we want to put out into the world.</p>
+<p>For most people, their exposure to the MBTI or other Myers-Briggs style came in the workplace, or perhaps in a career consulting context. In both cases, there is a dedicated focus on talking about the &#8220;different-but-equal&#8221; nature of preferences and focusing on individual strengths. Those are good and valuable things, and certainly core to what we are offering with Facio. But given all of the data collected over many decades, there are known facts around preference types which can help people better leverage knowledge of their type and others. For example:</p>
+<p>- There is significant difference between the amount of people of each gender in each and every type. The types with the most males as compared to females are INTJ (3.3% of all men are INTJ&#8217;s versus 0.9% of all women) and ISTP (8.5% of all men are ISTP versus 2.3% of all women). Meanwhile the types with the most females as compared to males are ISFJ (19.4% of all women are ISFJ versus 8.1% of all men) and ESFJ (16.9% of all women are ESFJ versus 7.5% of all men). More broadly, there are more women of every F &#8211; Feeling type while there are more men of every T &#8211; Thinking type</p>
+<p>- EJ&#8217;s &#8211; Extraversion Judging &#8211; are statistically the most satisfied with their work, as well as most satisfied with their company of any of the types</p>
+<p>- People who have the same perceiving functions &#8211; either both being S &#8211; Sensing or N &#8211; iNtuition &#8211; have a much higher rate of long-term marriage success than opposite S&#8217;s and N-s that pair up, and are statistically more likely to get a divorce</p>
+<p>These are just a few nuggets of data available from Myers-Briggs style type. While Facio is currently focusing on the individual more than the aggregate it gives you an indication of the breadth and potential complex insights that can be divined by tapping the available information.</p>
+<p>The post <a href="http://facio.com/blog/2012/07/understanding-the-power-of-preference/">Understanding the power of preference</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/07/understanding-the-power-of-preference/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/myers-briggs/feed/ ) in 1.17746 seconds, on Dec 5th, 2014 at 4:46 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 5:46 pm UTC -->

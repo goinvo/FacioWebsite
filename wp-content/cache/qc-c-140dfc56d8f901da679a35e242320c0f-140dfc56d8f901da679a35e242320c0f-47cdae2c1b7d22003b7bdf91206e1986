@@ -1,0 +1,4 @@
+a:5:{i:0;s:24:"X-Powered-By: PHP/5.3.27";i:1;s:38:"Expires: Fri, 04 Jul 2014 16:46:59 GMT";i:2;s:44:"Last-Modified: Fri, 11 Jul 2014 16:46:59 GMT";i:3;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:4;s:16:"Pragma: no-cache";}<!--headers--><br />
+<b>Fatal error</b>:  Out of memory (allocated 13893632) (tried to allocate 77824 bytes) in <b>/nfs/c06/h04/mnt/93199/domains/facio.com/html/wp-content/plugins/wpcat2tag-importer/wpcat2tag-importer.php</b> on line <b>447</b><br />
+<!-- This Quick Cache file was built for (  facio.com/admin/FCKeditor/editor/filemanager/upload/%20test.html ) in 15.34597 seconds, on Jul 11th, 2014 at 4:47 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jul 11th, 2014 at 5:47 pm UTC -->

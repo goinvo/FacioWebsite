@@ -1,0 +1,135 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 02:40:00 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; hiring</title>
+	<atom:link href="http://facio.com/blog/tag/hiring/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Helping hires excel</title>
+		<link>http://facio.com/blog/2013/03/helping-hires-excel/</link>
+		<comments>http://facio.com/blog/2013/03/helping-hires-excel/#comments</comments>
+		<pubDate>Tue, 12 Mar 2013 12:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=931</guid>
+		<description><![CDATA[<p>A little bit of training and discipline when a new employee starts can go a long way to making their tenure with you a success. Not enough attention or investment is paid to training new employees. Well-orchestrated and properly designed &#8230; <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Helping hires excel</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Helping Hires Excel" src="http://facio.com/wp-content/uploads/2013/03/HelpingHiresExcel.jpg" alt="Helping Hires Excel" /></p>
+<figcaption>A little bit of training and discipline when a new employee starts can go a long way to making their tenure with you a success.</figcaption>
+</figure>
+<p>Not enough attention or investment is paid to training new employees. Well-orchestrated and properly designed training is proven to increase retention. More than that, it creates alignment between the new hire and the expectations of the company, management and their particular position. It also is the best time to get an employee&#8217;s behaviour to shift from their past or natural inclinations into what your organization needs.</p>
+<p>We&#8217;ve all heard the phrase &#8220;honeymoon phase&#8221;. This is the period when a person &#8211; whether in a new job or new relationship &#8211; is behaving aspirationally and trying to adapt to better fit with their opposite. Not only is it the time when you see more of the &#8220;best self&#8221; of a person, it is when they are most susceptible to training and change.</p>
+<p>You have a short period of time after a new employee comes to teach them new things that require big behavior change and make it stick. Even if someone doesn&#8217;t like process &#8211; say, using Salesforce.com to track their sales activity &#8211; you can often get them on board and using it if you get them on it early and turn it into a habit. On the other hand, when you have an employee who has been working at your company without that discipline for a long time and then you try to get them on it, it is much harder.</p>
+<p>Being sure to train new employees just makes sense. We invest our time and money in finding and closing new talent; shouldn&#8217;t we do our best to make their tenure as long and productive as possible? It&#8217;s a no brainer.</p>
+<p>The post <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Helping hires excel</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/helping-hires-excel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just Rewards</title>
+		<link>http://facio.com/blog/2013/02/just-rewards/</link>
+		<comments>http://facio.com/blog/2013/02/just-rewards/#comments</comments>
+		<pubDate>Tue, 26 Feb 2013 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[context]]></category>
+		<category><![CDATA[hiring]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=927</guid>
+		<description><![CDATA[<p>We&#8217;ve all looked at someone we work with and thought, &#8220;How can THAT person possibly make more than I do?&#8221; Odds are the best employee in this meeting is not making the most. The short answer is the job market &#8230; <a href="http://facio.com/blog/2013/02/just-rewards/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/02/just-rewards/">Just Rewards</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve all looked at someone we work with and thought, &#8220;How can THAT person possibly make more than I do?&#8221;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Just Rewards" src="http://facio.com/wp-content/uploads/2013/03/JustRewards.jpg" alt="Just Rewards" /></p>
+<figcaption>Odds are the best employee in this meeting is not making the most.</figcaption>
+</figure>
+<p>The short answer is the job market is a highly inefficient system that makes bad guesses. Because companies make so many &#8220;Russian roulette&#8221; hires they can only survive if they pay as little as possible to everyone, regardless of how effective they might be. Not only is this compensation strategy unfair to better employees, it is terrible for the employer who overpays people who contribute less and underpays people who contribute more. Ultimately, this leads to having too many overpaid poor performers. It is one reason why, almost without exception, efficiency within an enterprise steadily drops the larger that enterprise becomes.</p>
+<p>Now, this is not a question of &#8220;good&#8221; people and &#8220;bad&#8221; people. The reality is almost everyone can add significant value to their employer if they are in the proper role. This has to do with alignment between:</p>
+<p>- Employee and company. Is there an alignment in values, interests and energy?</p>
+<p>- Employee and role. Is there alignment in skills, interests and energy?</p>
+<p>- Employee and co-workers. Is there alignment in behaviours, style and energy?</p>
+<p>Your &#8220;best&#8221; employees are going to have high degrees of alignment in all nine of those sub-considerations. Your &#8220;worst&#8221; employees will likely fit with three-to-five of these but be incompatible with others.</p>
+<p>Next generation businesses will have a higher proportion of well aligned employees and pay them well. They will also be adept at identifying poorly aligned employees and moving them out in an efficient manner. As a result their bottom line will be much better and the people they employ (and don&#8217;t employ!) will have a much higher degree of alignment with their situation, and in general be better paid at the same time. It is the classic win-win that benefits everyone.</p>
+<p>The post <a href="http://facio.com/blog/2013/02/just-rewards/">Just Rewards</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/02/just-rewards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Picking a job that fits</title>
+		<link>http://facio.com/blog/2013/01/picking-a-job-that-fits/</link>
+		<comments>http://facio.com/blog/2013/01/picking-a-job-that-fits/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 12:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=851</guid>
+		<description><![CDATA[<p>&#160; We often rush to find a new job in order to pay the bills. This can lead to poor job fit. Most of us have been in a &#8220;bad job&#8221; before. Some of us more than once. Some of &#8230; <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Picking a job that fits</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Picking a Job That Fits" src="http://facio.com/wp-content/uploads/2013/02/JobThatFits.jpg" alt="Phone" /></p>
+<figcaption>We often rush to find a new job in order to pay the bills. This can lead to poor job fit.</figcaption>
+</figure>
+<p>Most of us have been in a &#8220;bad job&#8221; before. Some of us more than once. Some of us, even as you are reading this! There are two general reasons why we end up in bad jobs: first, we need the income from our jobs in order to pay our bills and be a respected and participating member of society. In many cases, this makes us anxious to get A job, not choosy enough to hold out for THE job. Secondly, a general lack of understanding leads us into bad choices. Not understanding ourselves, not understanding the position or company, not understanding our manager or co-workers there. Most of the time when we take a new job we do so with only partial information. To some degree it is just a product of luck whether or not you happen into a good or bad job.</p>
+<p>&nbsp;</p>
+<p>While Facio is focused on the second of these issues, the problem of understanding, I want to focus today on the first: the pressure we are under to have a regular income. When we are between jobs, the pressure to find the next thing can be tremendous. More than just the financial pressure, we might be feeling rejected if we were let go from our previous job. Or, we might be hungry to begin showing a new employer how truly excellent we really are. Regardless of which of these motives are propelling our job search, it is underpinned by the unknown. We don&#8217;t know how many offers we are going to get. Or even if we are going to get offers. This leads us to try and twist ourselves to look attractive to each prospective employer we meet with, and get them to &#8220;say yes&#8221; to us. Once they do, we can be quick to say &#8220;yes&#8221; because it puts us into a position of perceived safety again. The uncertainty is over. We don&#8217;t need to worry if we&#8217;re going to get another offer. Someone wants us, and the financial and psychological pressures can all be released.</p>
+<p>The problem is that the first job that wants us isn&#8217;t necessarily the right one. Imagine if we treated our romantic relationships that way, that the first person to show an interest in being with us we sign a contract and move in with one another. It sounds silly, but that is what we are often doing when we take a new job. The research we do is circumspect. We go to the interviews, we dance and sing, we give them our three best references who are also personal friends and will make us sound like superstars. But our research into the position and the people we would be working with is rarely so thorough. We&#8217;re just happy that they said &#8220;yes&#8221;. We can stop paying our rent out of savings; we can begin redeeming ourselves from that bad last position.</p>
+<p>Over our adult lives we will spend more than a quarter of our lives working. That is a large chunk. We need to view our jobs and employers during that time as needing to align with who we are. The tasks we do should either be helping us learn or be something we enjoy. The people we work with should be compatible with who we are and how e function. The companies we work for should have values and impact that resonate with our authentic selves. The pull to simply make sure that someone, anyone accepts us is a strong one. The financial pressure is very real, and the psychological pressure feels pointed as well. But picking the wrong position is ultimately a significant negative. Not only does it waste the moments of our lives, it ostensibly will end up with our uncomfortably leaving yet another position and going back on the hunt yet again.</p>
+<p>As wise craftsmen sagely espouse, measuring twice and cutting once might seem to take a little longer. but it ultimately results in better outcomes.</p>
+<p>The post <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Picking a job that fits</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/01/picking-a-job-that-fits/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Going in with eyes wide open</title>
+		<link>http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/</link>
+		<comments>http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/#comments</comments>
+		<pubDate>Tue, 30 Oct 2012 12:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[hiring]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=743</guid>
+		<description><![CDATA[<p>Don&#8217;t look at employment as a long-term trip going up. It can be many other, different things. I was recently watching a BBC documentary on the great English tailors of Savile Row. Among the many interesting stories was that of &#8230; <a href="http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/">Going in with eyes wide open</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Going in with eyes wide open" src="http://facio.com/wp-content/uploads/2012/10/Ladder2.jpg" alt="Ladder" /><br />
+<figcaption>Don&#8217;t look at employment as a long-term trip going up. It can be many other, different things.</figcaption>
+</figure>
+<p>I was recently watching a BBC documentary on the great English tailors of Savile Row. Among the many interesting stories was that of a young apprentice. He was one of the best young talents, but early in the programme he very politely made note of the fact that the stuffy, traditional gatekeepers of Savile Row did not appreciate his creative flair and corresponding aptitude for design. I immediately thought he probably wouldn&#8217;t be long on Savile Row and, sure enough, by the end of the series he had moved on to a position as a designer in a costume shop. As the show pointed out, the fact that Savile Row tailors want employees who†<em>construct</em> as opposed to†<em>design</em> will chase away most of the designers at heart, who do not have the patience to wait out a decade-plus long journey up the Savile Row ladder. The people who stay for the longer term will be those who aspire to the craft construction part of the tailoring business.</p>
+<p>In my experience, many employers do not pay proper attention to the relationship between the job at hand and the desires of who they are hiring. It is easy to get taken with the prodigious talent of a young hotshot, without thinking thru the fact they will likely be bored with the relatively mundane nature of the available post six months after getting started. &#8220;Misfits&#8221; like these cause considerable consternation for the employer and employee, leading to what is often an uncomfortable break followed by stress and starting over for the employer in particular. After all, the employee at least has some new experience to take to their new job search. The employer is typically back to square one.</p>
+<p>The problem isn&#8217;t the misfit; it is the poor expectations. If:</p>
+<p>- The employer was thinking about fit and aware that it was likely this candidate would be a short-term fit only for the particular position, and</p>
+<p>- The employee had awareness of what they were getting into, or an aware employer was framing the opportunity properly so they understand this precise role is likely just of short-term interest</p>
+<p>Then both sides would go in considering the fitness more clearly. There is nothing wrong with an employee getting experience and moving on; there is nothing wrong with an employer putting someone in a position for just a short period of time to fill an area of need. Where it fails is if one or both sides don&#8217;t understand the reality of what they are getting into. However, when both parties do go into it with their eyes wide open, interesting things can happen:</p>
+<p>- Avoid the situation if it would not be right for them</p>
+<p>- Program the end of the employment from the very beginning, making it likely both sides will have a good feelings about the time together when it is over</p>
+<p>- Proactively identify opportunities for growth in other ways within the organization, taking care of the short-term need while also gaining long-term value</p>
+<p>And it all begins with an awareness of the position, the overall organization, and a realistic read of the candidate. It is easy to be dazzled by talent and project how people would do in particular positions. But if it is not a good fit for the employee, it is almost certain to end badly. Understanding this likely trajectory up front instead of stumbling into it later won&#8217;t just improve how you hire: it will positively impact your culture and absolutely show up on your bottom line.</p>
+<p>Everybody wins, just thanks to your paying attention and thinking ahead.</p>
+<p>The post <a href="http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/">Going in with eyes wide open</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/hiring/feed/ ) in 0.53373 seconds, on Dec 8th, 2014 at 2:40 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 3:40 am UTC -->

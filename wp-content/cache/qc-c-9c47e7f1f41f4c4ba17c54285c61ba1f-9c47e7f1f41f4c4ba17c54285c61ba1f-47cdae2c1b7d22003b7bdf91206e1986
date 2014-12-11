@@ -1,0 +1,169 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 13:11:45 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; differences</title>
+	<atom:link href="http://facio.com/blog/tag/differences/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>People of the morning; people of the night</title>
+		<link>http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/</link>
+		<comments>http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/#comments</comments>
+		<pubDate>Tue, 26 Mar 2013 12:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[personal optimization]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1020</guid>
+		<description><![CDATA[<p>The differences between &#8220;morning people&#8221; and &#8220;night people&#8221; are significant, as is the way they intersect with one another and their employer. The time of day you are at your best may suggest more about you than you realize. Morning &#8230; <a href="http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/">People of the morning; people of the night</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The differences between &#8220;morning people&#8221; and &#8220;night people&#8221; are significant, as is the way they intersect with one another and their employer.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Morning and Night" src="http://facio.com/wp-content/uploads/2013/03/Morning-Night_300.jpg" alt="Morning Night" /></p>
+<figcaption>The time of day you are at your best may suggest more about you than you realize.</figcaption>
+</figure>
+<p>Morning people tend to be more optimistic, physically energetic and proactive. Night people tend to be more intelligent, creative and have a better sense of humour. As always, these generalities are not true for all members of the group. While each of these types have clear advantages, the biggest impact of any of these things is the fact that morning people&#8217;s natural rhythms are aligned with the 9-5 professional world, while night people&#8217;s are not. Research has shown that, as a direct result of these issues of chronotype, morning people do better in school, have access to better institutes of higher learning, get better jobs, and enjoy more lucrative career arcs.</p>
+<p>That&#8217;s a pretty massive impact on our life outcomes! Now, step back and consider it from a societal perspective: if night people are generally more intelligent, but morning people are getting the better access to superior learning and work opportunities, we are by definition using our available resources inefficiently. Thanks to what is essentially thousands of years of inertia around structuring our societies around the daylight &#8211; after all, the electric light is less than 150 years old as an established technology &#8211; our societal systems support and reward morning people while punishing night people. We have not shifted the rhythm of systems and organizations to match how people live, instead naturally preserving the way it has always been done.</p>
+<p>Of course, there are exceptions. Not surprisingly, they are exceptions created by the marketplace. Once it became possible to have factory workers work day and night, shifts were added so the workers would go day and night. This was done because the benefits were obvious, and quantifiable: enabling people to produce at all hours of the day increases profits for the employer. These industries at this point have reached an even more sophisticated level of maturity, no longer just going flat-out at all times but crafting schedules that reflect when their people are most productive. All of this is easy, because the benefits are transparent.</p>
+<p>While it is clumsy to claim that having the smarter people get the better opportunities would lead to better organizational success and profits &#8211; who knows, perhaps optimism is more important than intelligence? &#8211; it is immediately clear that having the preponderance of societal organizations catering to morning people at the expense of night people is illogical. Technology has rendered such coarse methods obsolete. If our systems didn&#8217;t try to jam night people into the rhythms of the morning people, what potential would that unlock? How would it improve their lives? How would they contribute more and better? Even though these are not easily quantifiable, our society and its citizens would clearly benefit from more flexible systems that work for both the people of the morning, and the people of the night.</p>
+<p>&nbsp;</p>
+<p>The post <a href="http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/">People of the morning; people of the night</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Motivate and Validate</title>
+		<link>http://facio.com/blog/2013/03/motivate-and-validate/</link>
+		<comments>http://facio.com/blog/2013/03/motivate-and-validate/#comments</comments>
+		<pubDate>Tue, 05 Mar 2013 12:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[motivations]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=929</guid>
+		<description><![CDATA[<p>Each of us have unique motivations, and it can be difficult to figure out what each of our needs might be. I have two primary professional motivations. The healthier of these is to see people I care about happy and &#8230; <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Motivate and Validate</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Each of us have unique motivations, and it can be difficult to figure out what each of our needs might be.</p>
+<p>I have two primary professional motivations. The healthier of these is to see people I care about happy and fulfilled, thanks in some significant part to things I&#8217;ve done. My pursuit is easy for others to see: as an entrepreneur, I set up my companies and workspaces in extremely employee-friendly ways. From our use of space to our policies and procedures to the way I engage with people one-on-one, it is obvious observing these entities that the people in charge are deeply committed to the holistic wellness and satisfaction of everyone there.</p>
+<p>Despite having an objective awareness of succeeding with this, hearing from people that they appreciate this has a significant impact. This week I had a call with a woman who was my assistant some years ago. She was excellent for us, and I genuinely like her. During the call, she mentioned that she often tells people about me, and how I was a great boss. Hearing this meant a lot! While I am generally uncomfortable with praise &#8211; particularly in public or in groups &#8211; and don&#8217;t need the positive reinforcement very often, this not only made my day, it made my week. Even though I <em>already know </em>without outside validation that I mostly succeed in making my employees feel valued and special, that little bit of heartfelt appreciation validated me and was a micro-celebration of what I set out to achieve.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Motivate and Validate" src="http://facio.com/wp-content/uploads/2013/03/InvoCbus_studio-e1362464934459.jpg" alt="Motivate and Validate" /><br />
+<figcaption>Our studio space is striking, but it was designed not for aesthetic reasons but its impact on our people.</figcaption>
+</figure>
+<p>Each of us has needs such as these. The trick is, we don&#8217;t typically talk about what they are, and figuring them out can be pretty complicated. Taking my example, someone could easily misinterpret the things I do with my companies and think, for example, that what validates me is creating pretty spaces. Or getting the most out of my employees. Or some other things that &#8211; if they gave me a compliment about it &#8211; would be a nice little warm fuzzy.</p>
+<p>But it wouldn&#8217;t rub that special place. For me it is not about the business benefit, or the trappings, it is about the human impact. That&#8217;s not something I talk about &#8211; although I surely do write about it! &#8211; and for a theoretical boss or co-worker to understand that motivation, put me in a position to pursue it, and give me an appropriate level of recognition for it is not likely. Similar to most people, my deepest inner drivers are somewhat opaque. Indeed, for me it is complicated by my extreme introversion. Since I am so overt about that introversion &#8211; which can make it &#8220;seem&#8221; like I don&#8217;t necessarily like or care about other people &#8211; it further obfuscates that motivation, which really means so much to me.</p>
+<p>What are your motivations? Do others really understand them? Do they validate you in the ways you need? What about the people you work with: do you really know what drives them?</p>
+<p>As much as culture, productivity and other buzzwords, this is important.</p>
+<p>The post <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Motivate and Validate</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/motivate-and-validate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understand the annoyer, don’t dismiss them</title>
+		<link>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/</link>
+		<comments>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/#comments</comments>
+		<pubDate>Tue, 15 Jan 2013 17:35:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=843</guid>
+		<description><![CDATA[<p>We may not get along, but that doesn&#8217;t mean the other person is broken. Most of us assign moral failing to others who are different than us. The networker who flits their way around the social event is “superficial”. The &#8230; <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Understand the annoyer, don’t dismiss them</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Understand the Annoyer" src="http://facio.com/wp-content/uploads/2013/01/UnderstandTheAnnoyer-e1359499277150.jpg" alt="Phone" /></p>
+<figcaption>We may not get along, but that doesn&#8217;t mean the other person is broken.</figcaption>
+</figure>
+<p>Most of us assign moral failing to others who are different than us. The networker who flits their way around the social event is “superficial”. The quiet person who stays in the corner and doesn’t have much to say is “boring”. The loud person performing for a group not sensitive to the noise and space needs of people around them is “obnoxious”. The intellectual who has a critical word for seemingly everything is “arrogant”.</p>
+<p>Diminishing others with such language and framing is a huge mistake that we almost universally make. We attribute to their <em>character</em> what are actually facets of their <em>inherent personality</em>. Sure, it is much easier to translate the discomfort they make us feel into some failing on their part. However, most of the time, it is not a failing by either party and instead an incompatibility between them. Indeed, each of us know other people who we “can’t stand”, yet sure enough they have friends, family, people who like and trust them. The problem isn’t them, it is the intersection between who we are, and who they are.</p>
+<p>This stretches beyond personality as well. Sometimes the issue is one of territory. There can only be one CEO, so people who otherwise would get along begin seeing one another negatively because their ambitions are contradictory. Other times the issue is one of time: I am in a hurry and the other person is not. This creates conflict as we try to accomplish different things in different ways. Most of the time, in all of these cases, we turn that friction between us into a judgement of the other person. We objectify and diminish them, rather than saving blame and viewing the situation more objectively. After all, when someone blocks us or makes us feel uncomfortable, it is easier and more cathartic to say “What an a-hole!” instead of, “Ah, he’s just an extraverted intuitive.”</p>
+<p>To improve your mental health and capacity for bringing goodness to the world, be aware of these judgement that you make as you go thru life. Turn the aspersions toward the other person into a recognition that you just aren’t lining up with each other. That might make you uncomfortable, but it surely does not make them bad.</p>
+<p>The post <a href="http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/">Understand the annoyer, don’t dismiss them</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Great teams aren&#8217;t easy</title>
+		<link>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/</link>
+		<comments>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/#comments</comments>
+		<pubDate>Tue, 23 Oct 2012 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[context]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[psychology]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=741</guid>
+		<description><![CDATA[<p>Did you know that about 90% of people report themselves as being &#8220;above average&#8221; drivers? I suspect you&#8217;re shaking your head, thinking about those poor saps while smugly smiling about being one of the REALLY above average drivers. That little &#8230; <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Great teams aren&#8217;t easy</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Did you know that about 90% of people report themselves as being &#8220;above average&#8221; drivers? I suspect you&#8217;re shaking your head, thinking about those poor saps while smugly smiling about being one of the REALLY above average drivers. That little bit of illusory superiority aside, our roadways are one of the most stressful and contentious contexts that we live in. And the reason is because we are all so very different, and being turned loose together in control of fast, heavy machines with a bunch of road rules that some of us follow and some of us don&#8217;t? Well. Thinking about it like that I&#8217;m suddenly surprised there aren&#8217;t more road rage incidents!</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Great Teams Aren't Easy" src="http://facio.com/wp-content/uploads/2012/10/GreatTeams.jpg" alt="Great Teams Aren't Easy" /></p>
+<figcaption>The more different we are from each other, the more challenges we face to work well together. And, the more potential we have to be remarkable.</figcaption>
+</figure>
+<p>Teamwork is even harder and more contentious than sharing the roadways, even though most of us are in fairly homogeneous teams. For any particular profession, many of the practitioners have personalities that share similarities. From auto workers to software engineers, from custom tailors to investment bankers, each of those professions attract very different types of men and women. Yet, despite these similarities between practitioners working together, truly getting the most out of a group of people is difficult.</p>
+<p>The problem is the personal nature of working together. Issues related to title, pay, authority and control bring complicated psychological relationships to bear on the work situation. Whereas on the highways we are wrapped in shells of steel and generally function in a correspondingly impersonal way, at work we are up close and personal with each other. And even if we do happen to share a good core of personality traits with sitting next to us, the differences are intensified in highly personal issues related to professional hierarchy and compensation.</p>
+<p>That&#8217;s why great teamwork is difficult. While many of us may share similarities as a starting point, and personality differences can be identified and coached thru, ultimately it is the psychological factors that are most personal, that have to do with our sense of status, providing for our families, and feeling actualized within the group. Just think about how much more complicated it would be to get a team of an auto worker, software engineer, custom tailor and investment banker together as opposed to four investment bankers!</p>
+<p>So the next time you&#8217;re frustrated with the people you work with every day, imagine if instead of being a relatively similar group you were thrown in with a bunch of random people from the highway.You might just drive off and never come back.</p>
+<p>The post <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Great teams aren&#8217;t easy</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/differences/feed/ ) in 3.14018 seconds, on Dec 8th, 2014 at 1:11 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 2:11 pm UTC -->

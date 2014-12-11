@@ -1,0 +1,113 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:54:50 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; teamwork</title>
+	<atom:link href="http://facio.com/blog/tag/teamwork/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Context and development</title>
+		<link>http://facio.com/blog/2013/05/context-and-development/</link>
+		<comments>http://facio.com/blog/2013/05/context-and-development/#comments</comments>
+		<pubDate>Tue, 28 May 2013 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[teamwork]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1072</guid>
+		<description><![CDATA[<p>Context and development This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or &#8230; <a href="http://facio.com/blog/2013/05/context-and-development/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Context and development" src="http://facio.com/wp-content/uploads/2013/06/Context-and-Development.png" alt="Context and development" /><br />
+<figcaption>Context and development</figcaption>
+</figure>
+<p>This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or traded to top teams that are already successful, having coaching stability, and have clearly established roles and performers in place are more likely to reach their potential. Former coach Jeff Van Gundy credits this sort of development to the player &#8220;know(ing) who he is, and play(ing) to his role.&#8221; This theory goes on to suggest that while talented young players blossom in these conditions, the same players become mediocre when playing for poor teams because, with too much expected of them as &#8220;saviors&#8221; of a bleak situation, they struggle to figure out who they are, and they don&#8217;t have a clear, realistic role.</p>
+<p>Thee dynamics are particularly pronounced in professional basketball, where a franchise has just 12 players working for them, making a combined ~$58,000,000 &#8211; or almost $5,000,000 each on average. On the other hand IBM reports having 434,246 employees nationwide, meaning that no matter how stringent and ideal their top-down structures might be the provision of ideal employee environments will often be determined at at the level of a sub-organization or even an individual team. In business we do not enjoy the intense focus on a handful of people that allows the best organizations to consistently develop better performers.</p>
+<p>The lesson is that doing things the right way does not just help you perform better in the short-term, it creates an environment of excellence that helps you perform better later. New employees are far more likely to find their place and carve out a specific role suitable to their abilities in a stable and high-functioning organization. Yes, as always, this won&#8217;t prove true for everyone. Superstars often benefit from being &#8220;dropped into the deep end&#8221; and being given more room and freedom to develop as opposed to being constrained by a system. Remember: the Chicago Bulls were abysmal before Michael Jordan came to town, not winning more than 45 games in any season from 1975-1984. He thrived by stepping into the mess. Then, on the other side of the spectrum, while mediocre performers might become better versions of themselves in healthy organizations, they also aren&#8217;t likely to be transformed into high performers just by virtue of the context. The limitations that make them less capable &#8211; lacking in skills, motivation or just generally not embracing and putting themselves into their careers &#8211; are more difficult to change.</p>
+<p>Regardless, the bottom line is that the best way to get the most out of the majority of new hires you will make is having already implemented the bedrock of a high-performing culture: stability that crosses all of vision and strategy, management and team composition, with appropriate roles and processes that work well and are adaptable to make the most of the unique gifts and offerings of the specific people.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/context-and-development/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Great teams aren&#8217;t easy</title>
+		<link>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/</link>
+		<comments>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/#comments</comments>
+		<pubDate>Tue, 23 Oct 2012 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[context]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[psychology]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=741</guid>
+		<description><![CDATA[<p>Did you know that about 90% of people report themselves as being &#8220;above average&#8221; drivers? I suspect you&#8217;re shaking your head, thinking about those poor saps while smugly smiling about being one of the REALLY above average drivers. That little &#8230; <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Great teams aren&#8217;t easy</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Did you know that about 90% of people report themselves as being &#8220;above average&#8221; drivers? I suspect you&#8217;re shaking your head, thinking about those poor saps while smugly smiling about being one of the REALLY above average drivers. That little bit of illusory superiority aside, our roadways are one of the most stressful and contentious contexts that we live in. And the reason is because we are all so very different, and being turned loose together in control of fast, heavy machines with a bunch of road rules that some of us follow and some of us don&#8217;t? Well. Thinking about it like that I&#8217;m suddenly surprised there aren&#8217;t more road rage incidents!</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Great Teams Aren't Easy" src="http://facio.com/wp-content/uploads/2012/10/GreatTeams.jpg" alt="Great Teams Aren't Easy" /></p>
+<figcaption>The more different we are from each other, the more challenges we face to work well together. And, the more potential we have to be remarkable.</figcaption>
+</figure>
+<p>Teamwork is even harder and more contentious than sharing the roadways, even though most of us are in fairly homogeneous teams. For any particular profession, many of the practitioners have personalities that share similarities. From auto workers to software engineers, from custom tailors to investment bankers, each of those professions attract very different types of men and women. Yet, despite these similarities between practitioners working together, truly getting the most out of a group of people is difficult.</p>
+<p>The problem is the personal nature of working together. Issues related to title, pay, authority and control bring complicated psychological relationships to bear on the work situation. Whereas on the highways we are wrapped in shells of steel and generally function in a correspondingly impersonal way, at work we are up close and personal with each other. And even if we do happen to share a good core of personality traits with sitting next to us, the differences are intensified in highly personal issues related to professional hierarchy and compensation.</p>
+<p>That&#8217;s why great teamwork is difficult. While many of us may share similarities as a starting point, and personality differences can be identified and coached thru, ultimately it is the psychological factors that are most personal, that have to do with our sense of status, providing for our families, and feeling actualized within the group. Just think about how much more complicated it would be to get a team of an auto worker, software engineer, custom tailor and investment banker together as opposed to four investment bankers!</p>
+<p>So the next time you&#8217;re frustrated with the people you work with every day, imagine if instead of being a relatively similar group you were thrown in with a bunch of random people from the highway.You might just drive off and never come back.</p>
+<p>The post <a href="http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/">Great teams aren&#8217;t easy</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/teamwork/feed/ ) in 0.34352 seconds, on Dec 5th, 2014 at 9:54 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:54 am UTC -->

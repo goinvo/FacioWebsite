@@ -1,0 +1,598 @@
+a:8:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Sun, 30 Nov 2014 22:40:46 GMT";i:2;s:44:"Last-Modified: Sun, 07 Dec 2014 22:40:46 GMT";i:3;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:4;s:16:"Pragma: no-cache";i:5;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:6;s:29:"X-Robots-Tag: noindex, follow";i:7;s:22:"Content-Type: text/xml";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://facio.com/wp-content/plugins/wordpress-seo/css/xml-sitemap-xsl.php"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/</loc>
+		<lastmod>2012-08-07T14:25:37+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/06/beh_pref_other_snapshot1-300x283.jpg</image:loc>
+			<image:title>Facio Behaviours &amp; Preferences</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/06/beh_skill_other_snapshot1-300x281.jpg</image:loc>
+			<image:title>Facio Behaviours &amp; Skills</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/06/pref_skill_other_snapshot1-300x284.jpg</image:loc>
+			<image:title>Facio Preferences &amp; Skills</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/06/guidance-not-absolutes/</loc>
+		<lastmod>2012-08-07T14:25:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/06/the-challenge-of-personality/</loc>
+		<lastmod>2012-08-07T14:31:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/06/freud-jung.png</image:loc>
+			<image:title>Sigmund Freud and Carl Jung</image:title>
+			<image:caption>Sigmund Freud and Carl Jung</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/06/professional-alignment/</loc>
+		<lastmod>2012-08-07T14:26:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/06/apple-walmart-300x66.png</image:loc>
+			<image:title>apple walmart</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/07/hello-nice-to-meet-you-2/</loc>
+		<lastmod>2012-08-08T20:50:40+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/google-linkedin-300x42.png</image:loc>
+			<image:title>google linkedin</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/07/understanding-the-power-of-preference/</loc>
+		<lastmod>2012-09-11T03:22:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/MBTI-logo1.png</image:loc>
+			<image:title>MBTI logo</image:title>
+			<image:caption>MBTI logo</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/07/on-thinking-and-feeling/</loc>
+		<lastmod>2012-09-11T03:25:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/Plato.png</image:loc>
+			<image:title>Plato</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/07/friction-and-your-myers-briggs-type/</loc>
+		<lastmod>2012-09-11T03:27:31+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/</loc>
+		<lastmod>2012-09-11T03:28:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/behaviour_personality-300x184.jpg</image:loc>
+			<image:title>Facio Behaviours   Personality</image:title>
+			<image:caption>Facio Behaviours   Personality</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/</loc>
+		<lastmod>2012-08-07T14:27:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/behaviour_work_style-300x184.jpg</image:loc>
+			<image:title>Facio Behaviours   Work Style</image:title>
+			<image:caption>Facio Behaviours   Work Style</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/</loc>
+		<lastmod>2012-08-23T01:31:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/behaviour_work_process-300x184.jpg</image:loc>
+			<image:title>Facio Behaviours   Work Process</image:title>
+			<image:caption>Facio Behaviours   Work Process</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/</loc>
+		<lastmod>2012-08-23T01:31:45+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/07/behaviour_task_completion-300x184.jpg</image:loc>
+			<image:title>Facio Behaviours   Task Completion</image:title>
+			<image:caption>Facio Behaviours   Task Completion</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/</loc>
+		<lastmod>2012-08-29T14:28:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/08/high_self_satisfaction2.jpg</image:loc>
+			<image:title>High Self Satisfaction</image:title>
+			<image:caption>High Self Satisfaction</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/08/low_self_satisfaction2.jpg</image:loc>
+			<image:title>Low Self Satisfaction</image:title>
+			<image:caption>Low Self Satisfaction</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/08/small-behaviour4.jpg</image:loc>
+			<image:title>Perceiver</image:title>
+			<image:caption>Perceiver</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/09/re-thinking-rejection-2/</loc>
+		<lastmod>2012-09-04T15:08:39+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/trump-300x242.jpg</image:loc>
+			<image:title>Donald Trump</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/09/handle-with-care/</loc>
+		<lastmod>2012-09-12T01:02:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/Einstein.png</image:loc>
+			<image:title>Albert Einstein</image:title>
+			<image:caption>Albert Einstein</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/09/the-jewels-of-personality/</loc>
+		<lastmod>2012-09-19T18:14:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/dk_hogan.jpg</image:loc>
+			<image:title>Hogan </image:title>
+			<image:caption>Hogan </image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/09/leadership-and-context/</loc>
+		<lastmod>2012-09-25T21:58:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/LeadershipContext.jpg</image:loc>
+			<image:title>Leadership And Context</image:title>
+			<image:caption>Albert Einstein</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/10/seeing-a-world-of-alignment/</loc>
+		<lastmod>2012-10-08T19:42:49+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/Alignment.jpg</image:loc>
+			<image:title>Alignment</image:title>
+			<image:caption>Alignment</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/10/poor-old-charlie-brown/</loc>
+		<lastmod>2012-10-13T15:26:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/Charliebrown3.jpg</image:loc>
+			<image:title>Leadership And Context</image:title>
+			<image:caption>Albert Einstein</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/10/living-is-growing/</loc>
+		<lastmod>2012-10-16T20:08:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/09/Awareness.jpg</image:loc>
+			<image:title>Leadership And Context</image:title>
+			<image:caption>Albert Einstein</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/10/we-may-be-similar-but-great-teams-still-arent-easy/</loc>
+		<lastmod>2012-10-30T20:31:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/10/GreatTeams.jpg</image:loc>
+			<image:title>Great Teams Aren</image:title>
+			<image:caption>Great Teams Aren</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/10/going-in-with-eyes-wide-open/</loc>
+		<lastmod>2012-10-30T20:32:12+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/10/Ladder2.jpg</image:loc>
+			<image:title>Going in with eyes wide open</image:title>
+			<image:caption>Ladder</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/11/the-power-of-shared-knowledge/</loc>
+		<lastmod>2013-01-25T23:53:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/10/Chairs.jpg</image:loc>
+			<image:title>Power of Shared Knowledge</image:title>
+			<image:caption>Chairs</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/11/cross-generational-understanding/</loc>
+		<lastmod>2013-01-25T23:53:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/10/WakeUp.jpg</image:loc>
+			<image:title>Cross generational understanding</image:title>
+			<image:caption>Wake Up</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/11/virtues-of-friction/</loc>
+		<lastmod>2013-01-25T23:54:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/11/being-mindful-and-present/</loc>
+		<lastmod>2013-01-25T23:54:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/10/Phone1.jpg</image:loc>
+			<image:title>Going in with eyes wide open</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/12/good-business-decisions-take-courage/</loc>
+		<lastmod>2013-01-29T22:35:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/01/Courage.jpg</image:loc>
+			<image:title>Going in with eyes wide open</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/12/great-leadership-requires-context/</loc>
+		<lastmod>2013-01-29T22:39:32+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/01/GreatLeadership.jpg</image:loc>
+			<image:title>Great Leadership</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/12/maneuver-and-dance/</loc>
+		<lastmod>2013-01-31T16:06:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/01/Maneuver-and-dance2.jpg</image:loc>
+			<image:title>Maneuver and Dance</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/01/the-final-cut/</loc>
+		<lastmod>2013-01-29T22:40:41+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/01/FinalCut_300.jpg</image:loc>
+			<image:title>The Final Cut</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/01/understand-the-annoyer-dont-dismiss-them/</loc>
+		<lastmod>2013-02-02T17:29:40+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/01/UnderstandTheAnnoyer-e1359499277150.jpg</image:loc>
+			<image:title>Understand the Annoyer</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/01/picking-a-job-that-fits/</loc>
+		<lastmod>2013-02-04T20:32:11+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/02/JobThatFits.jpg</image:loc>
+			<image:title>Picking a Job That Fits</image:title>
+			<image:caption>Phone</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/01/getting-a-better-start-introduction/</loc>
+		<lastmod>2013-02-22T05:00:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/02/GettingaBetterStart_3001.jpg</image:loc>
+			<image:title>Getting a better start</image:title>
+			<image:caption>Crayons</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/02/getting-a-better-start-begin-early/</loc>
+		<lastmod>2013-02-05T17:17:36+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/02/BeginEarly.jpg</image:loc>
+			<image:title>Begin Early</image:title>
+			<image:caption>Math</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2012/12/happy-holidays/</loc>
+		<lastmod>2013-02-03T21:59:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2012/12/Holidays.jpg</image:loc>
+			<image:title>Holidays</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/02/getting-a-better-start-channel-early/</loc>
+		<lastmod>2013-03-03T00:34:53+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/ChannelEarly.jpg</image:loc>
+			<image:title>Getting a better start</image:title>
+			<image:caption>Channel Early</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/</loc>
+		<lastmod>2013-03-02T22:25:27+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/ServeandExplore.jpg</image:loc>
+			<image:title>Serve and Explore</image:title>
+			<image:caption>Serve and Explore</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/02/just-rewards/</loc>
+		<lastmod>2013-03-02T22:23:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/JustRewards.jpg</image:loc>
+			<image:title>Just Rewards</image:title>
+			<image:caption>Just Rewards</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/03/motivate-and-validate/</loc>
+		<lastmod>2013-03-05T15:09:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/InvoCbus_studio-e1362464934459.jpg</image:loc>
+			<image:title>Motivate and Validate</image:title>
+			<image:caption>Motivate and Validate</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/03/helping-hires-excel/</loc>
+		<lastmod>2013-03-13T14:44:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/HelpingHiresExcel.jpg</image:loc>
+			<image:title>Helping Hires Excel</image:title>
+			<image:caption>Helping Hires Excel</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/03/people-leave/</loc>
+		<lastmod>2013-03-25T20:42:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/PeopleLeave.jpg</image:loc>
+			<image:title>People Leave</image:title>
+			<image:caption>People Leave</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/03/people-of-the-morning-people-of-the-night/</loc>
+		<lastmod>2013-03-26T03:01:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/Morning-Night_300.jpg</image:loc>
+			<image:title>Morning and Night</image:title>
+			<image:caption>Morning Night</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/04/coaches-a-smart-investment/</loc>
+		<lastmod>2013-04-02T14:33:01+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/03/Coach_300.jpg</image:loc>
+			<image:title>Coaches: a smart investment</image:title>
+			<image:caption>Coaches: a smart investment</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/04/triangulating-your-career-part-1/</loc>
+		<lastmod>2013-04-20T03:57:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/04/Triangulating.jpg</image:loc>
+			<image:title>Triangulating Your Career</image:title>
+			<image:caption>Triangulating</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/04/triangulating-your-career-part-2/</loc>
+		<lastmod>2013-04-20T02:04:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/04/Triangulating2.jpg</image:loc>
+			<image:title>Triangulating your career, Part 2</image:title>
+			<image:caption>Triangulating your career, Part 2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/04/Triangulating2_2.jpg</image:loc>
+			<image:title>Triangulating your career, Part 2</image:title>
+			<image:caption>Triangulating your career, Part 2</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/04/Triangulating2_3.jpg</image:loc>
+			<image:title>Triangulating your career, Part 2</image:title>
+			<image:caption>Triangulating your career, Part 2</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/04/giving-grace/</loc>
+		<lastmod>2013-04-20T04:00:42+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/04/Grace.png</image:loc>
+			<image:title>Giving grace</image:title>
+			<image:caption>Giving grace</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/05/the-binds-of-personality-typing/</loc>
+		<lastmod>2013-06-18T18:59:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/06/The-Binds-of-Personality-Typing.png</image:loc>
+			<image:title>The Binds of Personality Typing</image:title>
+			<image:caption>The Binds of Personality Typing</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/05/keep-it-professional/</loc>
+		<lastmod>2013-05-14T04:07:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/05/context-and-development/</loc>
+		<lastmod>2013-06-18T19:03:59+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/06/Context-and-Development.png</image:loc>
+			<image:title>Context and development</image:title>
+			<image:caption>Context and development</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/06/transparency-real-and-contrived/</loc>
+		<lastmod>2013-06-18T19:04:46+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/06/Does-Someone-Have-To-Go.jpg</image:loc>
+			<image:title>Transparency, real and contrived</image:title>
+			<image:caption>Transparency, real and contrived</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/05/let-them-fail/</loc>
+		<lastmod>2013-06-18T19:06:18+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/06/Let-Them-Fail.png</image:loc>
+			<image:title>Let them fail</image:title>
+			<image:caption>Let them fail</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/06/finding-yourself/</loc>
+		<lastmod>2013-07-15T20:32:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+		<image:image>
+			<image:loc>http://facio.com/wp-content/uploads/2013/07/Open-Road.jpg</image:loc>
+			<image:title>Finding yourself</image:title>
+			<image:caption>Finding yourself</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/06/compensation-and-transparency/</loc>
+		<lastmod>2013-06-21T20:09:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</loc>
+		<lastmod>2013-06-28T18:43:11+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://facio.com/blog/2013/07/on-needs-and-motivation/</loc>
+		<lastmod>2013-07-16T15:02:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast WordPress SEO -->
+<!-- This Quick Cache file was built for (  facio.com/post-sitemap.xml ) in 1.39957 seconds, on Dec 7th, 2014 at 10:40 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 7th, 2014 at 11:40 pm UTC -->

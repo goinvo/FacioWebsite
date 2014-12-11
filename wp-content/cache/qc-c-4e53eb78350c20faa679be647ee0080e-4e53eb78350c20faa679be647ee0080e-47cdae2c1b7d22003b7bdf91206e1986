@@ -1,0 +1,61 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:53:51 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; communication</title>
+	<atom:link href="http://facio.com/blog/tag/communication/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/communication/feed/ ) in 0.43812 seconds, on Dec 5th, 2014 at 9:53 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:53 am UTC -->

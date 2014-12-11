@@ -1,0 +1,46 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 02:42:03 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; theory</title>
+	<atom:link href="http://facio.com/blog/tag/theory/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>On needs and motivation</title>
+		<link>http://facio.com/blog/2013/07/on-needs-and-motivation/</link>
+		<comments>http://facio.com/blog/2013/07/on-needs-and-motivation/#comments</comments>
+		<pubDate>Tue, 16 Jul 2013 12:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[motivations]]></category>
+		<category><![CDATA[needs]]></category>
+		<category><![CDATA[theory]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1103</guid>
+		<description><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to &#8230; <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to safety, to belonging and love, to self-esteem, to self-actualization, Maslow&#8217;s theory generally rings true and &#8211; as a consequence &#8211; is a standard in beginning psychology.</p>
+<p>On the other hand, you probably are not familiar with Clayton Alderfer. He advanced Maslow&#8217;s hierarchy, realizing both that the five categories were too finely grained and, more importantly, that Maslow&#8217;s notion of it being a serial continuum was inconsistent with how people actually lived. Alderfer truncated Maslow&#8217;s hierarchy into three ground of needs: Existence (physiological + safety), Relatedness (belonging and love), and Growth (self-esteem and self-actualization). This is known as ERG theory. Along with establishing that people were not completely &#8220;gated&#8221; within a lower level need until it had been moved beyond, Alderfer suggested that an inability to meet a higher level need would result in the person &#8220;doubling down&#8221; on trying to meet that need via pursuit of the lower level need. So, for example, being heartbroken (failed relatedness) might lead someone to indulge in food, drugs or sex in order to try and meet that unmet need in a different way (existence).</p>
+<p>ERG theory is an improvement on Maslow&#8217;s hierarchy. The frame it provides is more fluid, and the core assumption &#8211; that we are not locked into a lower level need in a binary way until it has been moved beyond &#8211; far more consistent with both behavioural research and general common sense. </p>
+<p>If you are interested in needs and motivations you will certainly come across Maslow; just make sure you also discover Alderfer&#8217;s ERG theory as &#8211; in our own research &#8211; it proves more theoretically valid as well as effective in application.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/on-needs-and-motivation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/theory/feed/ ) in 1.09589 seconds, on Dec 8th, 2014 at 2:42 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 3:42 am UTC -->

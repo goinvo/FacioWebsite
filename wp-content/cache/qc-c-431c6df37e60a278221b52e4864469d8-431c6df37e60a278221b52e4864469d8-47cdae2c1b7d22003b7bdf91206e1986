@@ -1,0 +1,115 @@
+a:6:{i:0;s:24:"X-Powered-By: PHP/5.3.27";i:1;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:2;s:38:"Content-Type: text/html; charset=UTF-8";i:3;s:38:"Expires: Wed, 11 Jan 1984 05:00:00 GMT";i:4;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:5;s:16:"Pragma: no-cache";}<!--headers--><!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://facio.com/wp-content/themes/facio/style.css" />
+<link rel="pingback" href="http://facio.com/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="http://facio.com/wp-content/themes/facio/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.2.8.4 - http://yoast.com/wordpress/seo/ -->
+<title>Page Not Found | Facio</title>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Facio &raquo; Feed" href="http://facio.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Facio &raquo; Comments Feed" href="http://facio.com/comments/feed/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://facio.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://facio.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.7.4" />
+
+
+</head>
+
+<body id="blogtemplatesdefaultdnt.css" class="error404 two-column right-sidebar">
+	
+<div id="guideBox">
+	<div id="leftGuide"></div>	
+	<div id="rightGuide"></div>	
+</div>
+	
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+		<div class="container constrained-width-container">
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+					<div id="buttons" class="menu-buttons-container"><ul id="menu-buttons" class="menu"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="https://www.fac.io/">Log In</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="https://www.fac.io/registration">Sign Up</a></li>
+</ul></div>					
+								<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-6" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6"><a href="http://facio.com/">For You</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://facio.com/for-coaches/">For Coaches</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://facio.com/about/">About</a></li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="http://facio.com/blog/">Blog</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://facio.com/contact/">Contact  Us</a></li>
+</ul></div>			</nav><!-- #access -->
+
+			<hgroup class="header-logo-container">
+				<h3 id="site-title">
+					<a href="http://facio.com/" title="Facio" rel="home">
+						<img src="/wp-content/uploads/2012/07/Logo.png" alt="Facio Logo" title="Facio">
+					</a>
+				</h3>
+			</hgroup>
+
+		</div><!--//container//-->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+	<div id="primary">
+		<div id="content" role="main">
+
+			<h2 class="message-404-error">Whoa Nellie!  The page you are looking for doesn't exist.  <br />Please try a different page.</h2>
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="mainFooter" role="contentinfo">
+			<div class="container">
+				
+				<p>
+                    &copy; 2011-2014 by Facio, Inc.                </p>
+			</div><!--//container//-->			
+	</footer><!-- #mainFooter -->
+</div><!-- #page -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26608463-1']);
+  _gaq.push(['_setDomainName', 'facio.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+<!-- This Quick Cache file was built for (  facio.com/blog/templates/default/dnt.css ) in 0.72567 seconds, on Aug 15th, 2014 at 2:44 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Aug 15th, 2014 at 3:44 am UTC -->

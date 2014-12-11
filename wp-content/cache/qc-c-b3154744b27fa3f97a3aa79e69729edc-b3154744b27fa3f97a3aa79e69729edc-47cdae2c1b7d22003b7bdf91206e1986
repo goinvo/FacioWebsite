@@ -1,0 +1,20 @@
+a:10:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Sat, 29 Nov 2014 12:58:35 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:19:"Last-Modified:  GMT";i:6;s:40:"ETag: "99b889a9cd748e8b4eca0eb3758d138d"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:45:"Link: <http://facio.com/?p=29>; rel=shortlink";i:9;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: For Coaches</title>
+	<atom:link href="http://facio.com/for-coaches/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate></lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/for-coaches/feed/ ) in 0.68624 seconds, on Dec 6th, 2014 at 12:58 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 6th, 2014 at 1:58 pm UTC -->

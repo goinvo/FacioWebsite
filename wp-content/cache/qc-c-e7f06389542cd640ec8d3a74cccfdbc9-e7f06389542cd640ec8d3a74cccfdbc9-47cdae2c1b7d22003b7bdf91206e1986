@@ -1,0 +1,21 @@
+a:6:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Wed, 03 Dec 2014 01:52:47 GMT";i:2;s:44:"Last-Modified: Wed, 10 Dec 2014 01:52:47 GMT";i:3;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:4;s:16:"Pragma: no-cache";i:5;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0"?>
+<opml version="1.0">
+	<head>
+		<title>Links for Facio</title>
+		<dateCreated>Wed, 10 Dec 2014 01:52:47 GMT</dateCreated>
+		<!-- generator="WordPress/3.7.5" -->
+	</head>
+	<body>
+<outline type="category" title="Blogroll">
+	<outline text="Documentation" type="link" xmlUrl="" htmlUrl="http://codex.wordpress.org/" updated="" />
+	<outline text="Plugins" type="link" xmlUrl="" htmlUrl="http://wordpress.org/extend/plugins/" updated="" />
+	<outline text="Suggest Ideas" type="link" xmlUrl="" htmlUrl="http://wordpress.org/extend/ideas/" updated="" />
+	<outline text="Support Forum" type="link" xmlUrl="" htmlUrl="http://wordpress.org/support/" updated="" />
+	<outline text="Themes" type="link" xmlUrl="" htmlUrl="http://wordpress.org/extend/themes/" updated="" />
+	<outline text="WordPress Blog" type="link" xmlUrl="http://wordpress.org/news/feed/" htmlUrl="http://wordpress.org/news/" updated="" />
+	<outline text="WordPress Planet" type="link" xmlUrl="" htmlUrl="http://planet.wordpress.org/" updated="" />
+</outline>
+</body>
+</opml>
+<!-- This Quick Cache file was built for (  facio.com/wp-links-opml.php ) in 0.29780 seconds, on Dec 10th, 2014 at 1:52 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 10th, 2014 at 2:52 am UTC -->

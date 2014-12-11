@@ -1,0 +1,280 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 08:15:07 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; Dirk</title>
+	<atom:link href="http://facio.com/blog/author/dirk/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>On needs and motivation</title>
+		<link>http://facio.com/blog/2013/07/on-needs-and-motivation/</link>
+		<comments>http://facio.com/blog/2013/07/on-needs-and-motivation/#comments</comments>
+		<pubDate>Tue, 16 Jul 2013 12:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[motivations]]></category>
+		<category><![CDATA[needs]]></category>
+		<category><![CDATA[theory]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1103</guid>
+		<description><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to &#8230; <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to safety, to belonging and love, to self-esteem, to self-actualization, Maslow&#8217;s theory generally rings true and &#8211; as a consequence &#8211; is a standard in beginning psychology.</p>
+<p>On the other hand, you probably are not familiar with Clayton Alderfer. He advanced Maslow&#8217;s hierarchy, realizing both that the five categories were too finely grained and, more importantly, that Maslow&#8217;s notion of it being a serial continuum was inconsistent with how people actually lived. Alderfer truncated Maslow&#8217;s hierarchy into three ground of needs: Existence (physiological + safety), Relatedness (belonging and love), and Growth (self-esteem and self-actualization). This is known as ERG theory. Along with establishing that people were not completely &#8220;gated&#8221; within a lower level need until it had been moved beyond, Alderfer suggested that an inability to meet a higher level need would result in the person &#8220;doubling down&#8221; on trying to meet that need via pursuit of the lower level need. So, for example, being heartbroken (failed relatedness) might lead someone to indulge in food, drugs or sex in order to try and meet that unmet need in a different way (existence).</p>
+<p>ERG theory is an improvement on Maslow&#8217;s hierarchy. The frame it provides is more fluid, and the core assumption &#8211; that we are not locked into a lower level need in a binary way until it has been moved beyond &#8211; far more consistent with both behavioural research and general common sense. </p>
+<p>If you are interested in needs and motivations you will certainly come across Maslow; just make sure you also discover Alderfer&#8217;s ERG theory as &#8211; in our own research &#8211; it proves more theoretically valid as well as effective in application.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/on-needs-and-motivation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Compensation and transparency</title>
+		<link>http://facio.com/blog/2013/06/compensation-and-transparency/</link>
+		<comments>http://facio.com/blog/2013/06/compensation-and-transparency/#comments</comments>
+		<pubDate>Tue, 25 Jun 2013 12:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1095</guid>
+		<description><![CDATA[<p>Companies that talk the whole transparency talk almost always draw the line on the historically most sensitive of topics: compensation. There is a notion that compensation is too sensitive, that letting everyone know what each other makes is just going &#8230; <a href="http://facio.com/blog/2013/06/compensation-and-transparency/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/06/compensation-and-transparency/">Compensation and transparency</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Companies that talk the whole transparency talk almost always draw the line on the historically most sensitive of topics: compensation. There is a notion that compensation is too sensitive, that letting everyone know what each other makes is just going to invite problems that you really don&#8217;t want to deal with.</p>
+<p>There is some merit to this line of thinking. After all, the way we compensate people is hardly a meritocracy. The nature of business requires us to get most employees at as low a rate of compensation as we possibly can, in order to keep the business healthy. In the process, it is inevitable that some people are overpaid relative to their worth, while others are underpaid. This makes employees having transparency into compensation potentially frightening. More, given the relationship some people have between their relative pay and essential self-worth, the risk can go beyond destabilizing your organization to include impacting the self-esteem of one or more of your employees. It all sounds pretty scary, doesn&#8217;t it?</p>
+<p>Of course, there&#8217;s a flip side to salary transparency. For one, it promotes accountability. If your organization is generally healthy, employees won&#8217;t let others skate by, and doubly so if they are overpaid relative to their contributions. The openness of information can help you get more out of underperformers in general, but particularly those who are overpaid. Now, it will also encourage top performers who are underpaid to possibly ask for more money. But ultimately, that&#8217;s OK. Paying good people what they are worth should never be a problem; the problem is overpaying people who aren&#8217;t worth it. Another benefit can be that it helps to hasten the departure of poor performers, but if you are managing well you shouldn&#8217;t need salary transparency to accomplish <em>that</em>!</p>
+<p>The big picture upside to salary transparency is that it can, indeed, lead to a meritocratic workplace. This may not seem like a great idea to employers, who know that they get great deals on some of their employees, for whom their relative underpayment remains blissful ignorance. But that is the wrong way to look at it. The best companies are populated by motivated high performers. Knowing they are paid fairly is one of the characteristics of high performers. And for those poorly paid poor performers, well, they either need to be performing better or moving along. The net is transformative, as top performers thrive in an open environment and under performers are helped to change themselves or move into a situation where which they better align. It will surely be better for your business, and chances are it will ultimately be better for your people as well.</p>
+<p>The post <a href="http://facio.com/blog/2013/06/compensation-and-transparency/">Compensation and transparency</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/06/compensation-and-transparency/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Finding yourself</title>
+		<link>http://facio.com/blog/2013/06/finding-yourself/</link>
+		<comments>http://facio.com/blog/2013/06/finding-yourself/#comments</comments>
+		<pubDate>Tue, 18 Jun 2013 12:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[profession]]></category>
+		<category><![CDATA[Relationships]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1082</guid>
+		<description><![CDATA[<p>Finding yourself Have you ever heard the axiom that waiting until you are 25 to get married gives you the greatest chance of happiness and success in that marriage? Like most axioms, it does not account for many other contextual &#8230; <a href="http://facio.com/blog/2013/06/finding-yourself/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/06/finding-yourself/">Finding yourself</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Finding yourself" src="http://facio.com/wp-content/uploads/2013/07/Open-Road.jpg" alt="Finding yourself" /><br />
+<figcaption>Finding yourself</figcaption>
+</figure>
+<p>Have you ever heard the axiom that waiting until you are 25 to get married gives you the greatest chance of happiness and success in that marriage? Like most axioms, it does not account for many other contextual things, not the least of which that each of us are unique. But 25 is a consistent number when it comes to identifying the right time to get married. From the politically conservative Focus on the Family organization (recommends 22-25) to the quantitatively driven Gallup research organization (recommending 25-27 as the best ages), to the cheeky and decidedly un-scientific Cosmo (25), that ol&#8217; 25 number keeps showing up. And, with good reason: 25 is a typical age where many of us have started getting much closer to finding ourselves. We&#8217;ve gone to college, likely left home, and have entered the workforce. We&#8217;ve experienced life as an adult and &#8211; in most cases &#8211; had one or more jobs, one or more lovers and one or more domiciles of our own. We&#8217;ve experimented with the world a bit and figured out, on our own two feet, some degree of what works for us, what does not, and how we fit into the whole thing. This process, which gives us clarity and stability around who we are, strongly positions us to choose a good partner and forge a relationship that is worthwhile. Often without intending to do so, we&#8217;ve really started understanding ourselves.</p>
+<p>This notion of &#8220;finding yourself&#8221; is every bit as important in our careers. The best jobs are those where there is alignment between the company, the people around you, the roles the job will require of you, and what you enjoy and succeed at doing. The less aligned any of these things are, the more likely we will be unhappy, ineffective, and/or not stay very long &#8211; a classic lose-lose scenario.</p>
+<p>It took me a long time to find myself professionally. At first, I did not take my professional life at all seriously, sleepwalking thru my BA and MA before financial pressures forced me to leave the academic path and start making more money. I am naturally energetic and eager-to-please, so for a time whenever an opportunity that seemed interesting came up I was excited to just jump right in. The good news, during this period, is I learned a lot. The bad news is I kept picking things that were not good fits, leading to the thrill of learning and success quickly turning to the frustration of not enjoying what I was doing. For me, it was also complicated by ego and wanting to be &#8220;the best&#8221; in some completely generic and generally unfocused way. These were necessary steps toward my gaining real understanding.</p>
+<p>After repeating this pattern with employers it only continued when I started out as an entrepreneur. I just sort of continued on the paths that were already before me, striving forward without really stepping back and evaluating what I wanted to and really should be doing. In my case, I was actually in my late 30&#8242;s before I had a clear picture of not just what I was or was not good at, but what I really enjoyed and did not enjoy doing. That clarity &#8211; fairly recent, still &#8211; has enabled me to evolve toward a professional life that gets the most out of me while proving fulfilling in personal and professional ways. It is a path that now allows contentment and happiness to join with the previous success and effectiveness I&#8217;ve long enjoyed. It is a far better place for someone to be.</p>
+<p>My situation is just one example, but finding ourselves professionally allows us to feel the most rewarded and have our overall life positively impacted by what we do even while contributing more and better for the organizations that employ us.</p>
+<p>&nbsp;</p>
+<p>The post <a href="http://facio.com/blog/2013/06/finding-yourself/">Finding yourself</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/06/finding-yourself/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transparency, real and contrived</title>
+		<link>http://facio.com/blog/2013/06/transparency-real-and-contrived/</link>
+		<comments>http://facio.com/blog/2013/06/transparency-real-and-contrived/#comments</comments>
+		<pubDate>Tue, 04 Jun 2013 12:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1075</guid>
+		<description><![CDATA[<p>Transparency, real and contrived The Fox television network in the United States recently began airing a reality television program called Does Someone Have To Go? The premise of the show is that &#8220;brave&#8221; owners of a small company temporarily turn the &#8230; <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Transparency, real and contrived</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Transparency, real and contrived" src="http://facio.com/wp-content/uploads/2013/06/Does-Someone-Have-To-Go.jpg" alt="Transparency, real and contrived" /><br />
+<figcaption>Transparency, real and contrived</figcaption>
+</figure>
+<p>The Fox television network in the United States recently began airing a reality television program called <em>Does Someone Have To Go?</em> The premise of the show is that &#8220;brave&#8221; owners of a small company temporarily turn the management of the company over to their employees, in order for their staff to be &#8220;empowered&#8221; and make decisions to help improve the organization. There are many problems with this premise: the focus is not on real development but spectacles like all the employees seeing video ripping one another; sharing the salaries for all of the employees not for transparency but as blood-in-the-water salaciousness; the poor leadership inherent in a company that would play this contrived process out on television; the fact it is contorted to the reality show standard of &#8220;identify a small group to potentially &#8216;vote off the island&#8217;.&#8221; And, the transparency they claim to be fostering is nonsense, as the owners don&#8217;t show what they are making, just the staff that the show wants to rip each other apart. There is some sociological benefit from watching the show, but it is purely as spectacle, a look at negative traits like jealousy, insecurity, deflection and covering one&#8217;s ass.</p>
+<p>Real transparency, for the right reasons, is done carefully and in the spirit of building. Watch <em>Does Someone Have To Go?</em> and think about these contrasting points:</p>
+<p>1. You would never record the employees under a false premise and then ambush them by showing their out-of-context clips saying negatives things about other people. Getting people to be honest and talking about issues or areas of growth needs to be done in a safe, nurturing, productive way. It is hard and takes time to evolve a culture into this mode, and rather than the impact bringing out the worst in employees it typically brings out the best.</p>
+<p>2. Making change starts at the top. Healthy change incorporates bottom-up input and participation, to benefit from insights at every level of a company. But that is not achieved by throwing the situation into the laps of employees and running and hiding. It requires the ownership and leadership to lead by example, having the hard conversations and taking responsibility for the difficult things.</p>
+<p>3. Planning and communication is the heart of productive transparency. Just slinging information at employees without proper framing and context can foster misunderstanding and small-minded, counter-productive behaviour. It takes time to really plan what you are doing and why, then crafting consistent and even seemingly over-communication to ensure that &#8220;transparency&#8221; has some structure and productive meaning, not just a dump of information whose relevance is obfuscated.</p>
+<p>I&#8217;ll admit, I was excited about the idea of <em>Does Someone Have To Go?</em>. Optimistically &#8211; or, better, foolishly &#8211; I thought we might have a program that provides a deep and insightful look into change management. Instead we have a program that confirms the very worst people think about reality programs that serves as a model to illustrate the wrong way to include and empower your people.</p>
+<p>The post <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Transparency, real and contrived</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/06/transparency-real-and-contrived/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Context and development</title>
+		<link>http://facio.com/blog/2013/05/context-and-development/</link>
+		<comments>http://facio.com/blog/2013/05/context-and-development/#comments</comments>
+		<pubDate>Tue, 28 May 2013 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[teamwork]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1072</guid>
+		<description><![CDATA[<p>Context and development This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or &#8230; <a href="http://facio.com/blog/2013/05/context-and-development/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Context and development" src="http://facio.com/wp-content/uploads/2013/06/Context-and-Development.png" alt="Context and development" /><br />
+<figcaption>Context and development</figcaption>
+</figure>
+<p>This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or traded to top teams that are already successful, having coaching stability, and have clearly established roles and performers in place are more likely to reach their potential. Former coach Jeff Van Gundy credits this sort of development to the player &#8220;know(ing) who he is, and play(ing) to his role.&#8221; This theory goes on to suggest that while talented young players blossom in these conditions, the same players become mediocre when playing for poor teams because, with too much expected of them as &#8220;saviors&#8221; of a bleak situation, they struggle to figure out who they are, and they don&#8217;t have a clear, realistic role.</p>
+<p>Thee dynamics are particularly pronounced in professional basketball, where a franchise has just 12 players working for them, making a combined ~$58,000,000 &#8211; or almost $5,000,000 each on average. On the other hand IBM reports having 434,246 employees nationwide, meaning that no matter how stringent and ideal their top-down structures might be the provision of ideal employee environments will often be determined at at the level of a sub-organization or even an individual team. In business we do not enjoy the intense focus on a handful of people that allows the best organizations to consistently develop better performers.</p>
+<p>The lesson is that doing things the right way does not just help you perform better in the short-term, it creates an environment of excellence that helps you perform better later. New employees are far more likely to find their place and carve out a specific role suitable to their abilities in a stable and high-functioning organization. Yes, as always, this won&#8217;t prove true for everyone. Superstars often benefit from being &#8220;dropped into the deep end&#8221; and being given more room and freedom to develop as opposed to being constrained by a system. Remember: the Chicago Bulls were abysmal before Michael Jordan came to town, not winning more than 45 games in any season from 1975-1984. He thrived by stepping into the mess. Then, on the other side of the spectrum, while mediocre performers might become better versions of themselves in healthy organizations, they also aren&#8217;t likely to be transformed into high performers just by virtue of the context. The limitations that make them less capable &#8211; lacking in skills, motivation or just generally not embracing and putting themselves into their careers &#8211; are more difficult to change.</p>
+<p>Regardless, the bottom line is that the best way to get the most out of the majority of new hires you will make is having already implemented the bedrock of a high-performing culture: stability that crosses all of vision and strategy, management and team composition, with appropriate roles and processes that work well and are adaptable to make the most of the unique gifts and offerings of the specific people.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/context-and-development/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keep it professional</title>
+		<link>http://facio.com/blog/2013/05/keep-it-professional/</link>
+		<comments>http://facio.com/blog/2013/05/keep-it-professional/#comments</comments>
+		<pubDate>Tue, 21 May 2013 12:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[relation]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1069</guid>
+		<description><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the &#8230; <a href="http://facio.com/blog/2013/05/keep-it-professional/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the needs of the individuals over the good of the group. To the contrary, high-performing businesses require low friction relationships, objectivity without being excessively personal, and a focus on shared goals instead of individual gratification. Sure, being friendly and caring about each other is an important aspect of high-functioning teams and strong cultures. Certainly not at a level that resembles that of a family, however. In fact, it is not uncommon for small companies to express the dysfunctions often on display in families, because their small size and static power relationships lend themselves to developing similar characteristics. The analogy has merit, it just isn&#8217;t the personality companies should be going for.</p>
+<p>We&#8217;ve all been told to &#8220;keep it professional,&#8221; or &#8220;it&#8217;s nothing personal,&#8221; or some other platitude related to maintaining objectivity and viewing our professionals behaviours as being distinctly removed from our personal selves. I remember a line in a movie where the actor said something like, &#8220;When someone tells you it&#8217;s not personal, that&#8217;s when you know it is very personal.&#8221; While a catchy line, it&#8217;s not particularly true. Yes, for the person being adversely impacted by whatever is happening, if they do not maintain an appropriate professional detachment, the disappointment or upset becomes a personal feeling. That is an error of framing by that individual. In fact, we need to be diligent to remember that it isn&#8217;t, or at least shouldn&#8217;t be, personal. Great businesses come from straddling the right side of that delicate line.</p>
+<p>Now, I&#8217;m not saying it&#8217;s easy. I remember more than one time when something that was happening in my professional life felt personal, I treated as personal, and in some cases reacted in inappropriate emotional ways. It took time and experience to adjust my expectations and reactions. More than part of my professional development, it was an aspect of my personal development. Thinking back on my career, I can&#8217;t think of any moment when my own or a colleague&#8217;s bring the personal into a distinctly professional situation was for the better.</p>
+<p>So make friends at work. Be yourself as much as is appropriate in the specific professional context you inhabit. Imbue your participation with that goodness. In addition, keep it professional. Remember that your employer is ultimately in business to make good business decisions, not necessarily give you the raise or promotion or ongoing employment you want or think you deserve. Your boss might need to let you go. She might still be your friend; it&#8217;s nothing personal. The challenge for you is to manage to keep it professional.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/keep-it-professional/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The binds of personality typing</title>
+		<link>http://facio.com/blog/2013/05/the-binds-of-personality-typing/</link>
+		<comments>http://facio.com/blog/2013/05/the-binds-of-personality-typing/#comments</comments>
+		<pubDate>Tue, 14 May 2013 12:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[personality]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1066</guid>
+		<description><![CDATA[<p>Personality (n.) - The combination of characteristics or qualities that form an individual&#8217;s distinctive character. It seems pretty simple. But dictionary definitions aside, our notions of personality are either incomplete, or dictated by the conceptual models provided by different people or &#8230; <a href="http://facio.com/blog/2013/05/the-binds-of-personality-typing/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/the-binds-of-personality-typing/">The binds of personality typing</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Personality (n.) - The combination of characteristics or qualities that form an individual&#8217;s distinctive character.</p>
+<p>It seems pretty simple. But dictionary definitions aside, our notions of personality are either incomplete, or dictated by the conceptual models provided by different people or organizations. Incomplete, because we equate characteristic such as extraversion as being personality. They may be a part of it, but they surely are not all of it. That is easy enough to understand.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="The Binds of Personality Typing" src="http://facio.com/wp-content/uploads/2013/06/The-Binds-of-Personality-Typing.png" alt="The Binds of Personality Typing" /><br />
+<figcaption>The Binds of Personality Typing</figcaption>
+</figure>
+<p>The relationship between personality and conceptual models is a fair bit more difficult to untangle. These models &#8211; things like the four-letter personality type designed by Katharine Cook Briggs and Isabel Briggs Myers and the DISC method of William Marston &#8211; are helpful aids in providing us with understanding. One of the wonderful benefits of these tools is providing structure that lead to understanding. I warmly remember being first exposed to such methods in my mid-20&#8242;s via the work of David Keirsey. Whereas, up to that point, much of my understanding of others was that they were &#8220;nice&#8221; or &#8220;aggressive&#8221; or &#8220;smart&#8221; or &#8220;quiet&#8221;, suddenly I had a more sophisticated vocabulary. More than that, I had a framework within which I fit, where I could &#8220;see&#8221; myself and &#8211; in resonating with the things that I read &#8211; feel empowered. As time went on and I learned more it also helped me to understand others.</p>
+<p>These are lovely things, all. But there are problems. None of these frameworks agree with each other. There is truth to be gleaned from each of them, but which is &#8220;right&#8221;? If one is ultimately correct in any discernable way we will likely have a hard time figuring out which one, as the creators or licensees of each advocate their own to further personal gain. Unfortunately, research universities largely stay away from applied personality frameworks which is indeed a shame, as some greater level of objectivity and rigour may be offered by those organizations.</p>
+<p>Yet, discerning truth is the least of it. A larger issue is the closing down of how we look at and interpret the world. As empowering as these frameworks initially are, and as helpful as they can prove to be, they also lock our thinking into them. We see the world as ENTP&#8217;s, or as DC&#8217;s, or as 2-2-1-1&#8242;s. Practitioners as well as normal individuals associate themselves with one method or another and use that as their lens to understand personality. While each of those conceptions are interesting and useful, they are also limiting. None offers a complete picture, and they teach us to translate our understanding of others into their idiosyncratic form. It is not a completely bad thing, there are many good things about the tools. But they naturally keep us from thinking beyond their bounds both because of the benefits they provide, and the bounds themselves.</p>
+<p>So by all means, learn about personality models. Learn from the smart work that has been done, discover yourself, develop tools to understand others. But don&#8217;t let that be the only language you speak in and think about this vitally important thing, personality. Stay open-minded. Learn about other methods. Nuance both your understanding and interpretation. It is the next step to greater enlightenment in the complicated world of human understanding.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/the-binds-of-personality-typing/">The binds of personality typing</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/the-binds-of-personality-typing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Let them fail</title>
+		<link>http://facio.com/blog/2013/05/let-them-fail/</link>
+		<comments>http://facio.com/blog/2013/05/let-them-fail/#comments</comments>
+		<pubDate>Tue, 07 May 2013 12:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1063</guid>
+		<description><![CDATA[<p>Let them fail High-achieving employees who combine a strong work ethic and good attention to detail tend to be hands-on managers. Typical, positive traits of good hands-on managers is their &#8220;showing&#8221; excellence in action to their employees, keeping their eye &#8230; <a href="http://facio.com/blog/2013/05/let-them-fail/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/let-them-fail/">Let them fail</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Let them fail" src="http://facio.com/wp-content/uploads/2013/06/Let-Them-Fail.png" alt="Let them fail" /><br />
+<figcaption>Let them fail</figcaption>
+</figure>
+<p>High-achieving employees who combine a strong work ethic and good attention to detail tend to be hands-on managers. Typical, positive traits of good hands-on managers is their &#8220;showing&#8221; excellence in action to their employees, keeping their eye on assignments and development plans, and pushing them to success. One of the down sides of this management style &#8211; that sometimes seems like a strength &#8211; is intervening to ensure their employees don&#8217;t fail.</p>
+<p>Yes, preventing a failure of some sort in the moment is good for the system and assignment &#8211; in the moment. The challenge is, people need to be trusted and empowered to see something through to completion. Whether they succeed or fail, the process of going to the end and the learnings that they take from that are invaluable. Sure, they are also learning when watching someone more seasoned do it for them. But the real learning requires both watching and doing. In the early going, the doing is going to be wrong.</p>
+<p>I know, I know: for people who pursue and achieve excellence it can be hard to watch that failing happen. But it is just part of the process. In the days of master craftsmen, it was understood that there would be some waste: of time, of materials. It was literally built into the expectations of the relationship with that apprentice. Just watching, no matter for how long, doesn&#8217;t get you all the way there. Those lessons so ingrained into generations of craftspeople have been lost as we all naturally careen through the workplace.</p>
+<p>The reality is, failing is important. For young professionals, for children, for all of us who are doing new things &#8211; part of evolving beyond ignorance and clumsiness is feeling what it is like to fall down. When we see others who are struggling to figure something out, it might be hard not to help. And certainly, sometimes helping is good and important. But sometimes, every now and then, we also need to let them fail.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/let-them-fail/">Let them fail</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/let-them-fail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Giving grace</title>
+		<link>http://facio.com/blog/2013/04/giving-grace/</link>
+		<comments>http://facio.com/blog/2013/04/giving-grace/#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 12:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[personal development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1046</guid>
+		<description><![CDATA[<p>My friend Bo used to encourage me to give grace, to myself and to others. It is great advice that I was reminded of when watching this video. We are terribly hard on ourselves. We needn&#8217;t be. Leaving my skepticism &#8230; <a href="http://facio.com/blog/2013/04/giving-grace/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/04/giving-grace/">Giving grace</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>My friend Bo used to encourage me to give grace, to myself and to others. It is great advice that I was reminded of when <a href="http://www.thestar.com/life/2013/04/17/dove_video_ad_shows_women_are_more_beautiful_than_they_think.html" target="_blank">watching this video</a>.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Giving grace" src="http://facio.com/wp-content/uploads/2013/04/Grace.png" alt="Giving grace" /></p>
+<figcaption>We are terribly hard on ourselves. We needn&#8217;t be.</figcaption>
+</figure>
+<p>Leaving my skepticism on the shelf &#8211; the creator of the video, Dove, is part of an industry that fosters the same insecurities they are raising awareness of &#8211; the video illustrates how hard we are on ourselves. Rather than giving ourselves grace &#8211; focusing on the things we like, de-emphasizing or at least proportionally acknowledging the things we don&#8217;t &#8211; most of us in the western first world are hard on ourselves. It&#8217;s one of the byproducts of the values underlying success in the free market. We have learned to obsess and feel shame about our failings while overlooking all of the lovely things that each and every one of us have to offer.</p>
+<p>There is very little to gain by flogging ourselves for being something other than who we are. While behaviours unhealthy to ourselves and others should be acknowledged and mitigated, otherwise we are best-served by just accepting who we are and leveraging our positives. It will provide us with uniformly improved happiness and well-being, while positioning us in a more confident and positive light with those we love, live and work with. At the core, it is about giving ourselves grace.</p>
+<p>But we, ourselves, are only part of the equation. One of the mistakes I still frequently make is being disappointed in people who don&#8217;t do things how I would do them. Let me give you an example. On Twitter, when people converse with me, 99% of the time I&#8217;m going to respond and acknowledge them. I don&#8217;t care if I follow them or not, don&#8217;t care who or what they are. If they take the time to genuinely engage me in some way I want to show them the respect and appreciation of acknowledgement. Well, recently I sent a message to someone I don&#8217;t know, complimenting them and trying in a very small way to engage. Days passed; they did not respond. It materially changed the way I felt toward them. I was even embarrassed to not be responded to and deleted my original tweet!</p>
+<p>What a shame. I have no way of knowing why that person didn&#8217;t respond to me. The odds that it was for some reason that I would actually find hurtful &#8211; they think I&#8217;m not worthy of the time &#8211; are quite low. There are dozens of other, very benign, reasons they didn&#8217;t acknowledge me. Yet, I put my own framing on the situation and chose to have negative feelings: about them, about the situation, and about myself. Isn&#8217;t it ridiculous? Why do we assume the worst? Why do we not give others the grace to be themselves?</p>
+<p>As I get older, I am less apt to shenanigans such as that example. But it is hard to just naturally and easily give others grace. It is not how we are generally taught, and we are making ourselves vulnerable by leaning into that possible weakness or embarrassment. In most cases, though, that vulnerability is unlikely to turn into something actually hurtful. Instead, by foregoing our fear, we have less negative energy, more self-assuredness, and are treating ourselves and others better. It&#8217;s a no brainer, really, but often easier said than done. When in doubt, give yourself (or them) grace!</p>
+<p>The post <a href="http://facio.com/blog/2013/04/giving-grace/">Giving grace</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/04/giving-grace/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/author/dirk/feed/ ) in 0.65187 seconds, on Dec 8th, 2014 at 8:15 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 9:15 am UTC -->

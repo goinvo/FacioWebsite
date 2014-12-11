@@ -1,0 +1,60 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:58:44 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; skills</title>
+	<atom:link href="http://facio.com/blog/tag/skills/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>On behaviours, preference and skills</title>
+		<link>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/</link>
+		<comments>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/#comments</comments>
+		<pubDate>Tue, 05 Jun 2012 12:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+		<category><![CDATA[preferences]]></category>
+		<category><![CDATA[skills]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=331</guid>
+		<description><![CDATA[<p>One of the most difficult parts of understanding yourself is first being aware of, then being attuned to the relationships between, your behaviours, skills and preferences. While there are a variety of tools for measuring these aspects independently, we have &#8230; <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">On behaviours, preference and skills</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the most difficult parts of understanding yourself is first being aware of, then being attuned to the relationships between, your behaviours, skills and preferences. While there are a variety of tools for measuring these aspects independently, we have not found any tools that integrate them in a useful way. That&#8217;s what our <a href="https://fac.io/report/4f75192b713be629f400001c/blended/spider/" target="_blank">blended report</a> is for. Still, while getting the data is a big part of finding your way to understanding, it really helps to have a basic idea of what you&#8217;re looking at. So let&#8217;s talk a little about these three aspects of the individual and how they work together:</p>
+<p>Behaviours are what we actually do in the world. They are how we act, and interact. In some real way they are who we really are to other people: they only know what they are able to see.</p>
+<p>Preferences are our inherent comfort levels. They reflect how we most prefer things to be, regardless of how they really are. Often times other people aren&#8217;t aware of our preferences; in fact sometimes even we aren&#8217;t aware of our preferences!</p>
+<p>Skills are the abilities we have to function in different ways. We may or may not exercise them at a given moment or in a situation, but they provide a framework for what we are or are not able to do.</p>
+<p>While each of those are interesting in and of themselves, deeper insight begins at their intersections. Consider:</p>
+<figure style="width: 300px;" class="left"><a href="http://facio.com/wp-content/uploads/2012/06/beh_pref_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-582" title="Facio Behaviours &amp; Preferences" src="http://facio.com/wp-content/uploads/2012/06/beh_pref_other_snapshot1-300x283.jpg" alt="" width="300" height="283" />Click to view</a></p>
+<figcaption>While I allow my natural Introversion to come out with people I work closely with, I behave much more like a Thinker than the natural Feeler that I am.</figcaption>
+</figure>
+<p>Behaviours and Preferences. Considering these two together give you an indication a to how much a person is functioning within their natural comfort levels. While we homo sapiens are a tough and resilient lot that can successfully behave in ways that are not consistent with our natural preferences, it is generally not the healthiest and happiest way for us to be. Identifying misalignment between behaviours and preferences can help people gain awareness and understanding of aspects of their life that might be unknowingly contributing stress and discomfort. While valuable on an everyday basis it can be particularly informative as people are ready to change teams or jobs or even careers, helping them to more proactively define engagements and environments that align their personal comfort levels for what and how they are performing their responsibilities.</p>
+<figure style="width: 300px;" class="right"><a href="http://facio.com/wp-content/uploads/2012/06/beh_skill_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-584" title="Facio Behaviours &amp; Skills" src="http://facio.com/wp-content/uploads/2012/06/beh_skill_other_snapshot1-300x281.jpg" alt="" width="300" height="281" />Click to view</a></p>
+<figcaption>Despite my strongly Introverted behaviour, my solid skills around communication and interaction come through.</figcaption>
+</figure>
+<p>Behaviours and Skills. When viewing these two together you are able to get a sense not just of what the person is doing, but also some degree of how well they are doing it. People with very strong skills in a particular area &#8211; say, communication &#8211; will often have behaviours that are harder to pin down with specificity. Why? Their skill in that area allows them to communicate in the way most appropriate to the situation or people they need to interact with. On the other hand, when someone&#8217;s skill is very high and their behaviours are more extreme and specifically defined, they are likely very skilled at a particular method or style of communication but not necessarily adept at customizing for different situations. They just have their way, and do it extremely well.</p>
+<figure style="width: 300px;" class="left"><a href="http://facio.com/wp-content/uploads/2012/06/pref_skill_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-585" title="Facio Preferences &amp; Skills" src="http://facio.com/wp-content/uploads/2012/06/pref_skill_other_snapshot1-300x284.jpg" alt="" width="300" height="284" />Click to view</a></p>
+<figcaption>Strong skills working across Thinking and Feeling preferences, in this specific area, indicates an ability to shift against preference for the greater good.</figcaption>
+</figure>
+<p>Preferences and Skills. Analyzing these two together can provide valuable insight into the relationship between what someone is comfortable with and what they are good at. Often times, these things line up. We naturally gravitate toward things that make us comfortable, and in the process become better at those things through repetition. However there are also times where our preferences and skills look very different. This can be due to a number of factors, including our inherent strengths and weaknesses or gaining skills to better succeed or fit into our environments. Alignment between preferences and skills can provide insight into how people might react in certain situations. Major differences between preferences and skills may reflect a person who has worked hard to succeed in ways not naturally comfortable for them, but which seemed necessary.</p>
+<p>Of course, bringing all three together provides even deeper opportunities for analysis and insight. In a later update I will use my own profile to share some examples of the power and potential of that. Have a great rest of the day!</p>
+<p>The post <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">On behaviours, preference and skills</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/skills/feed/ ) in 0.39983 seconds, on Dec 5th, 2014 at 9:58 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:58 am UTC -->

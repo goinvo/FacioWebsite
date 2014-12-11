@@ -1,0 +1,24 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.26";i:1;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:2;s:40:"ETag: "99b889a9cd748e8b4eca0eb3758d138d"";i:3;s:38:"Expires: Wed, 11 Jan 1984 05:00:00 GMT";i:4;s:44:"Last-Modified: Wed, 14 Aug 2013 14:15:21 GMT";i:5;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:6;s:16:"Pragma: no-cache";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; Page not found</title>
+	<atom:link href="http://facio.com/author/travis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Jul 2013 20:26:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/author/travis/feed/ ) in 0.61125 seconds, on Aug 14th, 2013 at 2:15 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Aug 14th, 2013 at 3:15 pm UTC -->

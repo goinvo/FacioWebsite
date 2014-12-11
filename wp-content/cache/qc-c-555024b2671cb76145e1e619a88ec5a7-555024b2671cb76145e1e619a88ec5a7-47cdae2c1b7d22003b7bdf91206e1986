@@ -1,0 +1,106 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 12:55:11 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; training</title>
+	<atom:link href="http://facio.com/blog/tag/training/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Context and development</title>
+		<link>http://facio.com/blog/2013/05/context-and-development/</link>
+		<comments>http://facio.com/blog/2013/05/context-and-development/#comments</comments>
+		<pubDate>Tue, 28 May 2013 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[teamwork]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1072</guid>
+		<description><![CDATA[<p>Context and development This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or &#8230; <a href="http://facio.com/blog/2013/05/context-and-development/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Context and development" src="http://facio.com/wp-content/uploads/2013/06/Context-and-Development.png" alt="Context and development" /><br />
+<figcaption>Context and development</figcaption>
+</figure>
+<p>This week I read an article talking about how professional basketballer players in the National Basketball League tend to develop relative to the context that they are placed in. Good, young players who are drafted by or traded to top teams that are already successful, having coaching stability, and have clearly established roles and performers in place are more likely to reach their potential. Former coach Jeff Van Gundy credits this sort of development to the player &#8220;know(ing) who he is, and play(ing) to his role.&#8221; This theory goes on to suggest that while talented young players blossom in these conditions, the same players become mediocre when playing for poor teams because, with too much expected of them as &#8220;saviors&#8221; of a bleak situation, they struggle to figure out who they are, and they don&#8217;t have a clear, realistic role.</p>
+<p>Thee dynamics are particularly pronounced in professional basketball, where a franchise has just 12 players working for them, making a combined ~$58,000,000 &#8211; or almost $5,000,000 each on average. On the other hand IBM reports having 434,246 employees nationwide, meaning that no matter how stringent and ideal their top-down structures might be the provision of ideal employee environments will often be determined at at the level of a sub-organization or even an individual team. In business we do not enjoy the intense focus on a handful of people that allows the best organizations to consistently develop better performers.</p>
+<p>The lesson is that doing things the right way does not just help you perform better in the short-term, it creates an environment of excellence that helps you perform better later. New employees are far more likely to find their place and carve out a specific role suitable to their abilities in a stable and high-functioning organization. Yes, as always, this won&#8217;t prove true for everyone. Superstars often benefit from being &#8220;dropped into the deep end&#8221; and being given more room and freedom to develop as opposed to being constrained by a system. Remember: the Chicago Bulls were abysmal before Michael Jordan came to town, not winning more than 45 games in any season from 1975-1984. He thrived by stepping into the mess. Then, on the other side of the spectrum, while mediocre performers might become better versions of themselves in healthy organizations, they also aren&#8217;t likely to be transformed into high performers just by virtue of the context. The limitations that make them less capable &#8211; lacking in skills, motivation or just generally not embracing and putting themselves into their careers &#8211; are more difficult to change.</p>
+<p>Regardless, the bottom line is that the best way to get the most out of the majority of new hires you will make is having already implemented the bedrock of a high-performing culture: stability that crosses all of vision and strategy, management and team composition, with appropriate roles and processes that work well and are adaptable to make the most of the unique gifts and offerings of the specific people.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/context-and-development/">Context and development</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/context-and-development/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coaches: a smart investment</title>
+		<link>http://facio.com/blog/2013/04/coaches-a-smart-investment/</link>
+		<comments>http://facio.com/blog/2013/04/coaches-a-smart-investment/#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 12:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1023</guid>
+		<description><![CDATA[<p>The older I get, the more deeply I value the role of specialist coaches and consultants to get the most out of our people and organization. At first, investing in a coach or consultant can seem expensive. Comparing their hourly &#8230; <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Coaches: a smart investment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The older I get, the more deeply I value the role of specialist coaches and consultants to get the most out of our people and organization.</p>
+<p>At first, investing in a coach or consultant can seem expensive. Comparing their hourly rate to what you could hire someone for, or going down the logic trail of &#8220;I pay Bob big bucks already, if I need to pay these rates to a coach to get Bob on track then why is Bob here in the first place?&#8221; is a self-destructive exercise. Consider:</p>
+<p>First, each of us have strengths and weaknesses. So it is likely that many of us are in roles where our strengths are not being optimized and our weaknesses further exposed. Or, if we are, our weaknesses are going to spring up from time-to-time. The expectation that we should just be plug-and-play effective is unrealistic.</p>
+<p>Next, none of us are perfect. We have good days and bad; even good and bad weeks or months. While the &#8220;bad&#8221; periods are certainly not good for anyone &#8211; including our employer who presumably keeps paying us regardless &#8211; they should be expected. &#8220;Bob&#8221; in my above example may be struggling, but our simply expecting him to suck it up and improve since we&#8217;re paying him isn&#8217;t consistent with reality.</p>
+<p>Additionally, improving and actually contributing more than we are otherwise able takes an investment. This might be an investment of time or money, but either way something different needs to happen to be a catalyst for, well, different things starting to happen! Expecting it to happen through osmosis or because someone is given a pep talk (or development plan) is scattershot and puts the success or failure outside of your hands as a manager or employer.</p>
+<p>The great thing about a strong coach is that they bring the total package to the table: it is their time that goes into managing the development; it is their specialized expertise that makes the most of the development; it is their experience doing this with many other people that makes it likely the development is going to succeed.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Coaches: a smart investment" src="http://facio.com/wp-content/uploads/2013/03/Coach_300.jpg" alt="Coaches: a smart investment" /><br />
+<figcaption>When we hear the word &#8220;coach&#8221; it might conjure up images of someone with a whistle, but professional coaches can transform your employees and business.</figcaption>
+</figure>
+<p>I remember an employee who once worked for me. An extremely hard-working fellow, very nice and generally capable, he just didn&#8217;t seem able to &#8220;make it happen&#8221; in the things we were expecting of him. And, we didn&#8217;t really know how to properly guide or necessarily manage him. Despite the fact he was jut the kind of person we wanted in our organization, we were frustrated with him. We talked about letting him go. We couldn&#8217;t understand why he didn&#8217;t just &#8220;make it happen.&#8221; Instead of letting our frustration take us to the point of letting him go, we doubled down and provided him with a coach. He immediately began to excel. The coach&#8217;s combination of management attention and domain-specific guidance and expertise was transformative. Not only did his performance significantly improve, the coach told us he&#8217;s one of the strongest employees he&#8217;s ever worked with, an absolute model.</p>
+<p>If we hadn&#8217;t made the investment in the coach, it would have ended very differently. And, we paid less for the coach than paying a recruiter to replace our employee &#8211; with someone who likely would not have been the same kind of star &#8211; would have cost. Literally everyone won as the company&#8217;s bottom line benefitted, our culture was burgeoned from re-investing in someone everyone liked, and the employee&#8217;s potential was fully unlocked in way that were not just beneficial to success in his role but also to him personally.</p>
+<p>This is just one example, but it really illustrates the power a good coach can have. Yes, the hourly rate might seem high. Yes, our intuition might be that the employee should just &#8220;suck it up&#8221; and &#8220;get the job done&#8221;. These are just bad excuses. The investment in a good coach or consultant is an investment of vision. It is one of those uncommon things that is likely to have a positive impact on both your short-term bottom line and your long-term culture and employee wellness. If you have an employee who is generally a good fit, double-down on unlocking their potential.</p>
+<p>The post <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Coaches: a smart investment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/04/coaches-a-smart-investment/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Helping hires excel</title>
+		<link>http://facio.com/blog/2013/03/helping-hires-excel/</link>
+		<comments>http://facio.com/blog/2013/03/helping-hires-excel/#comments</comments>
+		<pubDate>Tue, 12 Mar 2013 12:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=931</guid>
+		<description><![CDATA[<p>A little bit of training and discipline when a new employee starts can go a long way to making their tenure with you a success. Not enough attention or investment is paid to training new employees. Well-orchestrated and properly designed &#8230; <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Helping hires excel</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Helping Hires Excel" src="http://facio.com/wp-content/uploads/2013/03/HelpingHiresExcel.jpg" alt="Helping Hires Excel" /></p>
+<figcaption>A little bit of training and discipline when a new employee starts can go a long way to making their tenure with you a success.</figcaption>
+</figure>
+<p>Not enough attention or investment is paid to training new employees. Well-orchestrated and properly designed training is proven to increase retention. More than that, it creates alignment between the new hire and the expectations of the company, management and their particular position. It also is the best time to get an employee&#8217;s behaviour to shift from their past or natural inclinations into what your organization needs.</p>
+<p>We&#8217;ve all heard the phrase &#8220;honeymoon phase&#8221;. This is the period when a person &#8211; whether in a new job or new relationship &#8211; is behaving aspirationally and trying to adapt to better fit with their opposite. Not only is it the time when you see more of the &#8220;best self&#8221; of a person, it is when they are most susceptible to training and change.</p>
+<p>You have a short period of time after a new employee comes to teach them new things that require big behavior change and make it stick. Even if someone doesn&#8217;t like process &#8211; say, using Salesforce.com to track their sales activity &#8211; you can often get them on board and using it if you get them on it early and turn it into a habit. On the other hand, when you have an employee who has been working at your company without that discipline for a long time and then you try to get them on it, it is much harder.</p>
+<p>Being sure to train new employees just makes sense. We invest our time and money in finding and closing new talent; shouldn&#8217;t we do our best to make their tenure as long and productive as possible? It&#8217;s a no brainer.</p>
+<p>The post <a href="http://facio.com/blog/2013/03/helping-hires-excel/">Helping hires excel</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/helping-hires-excel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/training/feed/ ) in 0.81604 seconds, on Dec 8th, 2014 at 12:55 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 1:55 pm UTC -->

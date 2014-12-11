@@ -1,0 +1,19 @@
+a:10:{i:0;s:24:"X-Powered-By: PHP/5.3.27";i:1;s:38:"Expires: Wed, 11 Sep 2013 15:49:19 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:19:"Last-Modified:  GMT";i:6;s:40:"ETag: "99b889a9cd748e8b4eca0eb3758d138d"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:46:"Link: <http://facio.com/?p=366>; rel=shortlink";i:9;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Re-thinking rejection</title>
+	<atom:link href="http://facio.com/blog/2012/09/re-thinking-rejection-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com/blog/2012/09/re-thinking-rejection-2/</link>
+	<description></description>
+	<lastBuildDate></lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/2012/09/re-thinking-rejection-2/feed/ ) in 0.79538 seconds, on Sep 18th, 2013 at 3:49 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Sep 18th, 2013 at 4:49 pm UTC -->

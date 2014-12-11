@@ -1,0 +1,162 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 08:38:35 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; leadership</title>
+	<atom:link href="http://facio.com/blog/tag/leadership/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Tragedy of the cubicles</title>
+		<link>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/</link>
+		<comments>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[teamwork]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1098</guid>
+		<description><![CDATA[<p>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well &#8230; <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Genuine tragedies in the world are not conflicts between right and wrong. They are conflicts between two rights.&#8221;  - Georg Wilhelm Friedrich Hegel</em></p>
+<p>Hegel was talking about wars, but the insight is relevant to everyday life. What makes dealing well with other people so difficult is that each of our perspectives and motives are &#8220;right&#8221; subjectively, &#8220;right&#8221; at least in some part small or large objectively, and the degree to which they cause trouble is in their coming into conflict with the perspectives and motives of others. I was keenly reminded of this while catching up with an old employee recently.</p>
+<p>They (call him Richie) were telling me about how their most recent employment ended. From their perspective, the person responsible for managing the software project they were on the team for (call him Zane) was making poor decisions, and those decisions led to repeated failure in the eyes of the business unit. Richie decided to go over Zane&#8217;s head to his boss and explain the failures were due to Zane&#8217;s poor management. Zane&#8217;s boss, who perhaps had a closer relationship with Zane than Richie realized, told Zane about the complaint and Zane quickly fired Richie. After being fired, Richie went one level higher up in the organization about the issue, which led to a larger internal inquiry that sucked in everyone on the team. Result? Richie, who had already been fired, stayed fired. However, his co-workers validated his complaints and Zane was removed from management and demoted.</p>
+<p>I only have one person&#8217;s rendition of this story, so let&#8217;s treat it is a hypothetical. Who is right and who is wrong? Consider:</p>
+<p>1. Zane manages the project/team in a particular way</p>
+<p>2. The project has a series of misfires and draws negative attention from the rest of the organization</p>
+<p>3. Richie perceives Zane as the problem and wants to change the situation</p>
+<p>4. Richie goes over Zane&#8217;s head to have the situation addressed</p>
+<p>5. Zane feels blindsided to discover that Richie is trying to undermine him</p>
+<p>6. Zane sees Richie as insubordinate and fires him</p>
+<p>7. Richie accelerates his campaign to have Zane addressed</p>
+<p>8. Zane is demoted</p>
+<p>This is a typical sort of &#8220;everyday tragedy&#8221; that happens in business. Zane is managing poorly. Richie responds to that badly, neither addressing it with Zane directly or raising incremental issues instead of going nuclear. Each certainly had reasons that seemed correct to them, Zane for his managerial choices and Richie for how he attempted to work up the chain to address them. Both felt correct and justified. And yet, each also presumably felt the other was entirely unreasonable and derelict in their duty. Either or both of them may have been correct. It is a knotted mess, and the very essence of Hegel&#8217;s conception of tragedy.</p>
+<p>As with most things, simple communication would likely have mitigated this entire escalation: if Richie or others had tried to address the situation more incrementally, before it become so problematic. If Richie had tried to speak with Zane first, instead of going to his boss to begin with. If Zane had seemed more open to constructive feedback, cultivating an environment of openness and growth. If Zane had used the experience as a moment of growth instead of a club to hit Richie with. Yet, the lack of these things resulted in the project experiencing repeated failures, Richie out of a job, and Zane demoted.</p>
+<p>This sort of situation is all too common in business, but ultimately easy to address within the right culture. While conflicts between right and right are inevitable, there is no reason for them to devolve into tragedy.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/tragedy-of-the-cubicles/">Tragedy of the cubicles</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/tragedy-of-the-cubicles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transparency, real and contrived</title>
+		<link>http://facio.com/blog/2013/06/transparency-real-and-contrived/</link>
+		<comments>http://facio.com/blog/2013/06/transparency-real-and-contrived/#comments</comments>
+		<pubDate>Tue, 04 Jun 2013 12:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1075</guid>
+		<description><![CDATA[<p>Transparency, real and contrived The Fox television network in the United States recently began airing a reality television program called Does Someone Have To Go? The premise of the show is that &#8220;brave&#8221; owners of a small company temporarily turn the &#8230; <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Transparency, real and contrived</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Transparency, real and contrived" src="http://facio.com/wp-content/uploads/2013/06/Does-Someone-Have-To-Go.jpg" alt="Transparency, real and contrived" /><br />
+<figcaption>Transparency, real and contrived</figcaption>
+</figure>
+<p>The Fox television network in the United States recently began airing a reality television program called <em>Does Someone Have To Go?</em> The premise of the show is that &#8220;brave&#8221; owners of a small company temporarily turn the management of the company over to their employees, in order for their staff to be &#8220;empowered&#8221; and make decisions to help improve the organization. There are many problems with this premise: the focus is not on real development but spectacles like all the employees seeing video ripping one another; sharing the salaries for all of the employees not for transparency but as blood-in-the-water salaciousness; the poor leadership inherent in a company that would play this contrived process out on television; the fact it is contorted to the reality show standard of &#8220;identify a small group to potentially &#8216;vote off the island&#8217;.&#8221; And, the transparency they claim to be fostering is nonsense, as the owners don&#8217;t show what they are making, just the staff that the show wants to rip each other apart. There is some sociological benefit from watching the show, but it is purely as spectacle, a look at negative traits like jealousy, insecurity, deflection and covering one&#8217;s ass.</p>
+<p>Real transparency, for the right reasons, is done carefully and in the spirit of building. Watch <em>Does Someone Have To Go?</em> and think about these contrasting points:</p>
+<p>1. You would never record the employees under a false premise and then ambush them by showing their out-of-context clips saying negatives things about other people. Getting people to be honest and talking about issues or areas of growth needs to be done in a safe, nurturing, productive way. It is hard and takes time to evolve a culture into this mode, and rather than the impact bringing out the worst in employees it typically brings out the best.</p>
+<p>2. Making change starts at the top. Healthy change incorporates bottom-up input and participation, to benefit from insights at every level of a company. But that is not achieved by throwing the situation into the laps of employees and running and hiding. It requires the ownership and leadership to lead by example, having the hard conversations and taking responsibility for the difficult things.</p>
+<p>3. Planning and communication is the heart of productive transparency. Just slinging information at employees without proper framing and context can foster misunderstanding and small-minded, counter-productive behaviour. It takes time to really plan what you are doing and why, then crafting consistent and even seemingly over-communication to ensure that &#8220;transparency&#8221; has some structure and productive meaning, not just a dump of information whose relevance is obfuscated.</p>
+<p>I&#8217;ll admit, I was excited about the idea of <em>Does Someone Have To Go?</em>. Optimistically &#8211; or, better, foolishly &#8211; I thought we might have a program that provides a deep and insightful look into change management. Instead we have a program that confirms the very worst people think about reality programs that serves as a model to illustrate the wrong way to include and empower your people.</p>
+<p>The post <a href="http://facio.com/blog/2013/06/transparency-real-and-contrived/">Transparency, real and contrived</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/06/transparency-real-and-contrived/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>People leave</title>
+		<link>http://facio.com/blog/2013/03/people-leave/</link>
+		<comments>http://facio.com/blog/2013/03/people-leave/#comments</comments>
+		<pubDate>Tue, 19 Mar 2013 12:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[firing]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=970</guid>
+		<description><![CDATA[<p>I&#8217;m going to turn 40 this year. Beyond symbolically being &#8220;in the middle&#8221;, it puts me square in the middle of two very different ways of looking at the work world. Trying to prevent people from leaving, or punishing them &#8230; <a href="http://facio.com/blog/2013/03/people-leave/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/people-leave/">People leave</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m going to turn 40 this year. Beyond symbolically being &#8220;in the middle&#8221;, it puts me square in the middle of two very different ways of looking at the work world.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="People Leave" src="http://facio.com/wp-content/uploads/2013/03/PeopleLeave.jpg" alt="People Leave" /><br />
+<figcaption>Trying to prevent people from leaving, or punishing them for doing so, is a sign of poor management.</figcaption>
+</figure>
+<p>I grew up being taught that you should find a good company, give them your best effort for 40&#8242;ish years, be well rewarded, then retire and live The Good Life of laying around and taking up a hobby. The reality of today&#8217;s workplace is that people search for opportunities that provide the right experience and/or lifestyle, then are quick to seek out and move into positions elsewhere that are better fits for the life they want to live. It took me a couple of jobs to shift from seeing work as &#8220;married forever&#8221; to &#8220;it&#8217;s mostly about me&#8221;. The changes are a good thing, but some of our thinking remains mired in the older, outmoded ways.</p>
+<p>Recently one of my employees left Facio. He was an outstanding contributor and very strong cultural fit. However, another company more mature than us recognized his excellence and offered him 50% more salary and going from overseeing a team of two others to overseeing a team of 30 others. It greatly accelerated his career arc, and more rapidly put him in a position that aligned with the breadth of impact he wants to have. While terribly disappointed to lose him, I was thrilled for the chance he was being given.</p>
+<p>Often times we do not have that open-minded reaction. More than once, I&#8217;ve seen reactions to an announced departure range from anger to betrayal to disgust. Not only does it not honour the person who is leaving, it is entirely counter-productive. Other employees seeing an adverse reaction to a departure are learning how the employer treats other employees, and take for granted they may be subjected to the same negativity. It lowers morale, decreases loyalty and can have a chilling impact on the environment. Treating people positively and supportively is better for your company, better for them, and ultimately better for you. Positive emotions are proven to increase the quality and length of our lives.</p>
+<p>The bottom line is: people leave. Sometimes you want them to; other times you don&#8217;t. Sometimes you are surprised; other times you see it coming. Sometimes they are leaving at a clean and comfortable moment; other times it is exceedingly messy and inconvenient. Regardless of the particular circumstances, expecting that people are (all!) going to leave should be a given, and making their departure as positive it can be given the specific circumstances is the best thing you can do in your role for your employer and for yourself as a citizen.</p>
+<p>&nbsp;</p>
+<p>The post <a href="http://facio.com/blog/2013/03/people-leave/">People leave</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/people-leave/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Great leadership requires context</title>
+		<link>http://facio.com/blog/2012/12/great-leadership-requires-context/</link>
+		<comments>http://facio.com/blog/2012/12/great-leadership-requires-context/#comments</comments>
+		<pubDate>Tue, 18 Dec 2012 00:15:32 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[context]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=833</guid>
+		<description><![CDATA[<p>The thing I find most remarkable about popular literature and dogma about leadership is how it takes a “one size fits all” approach. While certainly convenient for minting best-sellers, filling headlines and providing pithy catchphrases, the reality is different situations &#8230; <a href="http://facio.com/blog/2012/12/great-leadership-requires-context/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/12/great-leadership-requires-context/">Great leadership requires context</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The thing I find most remarkable about popular literature and dogma about leadership is how it takes a “one size fits all” approach. While certainly convenient for minting best-sellers, filling headlines and providing pithy catchphrases, the reality is different situations require significantly different types of leaders.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Great Leadership" src="http://facio.com/wp-content/uploads/2013/01/GreatLeadership.jpg" alt="Phone" /><br />
+<figcaption>Each situation is different, and rarely does a “one-size-fits-all” solution belong.</figcaption>
+</figure>
+<p>For example, the transparency required to run a bleeding edge consumer software firm today directly clashes with the delicate privacy required when leading an old, tradition-laden financial institution. The nature of the organizations require different approaches to information. Or, that the “lead the leaders” skills required to be exceptional running a large organization is ineffective in a start-up, which requires hands-on execution, hustling and leading by example. Or, that the command and control style that can be effective when getting productivity out of unmotivated laborers falls flat when trying to get the most out of curious creatives.</p>
+<p>This is not rocket science; it is actually pretty simple logic. Yet the sources offering knowledge continue to favor the “one side fits all” approach. In order to grow, to be great leaders and managers, we need to be aware of our context. The right or best approach or set of skills for succeeding in one situation most certainly won’t prove effective in many others. So the next time you read the latest breathless press about the latest fad leadership method, read about it with a critical eye: what are the right situations to take this approach or exercise these skills? If I try to develop myself, and emulate the strategies being suggested by the gurus, will they prove effective in my unique situation?</p>
+<p>Ultimately, what matters is what works in your specific context: you, your company, and the people requiring leadership. No two situations are quite the same and, while so-called best practices might have some value for you, the best overall solution is one firmly grounded in your particular experience.</p>
+<p>The post <a href="http://facio.com/blog/2012/12/great-leadership-requires-context/">Great leadership requires context</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/12/great-leadership-requires-context/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Leadership and context</title>
+		<link>http://facio.com/blog/2012/09/leadership-and-context/</link>
+		<comments>http://facio.com/blog/2012/09/leadership-and-context/#comments</comments>
+		<pubDate>Tue, 25 Sep 2012 12:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[preferences]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=670</guid>
+		<description><![CDATA[<p>Successful leadership depends greatly on the context and the needs of the people being led. I vividly remember a happy meeting with a departing intern. I authentically celebrated her good contributions, she earnestly complimented me in ways I would not &#8230; <a href="http://facio.com/blog/2012/09/leadership-and-context/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/09/leadership-and-context/">Leadership and context</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 600px;"><img class="alignnone size-full wp-image-488" title="Leadership And Context" src="http://facio.com/wp-content/uploads/2012/09/LeadershipContext.jpg" alt="Albert Einstein" /><br />
+<figcaption>Successful leadership depends greatly on the context and the needs of the people being led.</figcaption>
+</figure>
+<p>I vividly remember a happy meeting with a departing intern. I authentically celebrated her good contributions, she earnestly complimented me in ways I would not have imagined, and it was the very best of what a boss-employee parting should look like. It reminded me how much I genuinely enjoy the people I am able to work with in the right way.</p>
+<p>&#8220;In the right way.&#8221; That is a complicated little turn-of-phrase. You see, I am extremely introverted in ways that create interpersonal challenges. I dislike large group settings: although I am able to perform admirably on demand, in the context of an everyday work environment, I don&#8217;t and can seem cold and distant. I also dislike inauthentic interactions: when I am able to &#8220;dive deep&#8221; with someone and pay attention to them while they pay attention to me, my relationships are very powerful. However, when the time involved or nature of the interaction is more superficial, I become impatient. Which, again, can make me seem cold and distant.</p>
+<p>This particular employee called me a &#8220;great leader&#8221; and that she could not imagine a boss would eschew a hierarchical relationship and be so warm, engaging and directly involved in her well-being and development. This, of course, is the most humbling and appreciated feedback I could possibly get. But so many past people I&#8217;ve worked with would guffaw at the words &#8220;great leader&#8221;, because they knew me in a different context that was less in my wheelhouse for success, or even when I was younger and less developed as a person. While it was joyous to hear those words and know they were authentic and even reasonable for that particular person, I am under no illusion that I am a great leader. I can be, and sometimes am. More often I am, like most people, performing in ways that range from adequate to very good. Rarely great and rarely terrible, I&#8217;m doing my best in contexts that are uncomfortable and with people that I may or may not fit well with.</p>
+<p>One of the secrets to being the most of who we can be &#8211; with &#8220;most&#8221; being more of a qualitative than quantitative descriptor &#8211; is understand how and why you thrive and putting yourself into those positions. My particular weaknesses do not translate well to effective leadership in a traditional sense, but each day I am trying to tune myself as well as my contexts in order to more reliably and repeatably be participating in situations that could result in people seeing me as a great leader. Of course I want to be; I just also want to remain resonant with my essential self.</p>
+<p>For others, your limitations and strengths and comfort levels are unique and, in most cases, vastly different from mine. The secret for each of us is to get in touch with these things and design our lives to resonate with the best and strongest parts as much as we can. From there we will not just become potentially great leaders, but people living better lives.</p>
+<p>The post <a href="http://facio.com/blog/2012/09/leadership-and-context/">Leadership and context</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/09/leadership-and-context/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/leadership/feed/ ) in 0.59387 seconds, on Dec 8th, 2014 at 8:38 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 9:38 am UTC -->

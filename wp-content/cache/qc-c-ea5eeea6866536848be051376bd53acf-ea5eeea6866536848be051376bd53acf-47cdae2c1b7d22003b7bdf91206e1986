@@ -1,0 +1,7 @@
+a:6:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:2;s:38:"Expires: Wed, 11 Jan 1984 05:00:00 GMT";i:3;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:4;s:16:"Pragma: no-cache";i:5;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="utf-8"?>
+<response>
+<error>1</error>
+<message>I really need an ID for this to work.</message>
+</response>
+<!-- This Quick Cache file was built for (  facio.com/wp-trackback.php ) in 0.31910 seconds, on Dec 10th, 2014 at 1:52 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 10th, 2014 at 2:52 am UTC -->

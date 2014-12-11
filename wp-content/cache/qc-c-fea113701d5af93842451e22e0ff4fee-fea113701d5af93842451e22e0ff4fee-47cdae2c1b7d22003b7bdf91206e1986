@@ -1,0 +1,74 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Sun, 30 Nov 2014 09:14:33 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; motivations</title>
+	<atom:link href="http://facio.com/blog/tag/motivations/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>On needs and motivation</title>
+		<link>http://facio.com/blog/2013/07/on-needs-and-motivation/</link>
+		<comments>http://facio.com/blog/2013/07/on-needs-and-motivation/#comments</comments>
+		<pubDate>Tue, 16 Jul 2013 12:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[motivations]]></category>
+		<category><![CDATA[needs]]></category>
+		<category><![CDATA[theory]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1103</guid>
+		<description><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to &#8230; <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Chances are you&#8217;re familiar with Abraham Maslow&#8217;s Hierarchy of Needs. Maslow posited that there is a sequence of prepotent needs, each of which must be satisfied before a higher level need emerges in the subject&#8217;s consciousness. Progressing from physiological, to safety, to belonging and love, to self-esteem, to self-actualization, Maslow&#8217;s theory generally rings true and &#8211; as a consequence &#8211; is a standard in beginning psychology.</p>
+<p>On the other hand, you probably are not familiar with Clayton Alderfer. He advanced Maslow&#8217;s hierarchy, realizing both that the five categories were too finely grained and, more importantly, that Maslow&#8217;s notion of it being a serial continuum was inconsistent with how people actually lived. Alderfer truncated Maslow&#8217;s hierarchy into three ground of needs: Existence (physiological + safety), Relatedness (belonging and love), and Growth (self-esteem and self-actualization). This is known as ERG theory. Along with establishing that people were not completely &#8220;gated&#8221; within a lower level need until it had been moved beyond, Alderfer suggested that an inability to meet a higher level need would result in the person &#8220;doubling down&#8221; on trying to meet that need via pursuit of the lower level need. So, for example, being heartbroken (failed relatedness) might lead someone to indulge in food, drugs or sex in order to try and meet that unmet need in a different way (existence).</p>
+<p>ERG theory is an improvement on Maslow&#8217;s hierarchy. The frame it provides is more fluid, and the core assumption &#8211; that we are not locked into a lower level need in a binary way until it has been moved beyond &#8211; far more consistent with both behavioural research and general common sense. </p>
+<p>If you are interested in needs and motivations you will certainly come across Maslow; just make sure you also discover Alderfer&#8217;s ERG theory as &#8211; in our own research &#8211; it proves more theoretically valid as well as effective in application.</p>
+<p>The post <a href="http://facio.com/blog/2013/07/on-needs-and-motivation/">On needs and motivation</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/07/on-needs-and-motivation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Motivate and Validate</title>
+		<link>http://facio.com/blog/2013/03/motivate-and-validate/</link>
+		<comments>http://facio.com/blog/2013/03/motivate-and-validate/#comments</comments>
+		<pubDate>Tue, 05 Mar 2013 12:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[differences]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[motivations]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=929</guid>
+		<description><![CDATA[<p>Each of us have unique motivations, and it can be difficult to figure out what each of our needs might be. I have two primary professional motivations. The healthier of these is to see people I care about happy and &#8230; <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Motivate and Validate</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Each of us have unique motivations, and it can be difficult to figure out what each of our needs might be.</p>
+<p>I have two primary professional motivations. The healthier of these is to see people I care about happy and fulfilled, thanks in some significant part to things I&#8217;ve done. My pursuit is easy for others to see: as an entrepreneur, I set up my companies and workspaces in extremely employee-friendly ways. From our use of space to our policies and procedures to the way I engage with people one-on-one, it is obvious observing these entities that the people in charge are deeply committed to the holistic wellness and satisfaction of everyone there.</p>
+<p>Despite having an objective awareness of succeeding with this, hearing from people that they appreciate this has a significant impact. This week I had a call with a woman who was my assistant some years ago. She was excellent for us, and I genuinely like her. During the call, she mentioned that she often tells people about me, and how I was a great boss. Hearing this meant a lot! While I am generally uncomfortable with praise &#8211; particularly in public or in groups &#8211; and don&#8217;t need the positive reinforcement very often, this not only made my day, it made my week. Even though I <em>already know </em>without outside validation that I mostly succeed in making my employees feel valued and special, that little bit of heartfelt appreciation validated me and was a micro-celebration of what I set out to achieve.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Motivate and Validate" src="http://facio.com/wp-content/uploads/2013/03/InvoCbus_studio-e1362464934459.jpg" alt="Motivate and Validate" /><br />
+<figcaption>Our studio space is striking, but it was designed not for aesthetic reasons but its impact on our people.</figcaption>
+</figure>
+<p>Each of us has needs such as these. The trick is, we don&#8217;t typically talk about what they are, and figuring them out can be pretty complicated. Taking my example, someone could easily misinterpret the things I do with my companies and think, for example, that what validates me is creating pretty spaces. Or getting the most out of my employees. Or some other things that &#8211; if they gave me a compliment about it &#8211; would be a nice little warm fuzzy.</p>
+<p>But it wouldn&#8217;t rub that special place. For me it is not about the business benefit, or the trappings, it is about the human impact. That&#8217;s not something I talk about &#8211; although I surely do write about it! &#8211; and for a theoretical boss or co-worker to understand that motivation, put me in a position to pursue it, and give me an appropriate level of recognition for it is not likely. Similar to most people, my deepest inner drivers are somewhat opaque. Indeed, for me it is complicated by my extreme introversion. Since I am so overt about that introversion &#8211; which can make it &#8220;seem&#8221; like I don&#8217;t necessarily like or care about other people &#8211; it further obfuscates that motivation, which really means so much to me.</p>
+<p>What are your motivations? Do others really understand them? Do they validate you in the ways you need? What about the people you work with: do you really know what drives them?</p>
+<p>As much as culture, productivity and other buzzwords, this is important.</p>
+<p>The post <a href="http://facio.com/blog/2013/03/motivate-and-validate/">Motivate and Validate</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/03/motivate-and-validate/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/motivations/feed/ ) in 0.82268 seconds, on Dec 7th, 2014 at 9:14 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 7th, 2014 at 10:14 am UTC -->

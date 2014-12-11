@@ -1,0 +1,313 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Mon, 01 Dec 2014 08:17:23 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; professional development</title>
+	<atom:link href="http://facio.com/blog/tag/professional-development/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Keep it professional</title>
+		<link>http://facio.com/blog/2013/05/keep-it-professional/</link>
+		<comments>http://facio.com/blog/2013/05/keep-it-professional/#comments</comments>
+		<pubDate>Tue, 21 May 2013 12:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[relation]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1069</guid>
+		<description><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the &#8230; <a href="http://facio.com/blog/2013/05/keep-it-professional/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the needs of the individuals over the good of the group. To the contrary, high-performing businesses require low friction relationships, objectivity without being excessively personal, and a focus on shared goals instead of individual gratification. Sure, being friendly and caring about each other is an important aspect of high-functioning teams and strong cultures. Certainly not at a level that resembles that of a family, however. In fact, it is not uncommon for small companies to express the dysfunctions often on display in families, because their small size and static power relationships lend themselves to developing similar characteristics. The analogy has merit, it just isn&#8217;t the personality companies should be going for.</p>
+<p>We&#8217;ve all been told to &#8220;keep it professional,&#8221; or &#8220;it&#8217;s nothing personal,&#8221; or some other platitude related to maintaining objectivity and viewing our professionals behaviours as being distinctly removed from our personal selves. I remember a line in a movie where the actor said something like, &#8220;When someone tells you it&#8217;s not personal, that&#8217;s when you know it is very personal.&#8221; While a catchy line, it&#8217;s not particularly true. Yes, for the person being adversely impacted by whatever is happening, if they do not maintain an appropriate professional detachment, the disappointment or upset becomes a personal feeling. That is an error of framing by that individual. In fact, we need to be diligent to remember that it isn&#8217;t, or at least shouldn&#8217;t be, personal. Great businesses come from straddling the right side of that delicate line.</p>
+<p>Now, I&#8217;m not saying it&#8217;s easy. I remember more than one time when something that was happening in my professional life felt personal, I treated as personal, and in some cases reacted in inappropriate emotional ways. It took time and experience to adjust my expectations and reactions. More than part of my professional development, it was an aspect of my personal development. Thinking back on my career, I can&#8217;t think of any moment when my own or a colleague&#8217;s bring the personal into a distinctly professional situation was for the better.</p>
+<p>So make friends at work. Be yourself as much as is appropriate in the specific professional context you inhabit. Imbue your participation with that goodness. In addition, keep it professional. Remember that your employer is ultimately in business to make good business decisions, not necessarily give you the raise or promotion or ongoing employment you want or think you deserve. Your boss might need to let you go. She might still be your friend; it&#8217;s nothing personal. The challenge for you is to manage to keep it professional.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/keep-it-professional/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Let them fail</title>
+		<link>http://facio.com/blog/2013/05/let-them-fail/</link>
+		<comments>http://facio.com/blog/2013/05/let-them-fail/#comments</comments>
+		<pubDate>Tue, 07 May 2013 12:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1063</guid>
+		<description><![CDATA[<p>Let them fail High-achieving employees who combine a strong work ethic and good attention to detail tend to be hands-on managers. Typical, positive traits of good hands-on managers is their &#8220;showing&#8221; excellence in action to their employees, keeping their eye &#8230; <a href="http://facio.com/blog/2013/05/let-them-fail/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/let-them-fail/">Let them fail</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Let them fail" src="http://facio.com/wp-content/uploads/2013/06/Let-Them-Fail.png" alt="Let them fail" /><br />
+<figcaption>Let them fail</figcaption>
+</figure>
+<p>High-achieving employees who combine a strong work ethic and good attention to detail tend to be hands-on managers. Typical, positive traits of good hands-on managers is their &#8220;showing&#8221; excellence in action to their employees, keeping their eye on assignments and development plans, and pushing them to success. One of the down sides of this management style &#8211; that sometimes seems like a strength &#8211; is intervening to ensure their employees don&#8217;t fail.</p>
+<p>Yes, preventing a failure of some sort in the moment is good for the system and assignment &#8211; in the moment. The challenge is, people need to be trusted and empowered to see something through to completion. Whether they succeed or fail, the process of going to the end and the learnings that they take from that are invaluable. Sure, they are also learning when watching someone more seasoned do it for them. But the real learning requires both watching and doing. In the early going, the doing is going to be wrong.</p>
+<p>I know, I know: for people who pursue and achieve excellence it can be hard to watch that failing happen. But it is just part of the process. In the days of master craftsmen, it was understood that there would be some waste: of time, of materials. It was literally built into the expectations of the relationship with that apprentice. Just watching, no matter for how long, doesn&#8217;t get you all the way there. Those lessons so ingrained into generations of craftspeople have been lost as we all naturally careen through the workplace.</p>
+<p>The reality is, failing is important. For young professionals, for children, for all of us who are doing new things &#8211; part of evolving beyond ignorance and clumsiness is feeling what it is like to fall down. When we see others who are struggling to figure something out, it might be hard not to help. And certainly, sometimes helping is good and important. But sometimes, every now and then, we also need to let them fail.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/let-them-fail/">Let them fail</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/let-them-fail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Triangulating your career, Part 2</title>
+		<link>http://facio.com/blog/2013/04/triangulating-your-career-part-2/</link>
+		<comments>http://facio.com/blog/2013/04/triangulating-your-career-part-2/#comments</comments>
+		<pubDate>Tue, 16 Apr 2013 12:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1043</guid>
+		<description><![CDATA[<p>Last week we looked at the three big questions you should be asking yourself in order to make the best choices about your career. This week we will talk about when and why you should prioritize each of them. While, &#8230; <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-2/">Triangulating your career, Part 2</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Last week we looked at the three big questions you should be asking yourself in order to make the best choices about your career. This week we will talk about when and why you should prioritize each of them.</p>
+<p>While, ideally, all three of these things would be satisfied by the position we are currently in, this degree of alignment is unfortunately uncommon in the world today. So you should focus on making sure that two of them are being met, if at all possible. Here are the three combinations, and situations compatible with each:</p>
+<p>1. What do I want to be doing? What do I want from my job?</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Triangulating your career, Part 2" src="http://facio.com/wp-content/uploads/2013/04/Triangulating2.jpg" alt="Triangulating your career, Part 2" /><br />
+<figcaption>Triangulating your career, Part 2</figcaption>
+</figure>
+<p>This combination removes the ambition aspect. If you are not future-focused on your professional life, or not really into &#8220;a career&#8221;, you should focus on these two things. Performing tasks every day that you enjoy or, at least, don&#8217;t mind makes &#8220;work&#8221; something more than a four-letter word. It is worth holding out for this. Then, make sure your needs are being met by your employer. We all work for different reasons. For some of us, it is all about the Benjamins. For others, it is about working with people we like and being treated with respect. Actually, it is never just one thing. But figure out what the most important things are for you and get them.</p>
+<p>The bottom line with this combination is to spend your day doing things you like, and make sure you are getting the rewards and treatment you need from your employer.</p>
+<p>2. What do I want to be doing? Where do I want my career to take me?</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Triangulating your career, Part 2" src="http://facio.com/wp-content/uploads/2013/04/Triangulating2_2.jpg" alt="Triangulating your career, Part 2" /><br />
+<figcaption>Triangulating your career, Part 2</figcaption>
+</figure>
+<p>Here, you are least concerned with compensation, recognition and environmental aspects, focused on the things your job will have you do, and how it can position you for the future. In this case, you have a clear vision of where you want to go in the long run, and you are very focused on getting the experience and skills necessary to ascend to that point. While title is often important in these cases as well, you are largely foregoing a focus on compensation or ego needs in exchange for taking something you think is just what you need to advance.</p>
+<p>This is a good combination for young professionals, or for people reinventing themselves mid-career, or people with highly specific professional goals. This is how interns or apprentices should be thinking, aligning their day-to-day with the future in front of them.</p>
+<p>3. What do I want from my job? Where do I want my career to take me?</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Triangulating your career, Part 2" src="http://facio.com/wp-content/uploads/2013/04/Triangulating2_3.jpg" alt="Triangulating your career, Part 2" /><br />
+<figcaption>Triangulating your career, Part 2</figcaption>
+</figure>
+<p>This is the most future-focused configuration, as you de-prioritize the importance of what your job asks you to do and just make sure it has you on the proper long-term career path. Salary is often particularly important to this group as growing in one&#8217;s career is usually accompanied by ratcheting up your standard of living. In other cases, incentives such as the right title to be leveraged in the future, or working with or for famous or accomplished individuals and companies are big factors in making a decision. After all, if your job is to get Stephen Spielberg&#8217;s coffee, but if you&#8217;re able to negotiate a title like &#8220;Assistant Producer&#8221; in the deal, you&#8217;ve now worked on a movie with Stephen Spielberg. Needless to say there are worse things for one&#8217;s career.</p>
+<p>This is the terrain of the ambitious or just people very committed to &#8220;getting ahead&#8221; from where they are now. By focusing on that future, and your personal needs in the process, you can create the best chance to realize success.</p>
+<p>Now, don&#8217;t take this article to mean I don&#8217;t think you should try and have it all. Being mindful about these three aspects is the first step to achieving the proverbial &#8220;dream job&#8221;. However, from a practical perspective, unless your financial situation gives you no other choice, always ensure you are meeting at least two of these needs. It will help work to be a healthier part of your life, contribute to greater overall well-being, and put you in control of the impact your work has upon your life.</p>
+<p>The post <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-2/">Triangulating your career, Part 2</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/04/triangulating-your-career-part-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Triangulating your career, Part 1</title>
+		<link>http://facio.com/blog/2013/04/triangulating-your-career-part-1/</link>
+		<comments>http://facio.com/blog/2013/04/triangulating-your-career-part-1/#comments</comments>
+		<pubDate>Tue, 09 Apr 2013 12:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1039</guid>
+		<description><![CDATA[<p>&#160; Actively thinking about what you are looking for professionally will help your life better align with your needs and desires. When thinking about your career, there are three primary tensions that must be reconciled to crate satisfaction for yourself &#8230; <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-1/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-1/">Triangulating your career, Part 1</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Triangulating Your Career" src="http://facio.com/wp-content/uploads/2013/04/Triangulating.jpg" alt="Triangulating" /><br />
+<figcaption>Actively thinking about what you are looking for professionally will help your life better align with your needs and desires.</figcaption>
+</figure>
+<p>When thinking about your career, there are three primary tensions that must be reconciled to crate satisfaction for yourself professionally:</p>
+<p>&nbsp;</p>
+<p>1. What do I want to be doing?</p>
+<p>I remember at the start of my career, I didn&#8217;t really care what I was doing. I just wanted to get paid! As I got more experience, it became clear what I did &#8211; or, more frequently &#8211; did not want to do. For example, I learned that did not want to be a line cook. Or fill, pack and ship boxes. Or be a legal assistant. Or be a bartender. On the other hand, I kind of liked being a ghost writer. And I REALLY loved betting on horses at the track to make money, but my conservative middle class upbringing insured that I never seriously entertained spending my professional life doing that!</p>
+<p>Today, as an almost-fortysomething, I have a very clear idea of what I want to be doing and not doing. Writing, research, creative direction, executive leadership: yes. Sales, service, administration: no. Having a crisp understanding of what I do and do not want to do empowers me to make better decisions about jobs I want to take &#8211; or not.</p>
+<p>2. What do I want from my job?</p>
+<p>Money, title, responsibilities, benefits, perks, recognition, flex time, autonomy&#8230;the many things that aren&#8217;t literally what we do but critically frame our satisfaction in doing it. We learn that money and title are the big ones to negotiate for yet &#8211; while they are important &#8211; it is the other things that often cause us to leave or love what we are doing. As with the first point, these are very personal. For example, I am now accustomed to being an entrepreneur. For the last decade I&#8217;ve worked for myself. While I can see myself again working for someone else, now I would need some set of responsibilities, some domain over which I am the final decision maker. That&#8217;s vital to me. And far more than money or title, having that is the &#8220;dealbreaker&#8221;. It took me a long time to know that about myself. When I was younger, what I wanted out of the job was far less apparent to me and manifested in money or title. I still didn&#8217;t know myself, and that opacity also obfuscated my ability to figure out what I really wanted out of what I was doing.</p>
+<p>3. Where do I want my career to take me?</p>
+<p>This can also be called the &#8220;ambition factor&#8221;: for those who want to be a corporate CEO, it is huge. For those who like doing illustration and don&#8217;t want to do anything else, it can be largely irrelevant. It is about looking into the future and having an idea of where you hope to later be. This is another one that changes as we grow. In my case, when I first started my career, I had no sense of a specific place I wanted my career to end up at. Once I started getting on a track, however, I got the very specific notion of running my own company. This eventually transferred to the company itself, and having ideas about what I wanted that company to be. Finally, now that I&#8217;ve &#8220;made it&#8221;, this is a very small consideration for me. I don&#8217;t have any ego needs left here. And, I&#8217;ve reached a level and stature in my career where I should be able to &#8220;get a job&#8221; that pays a lot at any point. I don&#8217;t need to keep rising to create financial protection for myself and my family. Barring a total collapse of the economy and society, I&#8217;ve done all I need to do from the standpoint of ambition.</p>
+<p>Next week we will take these three factors and talk about how you can balance them in making good decisions for yourself in your own career.</p>
+<p>&nbsp;</p>
+<p>The post <a href="http://facio.com/blog/2013/04/triangulating-your-career-part-1/">Triangulating your career, Part 1</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/04/triangulating-your-career-part-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coaches: a smart investment</title>
+		<link>http://facio.com/blog/2013/04/coaches-a-smart-investment/</link>
+		<comments>http://facio.com/blog/2013/04/coaches-a-smart-investment/#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 12:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1023</guid>
+		<description><![CDATA[<p>The older I get, the more deeply I value the role of specialist coaches and consultants to get the most out of our people and organization. At first, investing in a coach or consultant can seem expensive. Comparing their hourly &#8230; <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Coaches: a smart investment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The older I get, the more deeply I value the role of specialist coaches and consultants to get the most out of our people and organization.</p>
+<p>At first, investing in a coach or consultant can seem expensive. Comparing their hourly rate to what you could hire someone for, or going down the logic trail of &#8220;I pay Bob big bucks already, if I need to pay these rates to a coach to get Bob on track then why is Bob here in the first place?&#8221; is a self-destructive exercise. Consider:</p>
+<p>First, each of us have strengths and weaknesses. So it is likely that many of us are in roles where our strengths are not being optimized and our weaknesses further exposed. Or, if we are, our weaknesses are going to spring up from time-to-time. The expectation that we should just be plug-and-play effective is unrealistic.</p>
+<p>Next, none of us are perfect. We have good days and bad; even good and bad weeks or months. While the &#8220;bad&#8221; periods are certainly not good for anyone &#8211; including our employer who presumably keeps paying us regardless &#8211; they should be expected. &#8220;Bob&#8221; in my above example may be struggling, but our simply expecting him to suck it up and improve since we&#8217;re paying him isn&#8217;t consistent with reality.</p>
+<p>Additionally, improving and actually contributing more than we are otherwise able takes an investment. This might be an investment of time or money, but either way something different needs to happen to be a catalyst for, well, different things starting to happen! Expecting it to happen through osmosis or because someone is given a pep talk (or development plan) is scattershot and puts the success or failure outside of your hands as a manager or employer.</p>
+<p>The great thing about a strong coach is that they bring the total package to the table: it is their time that goes into managing the development; it is their specialized expertise that makes the most of the development; it is their experience doing this with many other people that makes it likely the development is going to succeed.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Coaches: a smart investment" src="http://facio.com/wp-content/uploads/2013/03/Coach_300.jpg" alt="Coaches: a smart investment" /><br />
+<figcaption>When we hear the word &#8220;coach&#8221; it might conjure up images of someone with a whistle, but professional coaches can transform your employees and business.</figcaption>
+</figure>
+<p>I remember an employee who once worked for me. An extremely hard-working fellow, very nice and generally capable, he just didn&#8217;t seem able to &#8220;make it happen&#8221; in the things we were expecting of him. And, we didn&#8217;t really know how to properly guide or necessarily manage him. Despite the fact he was jut the kind of person we wanted in our organization, we were frustrated with him. We talked about letting him go. We couldn&#8217;t understand why he didn&#8217;t just &#8220;make it happen.&#8221; Instead of letting our frustration take us to the point of letting him go, we doubled down and provided him with a coach. He immediately began to excel. The coach&#8217;s combination of management attention and domain-specific guidance and expertise was transformative. Not only did his performance significantly improve, the coach told us he&#8217;s one of the strongest employees he&#8217;s ever worked with, an absolute model.</p>
+<p>If we hadn&#8217;t made the investment in the coach, it would have ended very differently. And, we paid less for the coach than paying a recruiter to replace our employee &#8211; with someone who likely would not have been the same kind of star &#8211; would have cost. Literally everyone won as the company&#8217;s bottom line benefitted, our culture was burgeoned from re-investing in someone everyone liked, and the employee&#8217;s potential was fully unlocked in way that were not just beneficial to success in his role but also to him personally.</p>
+<p>This is just one example, but it really illustrates the power a good coach can have. Yes, the hourly rate might seem high. Yes, our intuition might be that the employee should just &#8220;suck it up&#8221; and &#8220;get the job done&#8221;. These are just bad excuses. The investment in a good coach or consultant is an investment of vision. It is one of those uncommon things that is likely to have a positive impact on both your short-term bottom line and your long-term culture and employee wellness. If you have an employee who is generally a good fit, double-down on unlocking their potential.</p>
+<p>The post <a href="http://facio.com/blog/2013/04/coaches-a-smart-investment/">Coaches: a smart investment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/04/coaches-a-smart-investment/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting a Better Start: Serve and Explore</title>
+		<link>http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/</link>
+		<comments>http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 12:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=925</guid>
+		<description><![CDATA[<p>The two things we&#8217;ve talked about so far &#8211; teaching self-understanding from a young age, and channeling students earlier into more specific courses of study &#8211; require significant changes to the existing school systems, to say nothing of the shift &#8230; <a href="http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/">Getting a Better Start: Serve and Explore</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The two things we&#8217;ve talked about so far &#8211; teaching self-understanding from a young age, and channeling students earlier into more specific courses of study &#8211; require significant changes to the existing school systems, to say nothing of the shift away from math and science as the must-have, end-all-be-all courses of study for all university-bound students. What we are going to talk about today &#8211; giving service and exploring the world &#8211; would benefit from broad adoption but is a choice any young person can make today. And, most of them should.</p>
+<p>Some of us have a good idea the path we want to take when we get out of high school. Most of us don&#8217;t. More than just changing majors, many of us change schools. We don&#8217;t understand ourselves yet. We pick a big school because it&#8217;s where our father went, and we find that we don&#8217;t like the scale and pace only after we are living there and paying the sizable tuition. Or perhaps our guidance counselor channeled us into going there. Or our best friend picked first and we wanted to go the same place they were going. Or even we thought we knew what we wanted but, having lived a relatively sheltered life in the same home and city throughout our childhood, we didn&#8217;t know what would work for us at all.</p>
+<p>Making an expensive choice that is likely to be wrong isn&#8217;t the best way to get our adult life started.</p>
+<p>But there is another aspect to this. Here in the United States, most of our children and young adults have a very limited perspective of the world. Bombarded by biased media, programmed by the politics of our parents, and overly influenced by the immediate community that surrounds us, we have little idea what the world is really like and &#8211; consequently &#8211; our potential place in it.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Serve and Explore" src="http://facio.com/wp-content/uploads/2013/03/ServeandExplore.jpg" alt="Serve and Explore" /><br />
+<figcaption>There&#8217;s a big world out there. Getting to know it will help us to better understand ourselves.</figcaption>
+</figure>
+<p>Thanks to my upper middle class upbringing, I was able to take a three-week trip to India and Nepal as a 16 year old. It remains the most transformative experience of my life. Despite news images to the contrary, I vaguely thought that the world was suburban neighborhoods, abundances of food and goods, and not having to worry about your security. The bus ride after first landing in what we then called Bombay (today Mumbai) forever changed my view of the world. Immediately upon leaving the airport, as day was turning into night, there were people laying on the sides of the road. Lots of people. As in, hundreds if not thousands of people overall by the time we got to our hotel. That was only the first of many shocking experiences, from large packs of children begging for &#8220;chocolate&#8221;, to huge piles of feces and garbage in the streets, to scammers fooling tourists out of their money with vague illusions and &#8220;3-card monte&#8221;-style hustles in large number.</p>
+<p>This India trip is an extreme example, but since then I&#8217;ve traveled much of the world, from the slums and congestion of Brazil to the soaring mountains of rural Austria. Each experience teaches me, crucially, something important. Taken altogether, what I&#8217;ve learned without question, is that what JFK once so famously said is true:</p>
+<p><em>&#8220;Our most basic common link is that we all inhabit this planet. We all breathe the same air. We all cherish our children&#8217;s future. And we are all mortal.&#8221;</em></p>
+<p>We are all very, very different yet we share the powerful, essential similarities cited by JFK. The cultures, beliefs and lifestyles we each have are radically different. Not only does experiencing this first-hand make these facts actually palpable and realized, it allows us to incorporate these realities deeply into our worldview and understanding. In the process, we get a great deal closer to finding ourselves.</p>
+<p>So, back to serve and explore. The model that high school sophomores and juniors in today&#8217;s late starting, unchanneled world should know where they want to go to school and at least approximately what kind of program they want to go into is silly. Not only do they not know themselves very well, but they know very little about everyone else. Spending a year or two giving overseas service &#8211; be it military, civic or charitable &#8211; provides an essential window into the broader world beyond what we know in our privileged communities, and exposes us to practical, real-world skills that have relationships to jobs, industries and careers. They allow us to move beyond the books and the lectures and see what it is like to be part of a functioning system of professionals. Service in general but overseas in particular, at the point in our life where our foundation has been built and we are getting ready to blast off from that platform and into our adulthood, uniquely enables us to understand more about the world and ourselves, in ways that not only give us a better start but ultimately facilitate a better life.</p>
+<p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/">Getting a Better Start: Serve and Explore</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/02/getting-a-better-start-serve-and-explore/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting a Better Start: Channel Early</title>
+		<link>http://facio.com/blog/2013/02/getting-a-better-start-channel-early/</link>
+		<comments>http://facio.com/blog/2013/02/getting-a-better-start-channel-early/#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 12:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=922</guid>
+		<description><![CDATA[<p>I&#8217;m glad to be alive in this day and age. My skills are generally intellectual and persuasive in nature, and they lend themselves to a knowledge economy and democratic openness. The way &#8220;the system&#8221; is built aligns pretty well with &#8230; <a href="http://facio.com/blog/2013/02/getting-a-better-start-channel-early/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-channel-early/">Getting a Better Start: Channel Early</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m glad to be alive in this day and age. My skills are generally intellectual and persuasive in nature, and they lend themselves to a knowledge economy and democratic openness. The way &#8220;the system&#8221; is built aligns pretty well with who I am. In secondary school I was identified as someone talented and a high achiever. My skills were celebrated and I received considerable validation from teachers and other administrators.</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Getting a better start" src="http://facio.com/wp-content/uploads/2013/03/ChannelEarly.jpg" alt="Channel Early" /></p>
+<figcaption>Our education system is a hammer that thinks everyone one of us is a nail. Surely, we are not.</figcaption>
+</figure>
+<p>On the other hand were the lower performing students. Saddled with poor grades and branded with negative connotations, these students were taking generally the same program of study I was, yet it was clear that they were unlikely to be participants in the knowledge economy. Now, 20 years removed from high school, some of these specific peers have settled into jobs as auto mechanics, carpenters and factory workers. 1,000 years ago they would have become apprentices in a trade at a young age and received deep cultural respect; today, they were forced through an educational system of limited value to them. In the process they were made to feel diminished and unsuccessful. They were not the problem; the problem was a system that failed to account for who they uniquely are.</p>
+<p>While the difference between someone who is very intellectual and someone who is very physical in their gifts is an easy example, the greater nuance lies in those with more similarities. Take five random children and someday they will grow into specific professions. Let&#8217;s for the sake of a concrete example say that they develop into a philosopher, a movie director, a software engineer, a social worker and an administrator. At what point in their lives did they start &#8220;on the track&#8221; that led them to those outcomes? Maybe the director figured it out in junior high school, because she idolized Martin Scorsese. But the education system surely did little to support her. It clicked for the philosopher as a high school senior, when they took a course on philosophy. Most high schools don&#8217;t offer this, but he got lucky. The social worker wanted to be a nurse but realized in nursing school, which can be very expensive, it was not the right fit and started over in social work. The software engineer started taking physics in university, pretty quickly realized the career potential of software engineering, and simply changed her major. Too bad she wasn&#8217;t thinking of that as a possible career much younger, as she could have been writing code for a decade already. The administrator always vaguely knew that he wanted to &#8220;go into business&#8221; and followed the channel thru undergraduate and then an MBA. It turns out his skills really aren&#8217;t tuned for executive leadership and the MBA was thus largely a waste of money. But, he ended up approximately where he always thought he would be.</p>
+<p>There are many other examples we could choose. But what is notable here is, even in the best case, how late people really figured out what they were going to do, or the fact they were not supported academically in their interests until much later. Now, imagine how much different their lives would have been if:</p>
+<p>- The philosopher has been identified as a big idea person at a young age, exposed to philosophy (among other intellectual topics) before high school and takes courses more germane to that future throughout those years</p>
+<p>- The movie director were given a consistent thread of courses on topics like art direction, cinematography, writing and acting, alongside some more general courses</p>
+<p>- The software engineer&#8217;s aptitude for math and science were identified early, and they were exposed to those type of careers at a young age. They would take courses exposing them to the applied skills and activities of those professions &#8211; at an obviously rudimentary level &#8211; and they may have found software engineering much, much earlier</p>
+<p>- The social worker&#8217;s desire to help others and work in the broad medical field were compared with their skills and preferences, rooting out that they may be best actualized by more of a counseling, person-to-person relationship instead of the hands-on medical aspects of nursing. Beyond just preparatory classes they would have avoided wasting money in nursing school</p>
+<p>- The administrator could have developed a far more nuanced understanding for &#8220;being in business&#8221; as a youngster, and helped to explore different roles in the context of their skills. They would have entered university with a pretty clear vision of what business as a complicated, structural context looks like and the parts they would best fit into. They either may have enjoyed a much higher trajectory in their career as a result and made the most of their MBA program, or saved the $100,000 investment altogether</p>
+<p>We&#8217;re not used to thinking about channeling our young people like this. But what they would be learning would be no less age-appropriate than the general subjects they are exposed to in school today. The difference is that, instead of blindly tossing everyone into the same generic educational path we identify their diversity of preferences, skills and desires and cultivate those to give them the best possible foundation for who they are likely to become. It is a crucial aspect to getting a better start, and you can be sure the number of people who end up on the &#8220;wrong track&#8221; out of such methods will be orders of magnitude less than the poor people currently marooned and misdirected in our current, antiquated systems.</p>
+<p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-channel-early/">Getting a Better Start: Channel Early</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/02/getting-a-better-start-channel-early/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting a Better Start: Begin Early</title>
+		<link>http://facio.com/blog/2013/02/getting-a-better-start-begin-early/</link>
+		<comments>http://facio.com/blog/2013/02/getting-a-better-start-begin-early/#comments</comments>
+		<pubDate>Tue, 05 Feb 2013 12:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=878</guid>
+		<description><![CDATA[<p>. How old were you when you had a really crisp understanding of who you are? I was 25. I stumbled upon David Keirsey&#8217;s work, and it revealed to me &#8211; for the first time in my life &#8211; that &#8230; <a href="http://facio.com/blog/2013/02/getting-a-better-start-begin-early/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-begin-early/">Getting a Better Start: Begin Early</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://facio.com/blog/2013/01/getting-a-better-start-introduction/" title="Read the introduction to this short series" target="_blank"></a>.</p>
+<p>How old were you when you had a really crisp understanding of who you are? I was 25. I stumbled upon David Keirsey&#8217;s work, and it revealed to me &#8211; for the first time in my life &#8211; that there are structured ways of looking at and thinking about ourselves and each other. I&#8217;ve spent the next 15 years learning first about myself, then about others, and finally about the methods and frameworks in general. How old were you when you first started learning about human understanding? Have you ever really learned about it?</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Begin Early" src="http://facio.com/wp-content/uploads/2013/02/BeginEarly.jpg" alt="Math" /></p>
+<figcaption>Is learning about these things really more important than deeply understanding ourselves and one another?</figcaption>
+</figure>
+<p>It is surreal that physics, calculus, European history and &#8220;Brit Lit&#8221; are core parts of our secondary school curriculum yet core aspects of the self like introversion and extraversion, or the idea of having a realistic understanding of how others see you are arcane knowledge reserved for adults who are lucky or curious enough to stumble into them. We learn very clearly what makes an apple fall to the ground but have a clumsy understanding of who we are and how we fit into the world.</p>
+<p>Helping children understand who they are, and giving them language and frameworks for understanding different types of people and situations, is the most valuable knowledge we can give them. While the learnings we make in physics will benefit a miniscule percentage of our citizens, human understanding will benefit each and every one of us. While this series of articles is focused on people orienting themselves professionally &#8211; from secondary school through higher education and then onto a career &#8211; these skills also benefit us in our personal lives. And there is really no excuse not to: if we are capable of learning physics and calculus we are surely capable of some degree of inculcation in human understanding.</p>
+<p>It is more than just about general education of concepts, of course. From a young age, we need to beging collecting data and documenting aspects of our development. Once there is data from a lot of people and over time, we can determine what choices people made and how successful those choices were, from a standpoint of wealth, happiness and security &#8211; among other factors. From this we will have a tapestry by which to inform our perspective of how we can best be in the world. By starting at a young age, instead of blindly thrashing until we are adults, we can have some real grounding in who and how we are from the very beginning.</p>
+<p>Surely, knowing who we are is more important than memorizing the wives of Henry VIII and how each of them died.</p>
+<p>The post <a href="http://facio.com/blog/2013/02/getting-a-better-start-begin-early/">Getting a Better Start: Begin Early</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/02/getting-a-better-start-begin-early/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting a Better Start: Introduction</title>
+		<link>http://facio.com/blog/2013/01/getting-a-better-start-introduction/</link>
+		<comments>http://facio.com/blog/2013/01/getting-a-better-start-introduction/#comments</comments>
+		<pubDate>Tue, 29 Jan 2013 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[personal development]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=872</guid>
+		<description><![CDATA[<p>Not only are each of us very different, so are the various things we can end up doing in our lives. Did you know that 80% of college students change their majors? And the average college student changes their major &#8230; <a href="http://facio.com/blog/2013/01/getting-a-better-start-introduction/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/01/getting-a-better-start-introduction/">Getting a Better Start: Introduction</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Getting a better start" src="http://facio.com/wp-content/uploads/2013/02/GettingaBetterStart_3001.jpg" alt="Crayons" /><br />
+<figcaption>Not only are each of us very different, so are the various things we can end up doing in our lives.</figcaption>
+</figure>
+<p>Did you know that 80% of college students change their majors? And the average college student changes their major three times? While perhaps dismissed as &#8220;just part of the process&#8221;, it speaks to a process that is badly broken. I mean, think about it: when we are in high school we are already being driven to &#8220;choose&#8221;. That&#8217;s because the process of getting into university requires a vision and commitment when you are still just a relative child. It makes no sense, and that fooolishness plays out with people thrashing through their 18-22 years, many unable to get comfortable and making the realization that the path they picked isn&#8217;t the right one for them.</p>
+<p>Of course, the problem starts even earlier than that. Our degree of self-understanding as children and young adults is generally woeful. We simply are not in touch with who we are, much less who those around us are, which leads toward us muddling through our lives. A good teacher will inspire us and take us in a direction that we are not necessarily compatible with. An enthusiastic parent will make their interests ours without consideration of what would best fit each of us. An aptitude for a particular subject is translated into something tantamount to one&#8217;s life calling &#8211; when it might not be that at all.</p>
+<p>In the upcoming weeks we will look at three different ways that a re-thinking of how we treat children and young adults can lead those future citizens into lives that better resonate with their essential selves. For most of us, nothing in life is quite so wonderful as &#8220;fitting in&#8221;, whether that be with an academic program, a career, our circle of friends, or the person we choose to spend our lives with. Finding fit requires knowing ourselves. We&#8217;re going to talk about how we can help people from a much earlier age get a sense of who they are and how and where they fit.</p>
+<p>The post <a href="http://facio.com/blog/2013/01/getting-a-better-start-introduction/">Getting a Better Start: Introduction</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/01/getting-a-better-start-introduction/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Picking a job that fits</title>
+		<link>http://facio.com/blog/2013/01/picking-a-job-that-fits/</link>
+		<comments>http://facio.com/blog/2013/01/picking-a-job-that-fits/#comments</comments>
+		<pubDate>Tue, 22 Jan 2013 12:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[hiring]]></category>
+		<category><![CDATA[professional development]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=851</guid>
+		<description><![CDATA[<p>&#160; We often rush to find a new job in order to pay the bills. This can lead to poor job fit. Most of us have been in a &#8220;bad job&#8221; before. Some of us more than once. Some of &#8230; <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Picking a job that fits</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Picking a Job That Fits" src="http://facio.com/wp-content/uploads/2013/02/JobThatFits.jpg" alt="Phone" /></p>
+<figcaption>We often rush to find a new job in order to pay the bills. This can lead to poor job fit.</figcaption>
+</figure>
+<p>Most of us have been in a &#8220;bad job&#8221; before. Some of us more than once. Some of us, even as you are reading this! There are two general reasons why we end up in bad jobs: first, we need the income from our jobs in order to pay our bills and be a respected and participating member of society. In many cases, this makes us anxious to get A job, not choosy enough to hold out for THE job. Secondly, a general lack of understanding leads us into bad choices. Not understanding ourselves, not understanding the position or company, not understanding our manager or co-workers there. Most of the time when we take a new job we do so with only partial information. To some degree it is just a product of luck whether or not you happen into a good or bad job.</p>
+<p>&nbsp;</p>
+<p>While Facio is focused on the second of these issues, the problem of understanding, I want to focus today on the first: the pressure we are under to have a regular income. When we are between jobs, the pressure to find the next thing can be tremendous. More than just the financial pressure, we might be feeling rejected if we were let go from our previous job. Or, we might be hungry to begin showing a new employer how truly excellent we really are. Regardless of which of these motives are propelling our job search, it is underpinned by the unknown. We don&#8217;t know how many offers we are going to get. Or even if we are going to get offers. This leads us to try and twist ourselves to look attractive to each prospective employer we meet with, and get them to &#8220;say yes&#8221; to us. Once they do, we can be quick to say &#8220;yes&#8221; because it puts us into a position of perceived safety again. The uncertainty is over. We don&#8217;t need to worry if we&#8217;re going to get another offer. Someone wants us, and the financial and psychological pressures can all be released.</p>
+<p>The problem is that the first job that wants us isn&#8217;t necessarily the right one. Imagine if we treated our romantic relationships that way, that the first person to show an interest in being with us we sign a contract and move in with one another. It sounds silly, but that is what we are often doing when we take a new job. The research we do is circumspect. We go to the interviews, we dance and sing, we give them our three best references who are also personal friends and will make us sound like superstars. But our research into the position and the people we would be working with is rarely so thorough. We&#8217;re just happy that they said &#8220;yes&#8221;. We can stop paying our rent out of savings; we can begin redeeming ourselves from that bad last position.</p>
+<p>Over our adult lives we will spend more than a quarter of our lives working. That is a large chunk. We need to view our jobs and employers during that time as needing to align with who we are. The tasks we do should either be helping us learn or be something we enjoy. The people we work with should be compatible with who we are and how e function. The companies we work for should have values and impact that resonate with our authentic selves. The pull to simply make sure that someone, anyone accepts us is a strong one. The financial pressure is very real, and the psychological pressure feels pointed as well. But picking the wrong position is ultimately a significant negative. Not only does it waste the moments of our lives, it ostensibly will end up with our uncomfortably leaving yet another position and going back on the hunt yet again.</p>
+<p>As wise craftsmen sagely espouse, measuring twice and cutting once might seem to take a little longer. but it ultimately results in better outcomes.</p>
+<p>The post <a href="http://facio.com/blog/2013/01/picking-a-job-that-fits/">Picking a job that fits</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/01/picking-a-job-that-fits/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/professional-development/feed/ ) in 0.70419 seconds, on Dec 8th, 2014 at 8:17 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 8th, 2014 at 9:17 am UTC -->

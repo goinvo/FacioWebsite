@@ -1,0 +1,209 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:56:30 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; behaviours</title>
+	<atom:link href="http://facio.com/blog/tag/behaviours/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Maneuver and dance</title>
+		<link>http://facio.com/blog/2012/12/maneuver-and-dance/</link>
+		<comments>http://facio.com/blog/2012/12/maneuver-and-dance/#comments</comments>
+		<pubDate>Tue, 11 Dec 2012 17:32:20 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[Relationships]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=838</guid>
+		<description><![CDATA[<p>I recently read a story about maligned Detroit Lions football player Ndamukong Suh. After an ugly incident where he stomped on another player, Suh has subsequently been attached to other unflattering stories, including a road rage incident and – maybe &#8230; <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Maneuver and dance</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>I recently read a story about maligned Detroit Lions football player Ndamukong Suh. After an ugly incident where he stomped on another player, Suh has subsequently been attached to other unflattering stories, including a road rage incident and – maybe accidentally, maybe intentionally – kicking an opposing player in the groin. He is derided as the “most hated” player in the National Football League by his fellow players.</p>
+<p>Now, I do not have enough information about Suh to comment on whether he is misunderstood or really deserving of the ire. However, in reading a thoughtful article that made the case he is, in fact, misunderstood there was an inadvertent focus on his being introverted. Many introverted people express feeling misunderstood, and Suh is no exception. He said:</p>
+<p><em>“There’s no question that statement from my mom is accurate. If I want to share something with you, I’ll share it with you, but don’t try to pull anything out of me because that’s when you’ll get the opposite effect. I don’t openly rebel. I quietly rebel. My mom is one of the few people who knows how to maneuver around my personality to get the answers she wants. But for everyone else, that’s just the way I am. You’re gonna have to either take it or leave it.” </em></p>
+<p>I like how he used the word “maneuver” here. The essence of getting along well with other people is understanding them well enough to know how you should move and around them. It is like dancing except – whereas in dancing you have very specific and generally objective steps – interacting smoothly with others is closer to black magic. The reason is we just don’t know each other well enough.</p>
+<p>&nbsp;</p>
+<figure class="alignleft" style="width: 300px;"><img class="alignnone size-full wp-image-488" title="Maneuver and Dance" src="http://facio.com/wp-content/uploads/2013/01/Maneuver-and-dance2.jpg" alt="Phone" /><br />
+<figcaption>Gracefully moving with and around one another is essential to strong relationships.</figcaption>
+</figure>
+<p>Suh’s mother maneuvers around him successfully because she knows him as well as anyone. She watched him grow up, perhaps seeing the same things in herself, or Suh’s father, and leverages her knowledge to co-exist with him better. However, when Suh gets in other situations with people who don’t know him as well, the opportunity for misunderstanding, discomfort and disconnection becomes ripe. While his being a complicated person might exacerbate the issue, we routinely misunderstand and dance clumsily with each other every day.</p>
+<p>&nbsp;</p>
+<p>Few things feel as good or are rewarding as knowing people well enough that we dance seamlessly with them during our time together. The challenge is, getting there typically requires a good deal of time together, along with vulnerability and trust. These things are not easy individually, much less altogether. It is why we ultimately resonate with so few people, and our lives are ostensibly laced with suboptimal relationships and moments. At Facio, our core mission is helping people understand each other. The things we are building and doing are designed specifically with that in mind. We want people to understand each other, to dance gracefully with each other, and maneuvering around our essential selves in nimble and considerate ways.</p>
+<p>The post <a href="http://facio.com/blog/2012/12/maneuver-and-dance/">Maneuver and dance</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/12/maneuver-and-dance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Applying Facio Behavioural, Part 5 &#8211; Bringing Everything Together</title>
+		<link>http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/</link>
+		<comments>http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 12:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+		<category><![CDATA[preferences]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=363</guid>
+		<description><![CDATA[<p>Now that we&#8217;ve looked at four core ways for analyzing Facio Behavioural results, let&#8217;s step back and consider how they work together: Methodologically, Facio Behavioural identifies success and opportunity via alignment. That is, the better aligned†any†of the constituent data is, &#8230; <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/">Applying Facio Behavioural, Part 5 &#8211; Bringing Everything Together</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Now that we&#8217;ve looked at four core ways for analyzing Facio Behavioural results, let&#8217;s step back and consider how they work together:</p>
+<p>Methodologically, Facio Behavioural identifies success and opportunity via alignment. That is, the better aligned†<strong>any</strong>†of the constituent data is, the healthier and more appropriate an individual&#8217;s behaviour is. Conversely, the more disparities there are, the more potential difficult nuances there may be with that person&#8217;s behaviour, and/or their ability to develop in different ways if that would be appropriate.</p>
+<h2>High Self-Satisfaction</h2>
+<p>Someone with a high degree of self-satisfaction who either exhibits an unrealistic self-perception, or has a large behavioural gap, may have difficulty acknowledging they should consider development, much less actively pursue it.</p>
+<figure style="width: 412px; margin: 0px auto;"><img class="alignnone size-full wp-image-614" style="margin-bottom: 10px;" title="High Self Satisfaction" src="http://facio.com/wp-content/uploads/2012/08/high_self_satisfaction2.jpg" alt="High Self Satisfaction" width="412" height="252" /><br />
+<figcaption>This person is happy with their work style, as are those they work with. But others perceive them much differently than they see themselves.</figcaption>
+</figure>
+<p>&nbsp;</p>
+<h2>Realistic Self-Perception</h2>
+<p>A person with realistic self-perception and a low degree of self-satisfaction may indicate someone very ready for development, or someone unable to develop in that area. Those are two very different things, and here you can bring in Gap Alignment to help ferret out which is more likely. Meanwhile, someone with a realistic self-perception who also has a large behavioural gap may not understand what the people around them or the context they are participating in really require from them. In that case they will first need some re-framing and new contextualization before development is likely to be successful.</p>
+<figure style="width: 452px; margin: 0px auto;"><img class="alignnone size-full wp-image-617" style="margin-bottom: 10px;" title="Low Self Satisfaction" src="http://facio.com/wp-content/uploads/2012/08/low_self_satisfaction2.jpg" alt="Low Self Satisfaction" width="412" height="252" /><br />
+<figcaption>This person has a remarkably realistic self-perception, both for how they are and how they contextually should be.</figcaption>
+</figure>
+<p>&nbsp;</p>
+<h2>Small Behavioural Gap</h2>
+<p>An individual with a small behavioural gap and low self-satisfaction may indicate the person is operating in ways that are uncomfortable for them. This realization can lead to significant personal development, but also the specter of potentially massive &#8211; and frightening &#8211; personal change. This can, in part, be validated by checking their Facio Preference results and seeing if the behaviour in question is indeed against preference.</p>
+<figure><img class="alignnone size-full wp-image-625" title="Perceiver" src="http://facio.com/wp-content/uploads/2012/08/small-behaviour4.jpg" alt="Perceiver" width="600" height="229" /><br />
+<figcaption>Considering the previous person, when considering they are an MBTI perceiver, developing a more relaxed work style will probably make them happier, as well as more effective.</figcaption>
+</figure>
+<p>A person with a small behavioural gap and an unrealistic self-perception will likely need some reinforcement of how they are seen by others being quite different than how they see themselves. While they should be pre-disposed to agreeing with the development path there may be some pre-work to ensure they have a proper frame for the situation.</p>
+<p>Hopefully this overview of Facio Behavioural gives some insight into how powerful Facio can be, along with providing guidance and tools to unlocking it. While Facio is designed to allow the curious and honest explorers among us to work on self-development very aggressively, the real magic is often found when an experienced coach or counselor uses Facio with others. The combination of an objective perspective with training and experience in its use are truly powerful. Be well!</p>
+<p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/">Applying Facio Behavioural, Part 5 &#8211; Bringing Everything Together</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/08/applying-facio-behavioural-part-5-bringing-everything-together-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Applying Facio Behavioural, Part 4 &#8211; Gap Alignment</title>
+		<link>http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/</link>
+		<comments>http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/#comments</comments>
+		<pubDate>Tue, 21 Aug 2012 12:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=361</guid>
+		<description><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports is the topic of Gap Alignment. This deals with a comparison of the difference between the self-actual and self-ideal with the others-actual and others-ideal. What you are looking for here is agreement &#8230; <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/">Applying Facio Behavioural, Part 4 &#8211; Gap Alignment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports is the topic of Gap Alignment. This deals with a comparison of the difference between the self-actual and self-ideal with the others-actual and others-ideal. What you are looking for here is agreement or disagreement in order to add nuance to other aspects of Facio Behavioural.</p>
+<figure style="width: 300px;" class="alignleft"><a href="http://facio.com/wp-content/uploads/2012/07/behaviour_task_completion.jpg"><img class="alignnone size-medium wp-image-495" title="Facio Behaviours - Task Completion" src="http://facio.com/wp-content/uploads/2012/07/behaviour_task_completion-300x184.jpg" alt="Facio Behaviours - Task Completion" width="300" height="184" />Click to view</a><br />
+<figcaption>Even though others&#8217; see me as being far less deadline driven than I see myself, we all agree: I would benefit from being more early starting.</figcaption>
+</figure>
+<p>While your conclusions and analysis may different depending on the degrees of difference in each case, in general, if both the self and others are reporting that they would ideally like to change in the same direction, this is a nice way to validate with the person that the change they would like to see in themselves is also identified by others. This is valuable because it is absolute: regardless of any of the other behavioural indicators, there is agreement that the person should probably be more of one thing and less of another. That development path is clear. At the same time, when the individual would like to change in the opposite direction from what others are suggesting, it is a more nuanced analysis depending on the other system considerations. We will address these in our next and final installment.</p>
+<p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/">Applying Facio Behavioural, Part 4 &#8211; Gap Alignment</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/08/applying-facio-behavioural-part-4-gap-alignment-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Applying Facio Behavioural, Part 3 &#8211; Behavioural Gap</title>
+		<link>http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/</link>
+		<comments>http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/#comments</comments>
+		<pubDate>Tue, 14 Aug 2012 12:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=359</guid>
+		<description><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports, let&#8217;s now take a look at the question of Behavioural Gap. This is determined by comparing the others-actual and others-ideal results. It provides an aggregate perspective indicating how and how much people &#8230; <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/">Applying Facio Behavioural, Part 3 &#8211; Behavioural Gap</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports, let&#8217;s now take a look at the question of Behavioural Gap. This is determined by comparing the others-actual and others-ideal results. It provides an aggregate perspective indicating how and how much people you work closely with think you should change you behaviour in order to be more effective in your role. This is perhaps the most immediately valuable way of using Facio Behavioural, providing a quick and straightforward indication of where development gaps might be.</p>
+<figure style="width: 300px;" class="alignleft"><a href="http://facio.com/wp-content/uploads/2012/07/behaviour_work_process.jpg"><img class="alignnone size-medium wp-image-496" title="Facio Behaviours - Work Process" src="http://facio.com/wp-content/uploads/2012/07/behaviour_work_process-300x184.jpg" alt="Facio Behaviours - Work Process" width="300" height="184" />Click to view</a></p>
+<figcaption>Others see my approach to process as being highly structured. They suggest, given my role, I should be somewhat more fluid.</figcaption>
+</figure>
+<p>When the others-actual and others-ideal have a difference of less than one, it indicates that other people think this way you are behaving is correct and appropriate given your role. When the others-actual and others-ideal is between one and two, it indicates that other people identify this behavioural aspect as a small-to-moderate gap. Most likely this indicates it is an area for which development would be beneficial to the role the person has at their organization, but is not a significant problem. However, when the others-actual and others-ideal is greater than two, this indicates a set of behaviours that your colleagues are clearly identifying as representing a gap between how you are functioning and how they believe you would be best able to fill your role. This is a definite development area to explore.</p>
+<p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/">Applying Facio Behavioural, Part 3 &#8211; Behavioural Gap</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/08/applying-facio-behavioural-part-3-behavioural-gap-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Applying Facio Behavioural, Part 2 &#8211; Realistic Self-Perception</title>
+		<link>http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/</link>
+		<comments>http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/#comments</comments>
+		<pubDate>Tue, 07 Aug 2012 12:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=357</guid>
+		<description><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports, today we are going to look at Realistic Self-Perception. Considering behavioural results for this requires comparing one&#8217;s self-actual results with the others-actual results provided by those who have worked with them closely. &#8230; <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/">Applying Facio Behavioural, Part 2 &#8211; Realistic Self-Perception</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Continuing the series on analyzing Facio behavioural reports, today we are going to look at Realistic Self-Perception. Considering behavioural results for this requires comparing one&#8217;s self-actual results with the others-actual results provided by those who have worked with them closely.</p>
+<figure style="width: 300px;" class="alignleft"><a href="http://facio.com/wp-content/uploads/2012/07/behaviour_work_style.jpg"><img class="alignnone size-medium wp-image-497" title="Facio Behaviours - Work Style" src="http://facio.com/wp-content/uploads/2012/07/behaviour_work_style-300x184.jpg" alt="Facio Behaviours - Work Style" width="300" height="184" />Click to view</a></p>
+<figcaption>I see myself as somewhat serious at work, and my colleagues agree.</figcaption>
+</figure>
+<p>This comparison helps you understand how realistically they see themselves compared to how others report their behaviour. Criteria where the self-actual and others-actual are identical or within one of one another indicates the individual has a likely realistic self-perception. When the self-actual and others-actual have a difference greater than one but less than three, they likely have a somewhat unrealistic understanding of how they actually are behaving. When the self-actual and others-actual have a difference of three or greater, the individual likely has a significantly unrealistic understanding of how they are actually behaving.</p>
+<p>This is a relatively straightforward measure and one that, while it can be combined with other aspects of Facio Behavioural, tells quite a story on its own. Without exception, having a realistic self-perception is a good thing. Even in cases where you or others are dissatisfied with your actual behaviour, simply having an accurate picture of how you actually behave is a powerful and positive thing, reinforcing a basis for successful change, or reflecting a person with strong overall alignment.</p>
+<p>The post <a href="http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/">Applying Facio Behavioural, Part 2 &#8211; Realistic Self-Perception</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/08/applying-facio-behavioural-part-2-realistic-self-perception-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Applying Facio Behavioural, Part 1 &#8211; Self-Satisfaction</title>
+		<link>http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/</link>
+		<comments>http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/#comments</comments>
+		<pubDate>Tue, 31 Jul 2012 12:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+		<category><![CDATA[preferences]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=355</guid>
+		<description><![CDATA[<p>Facio behavioural reports are powerful, versatile tools in the development process. Not only do they offer strong, direct 1-to-1 development with the self-assessment but the 360 aspect adds extra layers of richness and insight. Facio Behavioural can be used either &#8230; <a href="http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/">Applying Facio Behavioural, Part 1 &#8211; Self-Satisfaction</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://fac.io/report/4f75192b713be629f400001c/behaviours/1axis/" target="_blank">Facio behavioural reports</a> are powerful, versatile tools in the development process. Not only do they offer strong, direct 1-to-1 development with the self-assessment but the 360 aspect adds extra layers of richness and insight. Facio Behavioural can be used either in conjunction with one&#8217;s Myers-Briggs style preferences &#8211; creating a powerful view into the intersection between preferences and behaviours &#8211; or as a stand-alone tool used with any other preferred methodologies.</p>
+<p>In this five part series we will look at a variety of ways one can review reports from Facio Behavioural and use the results toward productive development for yourself, or others you are working with. The first aspect we will look at is Self-Satisfaction, which you determine from comparing one&#8217;s self-actual and self-ideal results.</p>
+<figure style="width: 300px;" class="alignleft"><a href="http://facio.com/wp-content/uploads/2012/07/behaviour_personality.jpg"><img class="size-medium wp-image-494" title="Facio Behaviours - Personality" src="http://facio.com/wp-content/uploads/2012/07/behaviour_personality-300x184.jpg" alt="Facio Behaviours - Personality" width="300" height="184" />Click to view</a></p>
+<figcaption>I would very much like to be more outgoing. Unfortunately extraverted behaviours make me uncomfortable.</figcaption>
+</figure>
+<p>This comparison gives you an indication of how comfortable the person is in their own skin, insofar as each, specific professional aspect being reviewed is concerned. Criteria where the self-actual and self-ideal are the same or within one of each other indicates the person is largely satisfied with how they behave in this context. When the self-actual and self-ideal is two the person is somewhat dissatisfied with how they are behaving. Criteria where the self-actual and self-ideal are separated by three or greater is exhibiting significant dissatisfaction with how they are behaving.</p>
+<p>Getting the most of Self-Satisfaction requires considering it with other aspects of Facio Behavioural, which will be covered in subsequent articles. The final article, Part 5, will look at how to consider these aspects together as a system.</p>
+<p>The post <a href="http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/">Applying Facio Behavioural, Part 1 &#8211; Self-Satisfaction</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/07/applying-facio-behavioural-part-1-self-satisfaction-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>On behaviours, preference and skills</title>
+		<link>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/</link>
+		<comments>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/#comments</comments>
+		<pubDate>Tue, 05 Jun 2012 12:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[behaviours]]></category>
+		<category><![CDATA[Infovis]]></category>
+		<category><![CDATA[preferences]]></category>
+		<category><![CDATA[skills]]></category>
+		<category><![CDATA[understanding]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=331</guid>
+		<description><![CDATA[<p>One of the most difficult parts of understanding yourself is first being aware of, then being attuned to the relationships between, your behaviours, skills and preferences. While there are a variety of tools for measuring these aspects independently, we have &#8230; <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">On behaviours, preference and skills</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>One of the most difficult parts of understanding yourself is first being aware of, then being attuned to the relationships between, your behaviours, skills and preferences. While there are a variety of tools for measuring these aspects independently, we have not found any tools that integrate them in a useful way. That&#8217;s what our <a href="https://fac.io/report/4f75192b713be629f400001c/blended/spider/" target="_blank">blended report</a> is for. Still, while getting the data is a big part of finding your way to understanding, it really helps to have a basic idea of what you&#8217;re looking at. So let&#8217;s talk a little about these three aspects of the individual and how they work together:</p>
+<p>Behaviours are what we actually do in the world. They are how we act, and interact. In some real way they are who we really are to other people: they only know what they are able to see.</p>
+<p>Preferences are our inherent comfort levels. They reflect how we most prefer things to be, regardless of how they really are. Often times other people aren&#8217;t aware of our preferences; in fact sometimes even we aren&#8217;t aware of our preferences!</p>
+<p>Skills are the abilities we have to function in different ways. We may or may not exercise them at a given moment or in a situation, but they provide a framework for what we are or are not able to do.</p>
+<p>While each of those are interesting in and of themselves, deeper insight begins at their intersections. Consider:</p>
+<figure style="width: 300px;" class="left"><a href="http://facio.com/wp-content/uploads/2012/06/beh_pref_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-582" title="Facio Behaviours &amp; Preferences" src="http://facio.com/wp-content/uploads/2012/06/beh_pref_other_snapshot1-300x283.jpg" alt="" width="300" height="283" />Click to view</a></p>
+<figcaption>While I allow my natural Introversion to come out with people I work closely with, I behave much more like a Thinker than the natural Feeler that I am.</figcaption>
+</figure>
+<p>Behaviours and Preferences. Considering these two together give you an indication a to how much a person is functioning within their natural comfort levels. While we homo sapiens are a tough and resilient lot that can successfully behave in ways that are not consistent with our natural preferences, it is generally not the healthiest and happiest way for us to be. Identifying misalignment between behaviours and preferences can help people gain awareness and understanding of aspects of their life that might be unknowingly contributing stress and discomfort. While valuable on an everyday basis it can be particularly informative as people are ready to change teams or jobs or even careers, helping them to more proactively define engagements and environments that align their personal comfort levels for what and how they are performing their responsibilities.</p>
+<figure style="width: 300px;" class="right"><a href="http://facio.com/wp-content/uploads/2012/06/beh_skill_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-584" title="Facio Behaviours &amp; Skills" src="http://facio.com/wp-content/uploads/2012/06/beh_skill_other_snapshot1-300x281.jpg" alt="" width="300" height="281" />Click to view</a></p>
+<figcaption>Despite my strongly Introverted behaviour, my solid skills around communication and interaction come through.</figcaption>
+</figure>
+<p>Behaviours and Skills. When viewing these two together you are able to get a sense not just of what the person is doing, but also some degree of how well they are doing it. People with very strong skills in a particular area &#8211; say, communication &#8211; will often have behaviours that are harder to pin down with specificity. Why? Their skill in that area allows them to communicate in the way most appropriate to the situation or people they need to interact with. On the other hand, when someone&#8217;s skill is very high and their behaviours are more extreme and specifically defined, they are likely very skilled at a particular method or style of communication but not necessarily adept at customizing for different situations. They just have their way, and do it extremely well.</p>
+<figure style="width: 300px;" class="left"><a href="http://facio.com/wp-content/uploads/2012/06/pref_skill_other_snapshot1.jpg"><img class="alignnone size-medium wp-image-585" title="Facio Preferences &amp; Skills" src="http://facio.com/wp-content/uploads/2012/06/pref_skill_other_snapshot1-300x284.jpg" alt="" width="300" height="284" />Click to view</a></p>
+<figcaption>Strong skills working across Thinking and Feeling preferences, in this specific area, indicates an ability to shift against preference for the greater good.</figcaption>
+</figure>
+<p>Preferences and Skills. Analyzing these two together can provide valuable insight into the relationship between what someone is comfortable with and what they are good at. Often times, these things line up. We naturally gravitate toward things that make us comfortable, and in the process become better at those things through repetition. However there are also times where our preferences and skills look very different. This can be due to a number of factors, including our inherent strengths and weaknesses or gaining skills to better succeed or fit into our environments. Alignment between preferences and skills can provide insight into how people might react in certain situations. Major differences between preferences and skills may reflect a person who has worked hard to succeed in ways not naturally comfortable for them, but which seemed necessary.</p>
+<p>Of course, bringing all three together provides even deeper opportunities for analysis and insight. In a later update I will use my own profile to share some examples of the power and potential of that. Have a great rest of the day!</p>
+<p>The post <a href="http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/">On behaviours, preference and skills</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2012/06/on-behaviours-preference-and-skills/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/behaviours/feed/ ) in 0.42607 seconds, on Dec 5th, 2014 at 9:56 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:56 am UTC -->

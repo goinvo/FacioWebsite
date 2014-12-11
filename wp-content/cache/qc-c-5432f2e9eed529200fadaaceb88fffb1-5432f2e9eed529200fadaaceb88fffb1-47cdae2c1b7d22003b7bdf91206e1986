@@ -1,0 +1,45 @@
+a:9:{i:0;s:24:"X-Powered-By: PHP/5.3.29";i:1;s:38:"Expires: Fri, 28 Nov 2014 09:58:37 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:39:"X-Pingback: http://facio.com/xmlrpc.php";i:5;s:44:"Last-Modified: Mon, 25 Nov 2013 16:01:12 GMT";i:6;s:40:"ETag: "39d011d9b9bfb0c4e9d1e344589a58a2"";i:7;s:28:"X-Robots-Tag: noindex,follow";i:8;s:37:"Content-Type: text/xml; charset=UTF-8";}<!--headers--><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Facio &#187; relation</title>
+	<atom:link href="http://facio.com/blog/tag/relation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://facio.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2013 16:01:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.5</generator>
+	<item>
+		<title>Keep it professional</title>
+		<link>http://facio.com/blog/2013/05/keep-it-professional/</link>
+		<comments>http://facio.com/blog/2013/05/keep-it-professional/#comments</comments>
+		<pubDate>Tue, 21 May 2013 12:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Dirk]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[professional development]]></category>
+		<category><![CDATA[relation]]></category>
+
+		<guid isPermaLink="false">http://facio.com/?p=1069</guid>
+		<description><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the &#8230; <a href="http://facio.com/blog/2013/05/keep-it-professional/">Continue reading <span class="meta-nav">&#8594;</span></a></p><p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>It is common for small businesses to say &#8220;We&#8217;re really more like a family.&#8221; While well intentioned, the analogy is not particularly flattering. Even relatively happy families have complicated interpersonal conflict, are emotionally charged, and get caught up in the needs of the individuals over the good of the group. To the contrary, high-performing businesses require low friction relationships, objectivity without being excessively personal, and a focus on shared goals instead of individual gratification. Sure, being friendly and caring about each other is an important aspect of high-functioning teams and strong cultures. Certainly not at a level that resembles that of a family, however. In fact, it is not uncommon for small companies to express the dysfunctions often on display in families, because their small size and static power relationships lend themselves to developing similar characteristics. The analogy has merit, it just isn&#8217;t the personality companies should be going for.</p>
+<p>We&#8217;ve all been told to &#8220;keep it professional,&#8221; or &#8220;it&#8217;s nothing personal,&#8221; or some other platitude related to maintaining objectivity and viewing our professionals behaviours as being distinctly removed from our personal selves. I remember a line in a movie where the actor said something like, &#8220;When someone tells you it&#8217;s not personal, that&#8217;s when you know it is very personal.&#8221; While a catchy line, it&#8217;s not particularly true. Yes, for the person being adversely impacted by whatever is happening, if they do not maintain an appropriate professional detachment, the disappointment or upset becomes a personal feeling. That is an error of framing by that individual. In fact, we need to be diligent to remember that it isn&#8217;t, or at least shouldn&#8217;t be, personal. Great businesses come from straddling the right side of that delicate line.</p>
+<p>Now, I&#8217;m not saying it&#8217;s easy. I remember more than one time when something that was happening in my professional life felt personal, I treated as personal, and in some cases reacted in inappropriate emotional ways. It took time and experience to adjust my expectations and reactions. More than part of my professional development, it was an aspect of my personal development. Thinking back on my career, I can&#8217;t think of any moment when my own or a colleague&#8217;s bring the personal into a distinctly professional situation was for the better.</p>
+<p>So make friends at work. Be yourself as much as is appropriate in the specific professional context you inhabit. Imbue your participation with that goodness. In addition, keep it professional. Remember that your employer is ultimately in business to make good business decisions, not necessarily give you the raise or promotion or ongoing employment you want or think you deserve. Your boss might need to let you go. She might still be your friend; it&#8217;s nothing personal. The challenge for you is to manage to keep it professional.</p>
+<p>The post <a href="http://facio.com/blog/2013/05/keep-it-professional/">Keep it professional</a> appeared first on <a href="http://facio.com">Facio</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://facio.com/blog/2013/05/keep-it-professional/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- This Quick Cache file was built for (  facio.com/blog/tag/relation/feed/ ) in 0.43274 seconds, on Dec 5th, 2014 at 9:58 am UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Dec 5th, 2014 at 10:58 am UTC -->
